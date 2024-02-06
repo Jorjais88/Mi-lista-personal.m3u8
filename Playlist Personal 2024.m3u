@@ -128,6 +128,8 @@ https://video.live.com.bo:3731/live/tvuumsalive.m3u8
 #EXTINF:-1 tvg-id="UPEA TV" tvg-logo="https://serviciopagina.upea.bo/InstitucionUpea/LinksExternos/6b500767-6b15-4b30-a72e-b98927089cdd.jpg" group-title="",UPEA TV
 https://tvstream.upea.bo/hls/H78svDrtRWIhJhs43909.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DMMpzcd/palenque-tv-hd.jpg" group-title="CANALES DE BOLIVIA",PALENQUE TV HD
+https://tv.bitstreaming.net:3234/multi_live/play_720.m3u8
 
 #EXTINF:-1 tvg-id="BoliviaTV.bo" tvg-logo="https://i.imgur.com/1WDGT0p.png" group-title="General",Bolivia TV
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
@@ -309,6 +311,9 @@ https://cp.panelchs.com:1936/8156/8156/playlist.m3u8
 #EXTINF:-1 tvg-id="ImagenUniversalTV.do" tvg-logo="https://i.imgur.com/DP6HmDV.png" group-title="Undefined",Imagen Universal TV
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 
+#EXTINF:-1 tvg-id="ActivaTV.es" tvg-logo="https://i.imgur.com/VCUZKiw.png" group-title="Music",Activa TV (720p)
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+
 
 
 MUSICALES
@@ -322,12 +327,9 @@ https://canal.mediaserver.com.co/live/telemusica.m3u8
 #EXTINF:-1 tvg-id="88Stereo.cr" tvg-logo="https://i.imgur.com/i3YwORV.png" group-title="Music",88 Stereo (720p) [Not 24/7]
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ActivaTV.es" tvg-logo="https://i.imgur.com/VCUZKiw.png" group-title="Music",Activa TV (720p)
-https://streamtv.mediasector.es/hls/activatv/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KwxzMMq/latino-kids-hd.jpg" group-title="ANIME Y SERIES",LATINO KIDS HD
-https://6362ca6f1fc28.streamlock.net/8062/8062/chunklist_w255738815.m3u8
+
 
 
 

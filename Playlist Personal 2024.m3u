@@ -2,6 +2,11 @@
 
 
 24/7
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L5KcG5D/EXITOSA-HD.jpg" group-title="DOCUMENTALES Y NOTICIAS",EXITOSA TV HD
+https://streamtv.onliv3.online:1936/exito-tv/exito-tv/chunklist_w2055165394.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Anger Management en Espanol (1080p)
 https://lnc-anger-management-espanol.tubi.video/playlist.m3u8
 

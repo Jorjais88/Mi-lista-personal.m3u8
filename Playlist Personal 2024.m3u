@@ -300,4 +300,156 @@ https://rpn3.bozztv.com/ssh101/ssh101/monitvhd/playlist.m3u8
 https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w1007148431.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/channel-flou_cine-16x9_0.jpg" group-title="INTERNACIONAL",Flou Cine
-https://amg01768-flou-flou-canelatv-yri41.amagi.tv/playlist/amg01768-flou-flou-canelatv/cb563d1d7a6c65909bc33978d9f662ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5bac6852db80148b6f4adafb8c2360625f5c98435ee3b24aa4acb05e42db68a2ac4f1c962b58e683179cc915bed2dc469a458623a210cbc0f188d618e031a0598b6f73ec8639581fbbaf3bf4eb52bad38c6038ee0942242d74966d17632c46eb744c49ecf78b9e68fa01c78a24fb0d5f2e81162ef656a66aea39a6fb0ce0c52f5ecc204bc5e8211703a5f5a198ef343eb868efada9d9763cb5f7544846d327b8706f50948c250195b87876e683fc695beb792ef8743bd7dca2e2b59f439f2485ebf5a70d435459c963ec528f9577d225d179e79b5d711c0573a49451cb91ca1e1e560fd7d01084485b8ed285d58b557bd2364f13a841c94b0969fb316e57ec39b6cf6f3bc7755cc57d16d36c18ac0ebcb425fea29bc20338b
+https://amg01768-flou-flou-canelatv-yri41.amagi.tv/playlist/amg01768-flou-flou-canelatv/cb563d1d7a6c65909bc33978d9f662ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5bac6852db80148b6f4adafb8c2360625f5c98435ee3b24aa4acb05e42db68a2ac4f1c962b58e683179cc915bed2dc469a458623a210cbc0f188d618e031a0598b6f73ec8639581fbbaf3bf4eb52bad38c6038ee0942242d74966d17632c46eb744c49ecf78b9e68fa01c78a24fb0d5f2e81162ef656a66aea39a6fb0ce0c52f5ecc204bc5e8211703a5f5a198ef343eb868efada9d9763cb5f7544846d327b8706f50948c250195b87876e683fc695beb792ef8743bd7dca2e2b59f439f2485ebf5a70d435459c963ec528f9577d225d179e79b5d711c0573a49451cb91ca1e1e560fd7d01084485b8ed285d58b557bd2364f13a841c94b0969fb316e57ec39b6cf6f3bc7755cc57d16d36c18ac0ebcb425fea29bc20338bed18e02dc67fdba07d7b953fb3c72094ce3bc7c1f764d7bd1fc6f42652a940bb785b8941d6337e5f9c9f1d740785669653522bfa2b620d5deba6a7770e65c296778156de627de7bd00d4c40638929daa2...
+
+#EXTINF:-1 tvg-logo="https://www-storage.13.cl/13cl/img/default.jpg" group-title="INTERNACIONAL",Canal 13 Tele Series
+https://dai.google.com/linear/hls/pa/event/f4TrySe8SoiGF8Lu3EIq1g/stream/dc56a1db-6b1f-4a84-b5ec-2786345ffdeb:SCL/variant/abc7c8d468ab86748487f3d13e54b77e/bandwidth/4343481.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/85Mdq13/PLANETA-MOVIES-HD.jpg" group-title="ESPECIALES",Sony Canal Comedias
+https://d05f9c4e535042b78e6de94ef5548e4a.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalComedias-2/a70647cf-a401-4919-bcd1-5b7a4844a555/2.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991762/600x337.webp?type=channelTile" group-title="ESPECIALES",Sony Canal Competencias
+https://db71bbef43434d4e9ff9d4a9b8f55bf0.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalCompetencias-1/d43281c1-da46-48d4-886e-18fd4d2395d2/2.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/logo/960x540/runtime_comedia_16x9.jpg" group-title="ESPECIALES",Runtime Comedia
+https://stream.ads.ottera.tv/cl/240217cn81356r8v2a9thr0c70/1280x720_3071200_0_f.m3u8?i=475_3057
+
+#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/logos/runtime_familia.jpg" group-title="ESPECIALES",Runtime Familia 
+https://stream.ads.ottera.tv/cl/240217cn814p65surb947vkt7g/1280x720_3071200_0_f.m3u8?i=475_3528
+
+#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/logos/runtime_crimen.jpg" group-title="ESPECIALES",Runtime Crimen
+https://stream.ads.ottera.tv/cl/240217cn816683t0mmadubpc5g/1280x720_3071200_0_f.m3u8?i=475_3533
+
+#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/logo/960x540/runtime_ush_1920x1080.jpg" group-title="ESPECIALES",Runtime Español TV y Peliculas
+https://stream.ads.ottera.tv/cl/240217cn80cbs6io6papecvdeg/1280x720_3071200_0_f.m3u8?i=728_2649
+
+#EXTINF:-1 tvg-logo="https://www.muycomputer.com/wp-content/uploads/2022/09/runtime.jpg" group-title="ESPECIALES",Runtime Español Cine Y Series
+https://stream.ads.ottera.tv/cl/240217cn80eho3f1vnb87eai40/1280x720_3071200_0_f.m3u8?i=728_2152
+
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/runtime_clasicos_16x9.jpg" group-title="ESPECIALES",Runtime Clásicos
+https://stream.ads.ottera.tv/cl/240217cn80fso3f1vnb87eb1v0/1280x720_3071200_0_f.m3u8?i=728_3053
+
+#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/logo/960x540/runtime_accion_16x9.jpg" group-title="ESPECIALES",Runtime Acción 
+https://stream.ads.ottera.tv/cl/240217cn80i9v4lg92fmthqu2g/1280x720_3071200_0_f.m3u8?i=475_3058
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/06acaf44808e3e907bf7fd369add33b0.webp" group-title="ESPECIALES",Runtime Series
+https://stream.ads.ottera.tv/cl/240217cn80qqihtspolv97ai0g/1280x720_3071200_0_f.m3u8?i=475_3434
+
+#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/linear-sony-canal-comedias-16x9_1_0.jpg" group-title="ESPECIALES",Runtime Romance 
+https://stream.ads.ottera.tv/cl/240217cn81bib60inck4gipjbg/1280x720_3071200_0_f.m3u8?i=475_3532
+
+#EXTINF:-1 tvg-logo="https://cinemagavia.es/wp-content/uploads/2023/02/Runtime-Trash.jpg" group-title="ESPECIALES",Runtime Trash
+https://stream.ads.ottera.tv/cl/240217cn81f744f131vqt7drug/1280x720_3071200_0_f.m3u8?i=728_4647
+
+
+
+
+
+
+#EXTINF:-1 channel-id="pluto-5dcde437229eff00091b6c30" tvg-id="5dcde437229eff00091b6c30" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png"  group-title="ESPECIALES" , Pluto TV Cine Estelar
+https://r.mjh.nz/PlutoTV/5dcde437229eff00091b6c30-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5dcb62e63d4d8f0009f36881" tvg-id="5dcb62e63d4d8f0009f36881" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="ESPECIALES" , Pluto TV Cine Acción
+https://r.mjh.nz/PlutoTV/5dcb62e63d4d8f0009f36881-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5e972a21ad709d00074195ba" tvg-id="5e972a21ad709d00074195ba" tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png"  group-title="ESPECIALES" , Estrellas de Acción
+https://r.mjh.nz/PlutoTV/5e972a21ad709d00074195ba-alt.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Canela Cinema" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/linear-canela-cinema-16x9_0.png" group-title="ESPECIALES",Canela cinema
+https://ov.ottera.tv/channels/cnm_cn_mv/master1400000.m3u8;session=cnm_cn_mv
+
+#EXTINF:-1 tvg-id="Canela TV" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/linear-canela-tv_1.png" group-title="ESPECIALES",Canela TV
+https://ov.ottera.tv/channels/cnm_ctm_ro/master1400000.m3u8;session=cnm_ctm_ro
+
+#EXTINF:-1 tvg-id="Canela Telenovelas" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/image.jpg" group-title="ESPECIALES",Canela Telenovelas
+https://stream.ads.ottera.tv/cl/240216cn7ujhlhg25gbfn6oas0/1280x720_2300000_0_f.m3u8
+
+#EXTINF:-1 tvg-id="Free TV" tvg-logo="https://elceo.com/wp-content/uploads/2022/07/freetv-fotoarteferr.jpg" group-title="ESPECIALES",Free TV
+https://chiquilines-freetv.amagi.tv/Chiquilines-plex/master_5.m3u8
+
+#EXTINF:-1 tvg-id="Free TV Accion" tvg-logo="https://elceo.com/wp-content/uploads/2022/07/freetv-fotoarteferr.jpg" group-title="ESPECIALES",Free TV Accion
+https://topcineus-freetv.amagi.tv/TopCine-roku/master_5.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Xtrema TV Cine Accion" tvg-logo="https://pbs.twimg.com/profile_images/1515070626641457160/OuuL7lJQ_400x400.jpg" group-title="ESPECIALES",Xtrema TV Cine Accion
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/chunklist_w745973491.m3u8
+
+#EXTINF:-1 tvg-id="Xtrema TV Cine Terror" tvg-logo="https://pbs.twimg.com/profile_images/1515070626641457160/OuuL7lJQ_400x400.jpg" group-title="ESPECIALES",Xtrema TV Cine Terror
+https://stmv6.voxtvhd.com.br/cineterror/cineterror/chunklist_w1195120203.m3u8
+
+#EXTINF:-1 tvg-id="Xtrema TV Cine Suspenso" tvg-logo="https://pbs.twimg.com/profile_images/1515070626641457160/OuuL7lJQ_400x400.jpg" group-title="ESPECIALES",Xtrema TV Cine Suspenso
+https://stmv6.voxtvhd.com.br/cinesuspenso/cinesuspenso/chunklist_w1213159772.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/85Mdq13/PLANETA-MOVIES-HD.jpg" group-title="ESPECIALES",PLANETA TV MOVIES
+https://scl.edge.grupoz.cl/movie/live/chunklist_w1169082194.m3u8
+
+#EXTINF:-1 tvg-logo="https://ott-assets.mdstrm.com/51tv/assets/images/logo-light-white.png" group-title="INTERNACIONAL",Wapp TV
+https://jireh-2-hls-video-us-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/wapptv/wapptv.smil/wapptvcl/livestream1/chunks.m3u8?dpssid=b13211478372696485ee5fee585&ndvc=0&sid=ba5t1l1xb443664903865d026e17255c
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/db8b5d4f4146a2b8dd8397e9e61dd300245834e7ef928ff24c118b7e18e5cd1e.png" group-title="VARIADOS",BJGTJME
+https://amogonetworx-bigtjme-2-eu.plex.wurl.tv/4300.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/cff251a5a41e79a2fbe6677694a1c4671529324b0c2fc0259f18d88e729b3928.png" group-title="VARIADOS",TVS Retro
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
+#EXTINF:-1 tvg-id="FanpopTV.cl" tvg-logo="https://cdn.energeek.cl/logos/Fanpop-512.png" group-title="VARIADOS",Fanpop TV (720p) [Not 24/7]
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LocomotionTV.do" tvg-logo="https://i.imgur.com/1CftDPB.png" group-title="VARIADOS",Locomotion TV (480p) [Not 24/7]
+http://51.222.85.85:81/hls/loco/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S7BPf6X/RETRO-MAGICO-HD.jpg" group-title="VARIADOS",RETRO MAGICO HD
+https://250weu.bozztv.com/ssh101/ssh101/retromagicochnl/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vm8YTgqH/FAN-POP-HD.jpg" group-title="VARIADOS",ENERGEEK FANPOP HD
+https://wifiexpert-1.energeek.cl/energeek/canal-2/chunks.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9mJCtHC/RETRO-HD-ANIME.jpg" group-title="VARIADOS",ENERGEEK RETRO HD
+https://wifiexpert-1.energeek.cl/energeek/canal-1/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bb1TFCC/magictvkids-HD.jpg" group-title="VARIADOS",MAGICKIDS TV HD
+https://magicstream.ddns.net/magicstream/stream.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="ESPECIALES",TERROR TV HD
+https://tv.streaming-chile.com:1936/8140/8140/chunklist_w200214298.m3u8
+
+#EXTINF:-1 tvg-logo="https://b2357908.smushcdn.com/2357908/wp-content/uploads/2020/10/2-cine-romantico-logo-only.png?lossy=1&strip=1&webp=1" group-title="ESPECIALES",Cine Romántico 
+https://stream.ads.ottera.tv/cl/240217cn80nvb60inck4gijdj0/1280x720_2300000_0_f.m3u8?i=475_656
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/53da6e4d64c8f71b30cfdc6cbebeefaf.webp" group-title="ESPECIALES",Cine en Familia 
+https://stream.ads.ottera.tv/cl/240217cn80u803t0mmadubn37g/1280x720_2300000_0_f.m3u8?i=475_5281
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/849fa51674359c442c85efaeefac0aa6.webp" group-title="ESPECIALES",Wu Tang Collection TV
+https://aef5dc1975f84cf7af47123a116dd433.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_WuTangCollectionSpanish/3f545cdb-42d3-4534-8fe4-67271a99abaf/0.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/95b03ec39e2ed29147f06d3836242ee5.webp" group-title="INTERNACIONAL",Canal Mas
+https://tvlive.servicioselbachi.com:3686/hybrid/play.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3c2fc2da9c83e55919eabf69ddf83dd7.webp" group-title="INTERNACIONAL",La Corriente 
+https://stream.ads.ottera.tv/cl/240217cn81a72htspolv97fo6g/1280x720_2300000_0_f.m3u8?i=475_499

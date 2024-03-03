@@ -5,43 +5,77 @@
 https://amg01821-lovetvchannels-lovemagazinespain-tivify-tivify-8o5mz.amagi.tv/1080p/index.m3u8
 
 
+CANALES 24/7
+
+
 #EXTINF:-1 tvg-id="24/7" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/b355242d6e0b04a86981e66814f7f43a43c2e7061fb5972715ea6572b0c39ba6._UY500_UX667_RI_TTW_.jpg" group-title="24/7",Anger Management en Espanol (1080p)
 https://lnc-anger-management-espanol.tubi.video/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/861f7be9e22e87c60bd864944229b831.webp" group-title="24/7",Cops en Español 
 https://rightsboosterltd-cops-1-eu.plex.wurl.tv/4300.m3u8
 
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/604928d54a4f730007ff76bc/colorLogoPNG.png"  group-title="En Español" , CSI
+https://r.mjh.nz/PlutoTV/604928d54a4f730007ff76bc-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/632b5950b515b000079e6b81/colorLogoPNG.png"  group-title="En Español" , CSI: Miami
+https://r.mjh.nz/PlutoTV/632b5950b515b000079e6b81-alt.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/632b606e12a67b0007c9e371/colorLogoPNG.png"  group-title="En Español" , CSI: New York
+https://r.mjh.nz/PlutoTV/632b606e12a67b0007c9e371-alt.m3u8
 
 
-
-
-#EXTINF:-1 channel-id="pluto-631fb6be21b7440007b9f606" tvg-id="631fb6be21b7440007b9f606" tvg-logo="https://images.pluto.tv/channels/631fb6be21b7440007b9f606/colorLogoPNG.png" group-title="24/7" , Hechizada
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/631fb6be21b7440007b9f606/colorLogoPNG.png" group-title="24/7" , Hechizada
 https://r.mjh.nz/PlutoTV/631fb6be21b7440007b9f606-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-63eb95baa99571000898a078" tvg-id="63eb95baa99571000898a078" tvg-logo="https://images.pluto.tv/channels/63eb95baa99571000898a078/colorLogoPNG.png" group-title="24/7" , MacGyver
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/63eb95baa99571000898a078/colorLogoPNG.png" group-title="24/7" , MacGyver
 https://r.mjh.nz/PlutoTV/63eb95baa99571000898a078-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-5f85f1dc1418bd0007e11eb9" tvg-id="5f85f1dc1418bd0007e11eb9" tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png" group-title="24/7" , Los Tres Chiflados
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png" group-title="24/7" , Los Tres Chiflados
 https://r.mjh.nz/PlutoTV/5f85f1dc1418bd0007e11eb9-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-609ae5cd48d3200007b0a98e" tvg-id="609ae5cd48d3200007b0a98e" tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG.png" group-title="24/7" , Comedy Central South Park
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG.png" group-title="24/7" , South Park
 https://r.mjh.nz/PlutoTV/609ae5cd48d3200007b0a98e-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-5fceaab478f2af00080ff51f" tvg-id="5fceaab478f2af00080ff51f" tvg-logo="https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png"  group-title="24/7" , Yu-Gi-Oh
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png"  group-title="24/7" , Yu-Gi-Oh
 https://r.mjh.nz/PlutoTV/5fceaab478f2af00080ff51f-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-620ff0a01f9e8700076c6f9d" tvg-id="620ff0a01f9e8700076c6f9d" tvg-logo="https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png"  group-title="24/7" , Nickelodeon iCarly
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png"  group-title="24/7" , iCarly
 https://r.mjh.nz/PlutoTV/620ff0a01f9e8700076c6f9d-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-6254598f5083f800076d8563" tvg-id="6254598f5083f800076d8563" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png"  group-title="24/7" , Bob Esponja Pantalones Cuadrados
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png"  group-title="24/7" , Bob Esponja
 https://r.mjh.nz/PlutoTV/6254598f5083f800076d8563-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-6322099c822bbc00074857db" tvg-id="6322099c822bbc00074857db" tvg-logo="https://images.pluto.tv/channels/6322099c822bbc00074857db/colorLogoPNG-1667576393608.png" group-title="24/7" , Los Padrinos Mágicos
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6322099c822bbc00074857db/colorLogoPNG-1667576393608.png" group-title="24/7" , Los Padrinos Mágicos
 https://r.mjh.nz/PlutoTV/6322099c822bbc00074857db-alt.m3u8
 
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/6511a5d8d1f20c000864b951/colorLogoPNG.png" tvg-chno="917" group-title="24/7" , Victorious
+https://r.mjh.nz/PlutoTV/6511a5d8d1f20c000864b951-alt.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/63c69c87808b740007599fe1/colorLogoPNG.png" tvg-chno="903" group-title="24/7" , Érase una vez...
+https://r.mjh.nz/PlutoTV/63c69c87808b740007599fe1-alt.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5e82bb378601b80007b4bd78/colorLogoPNG.png" tvg-chno="4280" group-title="En Español" , The Walking Dead
+https://r.mjh.nz/PlutoTV/5e82bb378601b80007b4bd78-alt.m3u8
 
 
 
+
+
+
+
+ESPECIALES
+
+
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5fb554d87a0c480007c8dada/colorLogoPNG.png" group-title="Anime & Gaming" , ESR 24/7
+https://r.mjh.nz/PlutoTV/5fb554d87a0c480007c8dada-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png" tvg-chno="1324" group-title="Anime & Gaming" , Pluto TV E-Sports
+https://r.mjh.nz/PlutoTV/5ff3934600d4c7000733ff49-alt.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Meta Versus.cr" tvg-logo="https://metaversuscr.com/wp-content/uploads/2023/08/cropped-MET.png" group-title="ESPECIALES",Meta Versus
+https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8
 
 #EXTINF:-1 tvg-id="ESports Max.ve" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="ESPECIALES",ESports Max
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
@@ -52,26 +86,120 @@ https://rpn3.bozztv.com/ssh101/ssh101/gogoplay/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WzJLqDM/ANIME-STATION-HD.jpg" group-title="ESPECIALES",ANIME STATION TV HD
 https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/codigoespagueti.com/wp-content/uploads/2019/07/bitme.jpg" group-title="ESPECIALES",BitMe
+http://livex.pop-app.live/s4n/poplive/ch555/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Poder de Dios.bo" tvg-logo="https://www.boliviayp.com/img/bo/x/_1649774247-58-poder-de-dios-canal-45.jpg" group-title="CANALES DE BOLIVIA",Canal Poder de Dios
+
+
+
+DOCUMENTALES Y CIENCIA
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd8364ea1d6780009929902/colorLogoPNG.png" group-title="DOCUMENTALES Y CIENCIA" , Pluto TV Ciencia
+https://r.mjh.nz/PlutoTV/5dd8364ea1d6780009929902-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1200px-History_%282021%29.svg.png"  group-title="DOCUMENTALES Y CIENCIAs",History
+http://181.78.105.146:2000/play/a017/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-History2_logo_%282022%29.svg.png"  group-title="DOCUMENTALES Y CIENCIA",H2
+http://181.78.105.146:2000/play/a00v/index.m3u8
+
+#EXTINF:-1 tvg-id="HiperconectadosTV.cl" tvg-logo="https://i.imgur.com/CBbbrkI.png" group-title="DOCUMENTALES Y CIENCIA",Hiperconectados TV
+https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/6051201a0aa8a70007c24a2a/colorLogoPNG-1618602700695.png" tvg-chno="4450" group-title="DOCUMENTALES Y CIENCIA" , Mundo geek
+https://r.mjh.nz/PlutoTV/6051201a0aa8a70007c24a2a-alt.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/64db2e0835425100080f2f5a/colorLogoPNG.png"  group-title="DOCUMENTALES Y CIENCIA" , Pluto TV Diseño
+https://r.mjh.nz/PlutoTV/64db2e0835425100080f2f5a-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61cd78920b90cb0007e28231/colorLogoPNG.png"  group-title="DOCUMENTALES Y CIENCIA" , Pluto TV Documentales
+https://r.mjh.nz/PlutoTV/61cd78920b90cb0007e28231-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png"  group-title="DOCUMENTALES Y CIENCIA" , Nature Time
+https://r.mjh.nz/PlutoTV/60dd6b1da79e4d0007309455-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png" group-title="Curiosidad" , Pluto TV Animales
+https://r.mjh.nz/PlutoTV/5dd834c66fe2ca0009303b8d-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/645d1abbe1979c0008779d5a/colorLogoPNG.png"  group-title="DOCUMENTALES Y CIENCIA" , Archivos Extraterrestres
+https://r.mjh.nz/PlutoTV/645d1abbe1979c0008779d5a-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60492a9bbca75b0007b1bfd5/colorLogoPNG.png"  group-title="DOCUMENTALES Y CIENCIA" , Mundo paranormal
+https://r.mjh.nz/PlutoTV/60492a9bbca75b0007b1bfd5-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-612ce5214bb5790007ad3016" tvg-id="612ce5214bb5790007ad3016" tvg-logo="https://images.pluto.tv/channels/612ce5214bb5790007ad3016/colorLogoPNG.png"  group-title="DOCUMENTALES Y CIENCIA" , Pluto TV Paranormal
+https://r.mjh.nz/PlutoTV/612ce5214bb5790007ad3016-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png"  group-title="DOCUMENTALES Y CIENCIA" , Pluto TV Historia
+https://r.mjh.nz/PlutoTV/5de5758e1a30dc00094fcd6c-alt.m3u8
+
+
+
+
+
+
+
+RELIGIOSOS
+
+#EXTINF:-1 tvg-logo="https://unored.tv/wp-content/uploads/2020/08/aliento-vision-tv-nuevo.jpg"  group-title="RELIGIOSOS" , Aliento Vision
+https://627bb251f23c7.streamlock.net:444/AlientoSD/AlientoSD/chunklist_w569749635.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/3edd65252de7e080c75b23860668c4e857f1182ceeda081969c34436d69350aa.png"  group-title="RELIGIOSOS" , Extrema TV
+https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w1091058382.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/3ABN-Latino-en-directo-Online.png"  group-title="RELIGIOSOS" , 3ABN Latino
+https://3abn-live.akamaized.net/hls/live/2010547/Latino/SQs/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image70119570242.jpg"  group-title="RELIGIOSOS" , Movie Fe
+https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fc2208377c43d0cc89e86bfc5ee0e10c.webp"  group-title="RELIGIOSOS" , Oasis TV
+https://5e85d90130e77.streamlock.net/6020/6020/chunklist_w497603724.m3u8
+
+#EXTINF:-1 tvg-id="VCOnline.cl" tvg-logo="https://i.imgur.com/VlKl2VB.png" group-title="RELIGIOSOS",VC Online
+https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/MpTgJMJ.png" group-title="RELIGIOSOS",Claro Visión TV
+https://vsrv2.az-streamingserver.com:3057/live/clarovisiontvlive.m3u8
+
+#EXTINF:-1  tvg-logo="https://play-lh.googleusercontent.com/gjBZYQ5f7NwUNc9o6FJdry1Z3oa4gOgV707xAJhOVJ4UpGGlHwSCIeDk0V0LkQez9g" group-title="RELIGIOSOS",CVC La Voz
+https://streannlivecvc.cachefly.net/Protected/sp=1;dirmatch=true/5213c85025818c3f8d78f129a6f64ee34f0b0ff64b8b51ebebb30647c64e585c/cvclavoz2/cvclavoz2_abr/cvclavoz2/cvclavoz2_1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://cvclavoz.com/wp-content/uploads/elementor/thumbs/CVCLAVOZ-Go-Final-Logo_Icon-Partial-White-18-qbz3lz352byoalw4ha8ga541kt4e2sovks4qf4oabs.png" group-title="RELIGIOSOS",CVC La Voz !GO
+https://streannlivecvc.cachefly.net/Protected/sp=1;dirmatch=true/f7291aa3047d55612322a9c27e0c0027846e3c814b143bbb46e5b4a228b9065a/cvc4/cvc4_abr/cvc4/cvc4_1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-iEysF2kYNgc/Xx34XwrEGgI/AAAAAAAAIOw/PSjHDIDYwqoMf1MZ-7XwlEZOt47VQoHMwCLcBGAsYHQ/w1200-h630-p-k-no-nu/EJTV.PNG" group-title="RELIGIOSOS",Enlace Juvenil
+https://livecdn.enlace.plus/ejtv/smil:ejtv-hd.smil/chunklist_b2752000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="Poder de Dios.bo" tvg-logo="https://www.boliviayp.com/img/bo/x/_1649774247-58-poder-de-dios-canal-45.jpg" group-title="RELIGIOSOS",Canal Poder de Dios
 https://s3.tvdatta.com:3846/live/poderdedioslive.m3u8
 
-#EXTINF:-1 tvg-id="XTOTV.bo" tvg-logo="https://i.imgur.com/MLwLlWl.png" group-title="CANALES DE BOLIVIA", XTOTV
+#EXTINF:-1 tvg-id="XTOTV.bo" tvg-logo="https://i.imgur.com/MLwLlWl.png" group-title="RELIGIOSOS", XTOTV
 http://www.channel.tevemi.com:1935/XtoTv/XtoTv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk1WWfKP/SOLIDARIATVBOLIVIA-HD.jpg" group-title="CANALES DE BOLIVIA", SOLIDARIA TV BOLIVIA HD
-https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
+https://tv.bitstreaming.net:3073/live/solidariatvlive.m3u8
 
 
 
-#EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.ytimg.com/vi/shyoH296rb4/maxresdefault.jpg" group-title="CANALES DE BOLIVIA",RED UNO LPZ 
-https://stream-04.nyc.dailymotion.com/sec(RAgBiwkvDxA3k2daAQfIDvrPgGiKiFF0PB5IuPv9wpSrHHgSpIz9fC_10Md-tZOp)/dm/3/x8ko1ix/d/live-3.m3u8
 
 
-#EXTINF:-1 tvg-id="UNITEL Santa Cruz" tvg-logo="https://i.ibb.co/nRcbKbL/UNITEL-NACIONAL-HD.jpg" group-title="CANALES DE BOLIVIA",UNITEL
-https://stream-04.sv4.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZQdy3M0qPoXUw9G6gd3ZYG7Cq9SGF5a4CHO212f6w-hv)/dm/3/x7vsezg/d/live-3.m3u8
+
+
+CANALES NACIONALES
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wfNaEV9.png" group-title="CANALES DE BOLIVIA",Red Uno
+https://streamer03.digital.com.bo/session/4e839498-b325-47f7-987f-205b4831346f/2ap337/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
+
+
+
+#EXTINF:-1  tvg-logo="https://estaticos.unitel.bo/news-portlet/getogimage/bb6f5fbc-33bb-45e0-a87b-e51d4c3701bd.jpg" group-title="CANALES DE BOLIVIA",UNITEL
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="BOLIVISION BOLIVIA" tvg-logo="https://i.postimg.cc/hG6r5sj0/bolivisionlapazbo.jpg" group-title="CANALES DE BOLIVIA",BOLIVISION LA PAZ HD

@@ -49,9 +49,9 @@ https://r.mjh.nz/PlutoTV/5ff3934600d4c7000733ff49-alt.m3u8
 https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8
 #EXTINF:-1 tvg-id="ESports Max.ve" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="ESPECIALES",ESports Max
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
-#EXTINF:-1 tvg-id="GOGOPLAY TV HD"  tvg-logo="https://i.postimg.cc/dVfPMD5s/gogoplay-Bol-Fhd12.jpg" group-title="ESPECIALES",GOGOPLAY TV HD
+#EXTINF:-1 tvg-id="GOGOPLAY TV HD"  tvg-logo="https://i.postimg.cc/dVfPMD5s/gogoplay-Bol-Fhd12.jpg" group-title="ESPECIALES",Gogoplay TV
 https://rpn3.bozztv.com/ssh101/ssh101/gogoplay/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WzJLqDM/ANIME-STATION-HD.jpg" group-title="ESPECIALES",ANIME STATION TV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WzJLqDM/ANIME-STATION-HD.jpg" group-title="ESPECIALES",Anime Station TV
 https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/codigoespagueti.com/wp-content/uploads/2019/07/bitme.jpg" group-title="ESPECIALES",BitMe
 http://livex.pop-app.live/s4n/poplive/ch555/playlist.m3u8
@@ -61,7 +61,7 @@ https://r.mjh.nz/PlutoTV/6051201a0aa8a70007c24a2a-alt.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-091/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1200px-History_%282021%29.svg.png"  group-title="CIENCIA HISTORIA Y TECNOLOGIA",History
 http://stream.flynetwifi.com:1935/live/mobile-058/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-History2_logo_%282022%29.svg.png"  group-title="CIENCIA HISTORIA Y TECNOLOGIA",H2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-History2_logo_%282022%29.svg.png"  group-title="CIENCIA HISTORIA Y TECNOLOGIA",History 2
 http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd8364ea1d6780009929902/colorLogoPNG.png" group-title="CIENCIA HISTORIA Y TECNOLOGIA" , Pluto TV Ciencia
 https://r.mjh.nz/PlutoTV/5dd8364ea1d6780009929902-alt.m3u8
@@ -105,15 +105,15 @@ https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
 https://5e85d90130e77.streamlock.net/6020/6020/chunklist_w497603724.m3u8
 #EXTINF:-1 tvg-id="VCOnline.cl" tvg-logo="https://i.imgur.com/VlKl2VB.png" group-title="RELIGIOSOS",VC Online
 https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/MpTgJMJ.png" group-title="RELIGIOSOS",Claro Visión TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MpTgJMJ.png" group-title="RELIGIOSOS",Claro Visión TV
 https://vsrv2.az-streamingserver.com:3057/live/clarovisiontvlive.m3u8
-#EXTINF:-1  tvg-logo="https://play-lh.googleusercontent.com/gjBZYQ5f7NwUNc9o6FJdry1Z3oa4gOgV707xAJhOVJ4UpGGlHwSCIeDk0V0LkQez9g" group-title="RELIGIOSOS",CVC La Voz
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/gjBZYQ5f7NwUNc9o6FJdry1Z3oa4gOgV707xAJhOVJ4UpGGlHwSCIeDk0V0LkQez9g" group-title="RELIGIOSOS",CVC La Voz
 https://streannlivecvc.cachefly.net/Protected/sp=1;dirmatch=true/5213c85025818c3f8d78f129a6f64ee34f0b0ff64b8b51ebebb30647c64e585c/cvclavoz2/cvclavoz2_abr/cvclavoz2/cvclavoz2_1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cvclavoz.com/wp-content/uploads/elementor/thumbs/CVCLAVOZ-Go-Final-Logo_Icon-Partial-White-18-qbz3lz352byoalw4ha8ga541kt4e2sovks4qf4oabs.png" group-title="RELIGIOSOS",CVC La Voz !GO
 https://streannlivecvc.cachefly.net/Protected/sp=1;dirmatch=true/f7291aa3047d55612322a9c27e0c0027846e3c814b143bbb46e5b4a228b9065a/cvc4/cvc4_abr/cvc4/cvc4_1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-iEysF2kYNgc/Xx34XwrEGgI/AAAAAAAAIOw/PSjHDIDYwqoMf1MZ-7XwlEZOt47VQoHMwCLcBGAsYHQ/w1200-h630-p-k-no-nu/EJTV.PNG" group-title="RELIGIOSOS",Enlace Juvenil
 https://livecdn.enlace.plus/ejtv/smil:ejtv-hd.smil/chunklist_b2752000_sleng.m3u8
-#EXTINF:-1 tvg-id="Poder de Dios.bo" tvg-logo="https://www.boliviayp.com/img/bo/x/_1649774247-58-poder-de-dios-canal-45.jpg" group-title="CANALES DE BOLIVIA",Canal Poder de Dios
+#EXTINF:-1 tvg-id="Poder de Dios.bo" tvg-logo="https://scontent.flpb2-1.fna.fbcdn.net/v/t39.30808-6/417211332_795615489276223_905244614319894099_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=sf2YEr1XH1QAX9-Kkz8&_nc_ht=scontent.flpb2-1.fna&oh=00_AfDUqaDDYAHLYwrGj40be7ArkuYGzwO5y7HYa38Xmkin1A&oe=65EAC691" group-title="CANALES DE BOLIVIA",Canal Poder de Dios
 https://s3.tvdatta.com:3846/live/poderdedioslive.m3u8
 #EXTINF:-1 tvg-id="XTOTV.bo" tvg-logo="https://i.imgur.com/MLwLlWl.png" group-title="CANALES DE BOLIVIA", XTOTV
 http://www.channel.tevemi.com:1935/XtoTv/XtoTv/playlist.m3u8
@@ -121,7 +121,7 @@ http://www.channel.tevemi.com:1935/XtoTv/XtoTv/playlist.m3u8
 https://tv.bitstreaming.net:3073/live/solidariatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wfNaEV9.png" group-title="CANALES DE BOLIVIA",Red Uno Santa Cruz
 https://streamer03.digital.com.bo/session/4e839498-b325-47f7-987f-205b4831346f/2ap337/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
-#EXTINF:-1  tvg-logo="https://estaticos.unitel.bo/news-portlet/getogimage/bb6f5fbc-33bb-45e0-a87b-e51d4c3701bd.jpg" group-title="CANALES DE BOLIVIA",Unitel Santa Cruz
+#EXTINF:-1 tvg-logo="https://estaticos.unitel.bo/news-portlet/getogimage/bb6f5fbc-33bb-45e0-a87b-e51d4c3701bd.jpg" group-title="CANALES DE BOLIVIA",Unitel Santa Cruz
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-id="BOLIVISION BOLIVIA" tvg-logo="https://i.postimg.cc/hG6r5sj0/bolivisionlapazbo.jpg" group-title="CANALES DE BOLIVIA",Bolivision La Paz
 https://d3mghbm9e5zfap.cloudfront.net:443/Bolivision/2af819d7c8ab1c07658d1575e55800e5.sdp/Bolivision/Bolivision1/chunks.m3u8
@@ -225,7 +225,7 @@ https://r.mjh.nz/PlutoTV/5f1ac8f49205650007bc15f1-alt.m3u8
 https://r.mjh.nz/PlutoTV/5f1ac8a87cd38d000745d7cf-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png"  group-title="SERIES Y PELICULAS" , Runtime
 https://r.mjh.nz/PlutoTV/6086d3f420fc8500075f8dbf-alt.m3u8
-#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/645a309c5a0cd5000873f609/colorLogoPNG.png"  group-title="SERIES Y PELICULAS" , Pluto TV Catástrofes
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/645a309c5a0cd5000873f609/colorLogoPNG.png"  group-title="SERIES Y PELICULAS" , Pluto TV Catástrofes
 https://r.mjh.nz/PlutoTV/645a309c5a0cd5000873f609-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6475bfec536e0c0008858e9f/colorLogoPNG.png"  group-title="SERIES Y PELICULAS" , Pluto TV K-Drama
 https://r.mjh.nz/PlutoTV/6475bfec536e0c0008858e9f-alt.m3u8

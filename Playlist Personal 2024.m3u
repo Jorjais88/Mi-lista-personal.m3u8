@@ -143,8 +143,11 @@ https://master.tucableip.com/abyayalatv/tracks-v1a1/mono.m3u8
 https://w8.redpat.tv:7777/play/120/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/brY56Hk/cvc-hd-virgen.jpg" group-title="CANALES DE BOLIVIA",Virgen De Copacabana
 https://5d00db0e0fcd5.streamlock.net/7034/7034/chunklist_w1842351465.m3u8
-#EXTINF:-1 tvg-id="Gigavision.bo" tvg-logo="https://i.imgur.com/fE3BkcT.png" group-title="CANALES DE BOLIVIA",Gigavision
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fE3BkcT.png" group-title="CANALES DE BOLIVIA",Gigavision
 https://master.tucableip.com/gigavision/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.rqp.com.bo/wp-content/uploads/2023/11/20240102_114900_0000.png" group-title="CANALES DE BOLIVIA",RQP Plus
+https://d2pctfu2mpc31v.cloudfront.net/RQP/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="TVU BOLIVIA" tvg-logo="https://i.postimg.cc/1tv6QGb3/TVU-HD-NEW-2023.jpg" group-title="CANALES DE BOLIVIA",TVU UMSA
 https://video.live.com.bo:3731/live/tvuumsalive.m3u8
 #EXTINF:-1 tvg-id="UPEA TV" tvg-logo="https://serviciopagina.upea.bo/InstitucionUpea/LinksExternos/6b500767-6b15-4b30-a72e-b98927089cdd.jpg" group-title="CANALES DE BOLIVIA",UPEA TV

@@ -1,21 +1,6 @@
 #EXTM3U 
-
-
-
-
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0cf002ed575e28fb68b6827a6bbb9b12.webp" group-title="24/7",Trailers 
 https://amg01821-lovetvchannels-lovemagazinespain-tivify-tivify-8o5mz.amagi.tv/1080p/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
 
 #EXTINF:-1  tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/b355242d6e0b04a86981e66814f7f43a43c2e7061fb5972715ea6572b0c39ba6._UY500_UX667_RI_TTW_.jpg" group-title="24/7",Anger Management
 https://lnc-anger-management-espanol.tubi.video/playlist.m3u8
@@ -77,17 +62,6 @@ https://aef5dc1975f84cf7af47123a116dd433.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1  tvg-logo="https://i.imgur.com/tK9zOgo.png" group-title="24/7",La Rosa de Guadalupe
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5fb554d87a0c480007c8dada/colorLogoPNG.png" group-title="ESPECIALES" , ESR 24/7
 https://r.mjh.nz/PlutoTV/5fb554d87a0c480007c8dada-alt.m3u8
 
@@ -108,18 +82,6 @@ https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/codigoespagueti.com/wp-content/uploads/2019/07/bitme.jpg" group-title="ESPECIALES",BitMe
 http://livex.pop-app.live/s4n/poplive/ch555/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6051201a0aa8a70007c24a2a/colorLogoPNG-1618602700695.png" tvg-chno="4450" group-title="CIENCIA HISTORIA Y TECNOLOGIA" , Mundo geek
 https://r.mjh.nz/PlutoTV/6051201a0aa8a70007c24a2a-alt.m3u8
@@ -178,12 +140,6 @@ https://r.mjh.nz/PlutoTV/5f4d3696d938c900072679fd-alt.m3u8
 #EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png"  group-title="CIENCIA HISTORIA Y TECNOLOGIA" , Misterios sin Resolver
 https://r.mjh.nz/PlutoTV/5f610042272f68000867685b-alt.m3u8
 
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://unored.tv/wp-content/uploads/2020/08/aliento-vision-tv-nuevo.jpg"  group-title="RELIGIOSOS" , Aliento Vision
 https://627bb251f23c7.streamlock.net:444/AlientoSD/AlientoSD/chunklist_w569749635.m3u8
 
@@ -222,17 +178,6 @@ http://www.channel.tevemi.com:1935/XtoTv/XtoTv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk1WWfKP/SOLIDARIATVBOLIVIA-HD.jpg" group-title="CANALES DE BOLIVIA", Solidaria TV Bolivia HD
 https://tv.bitstreaming.net:3073/live/solidariatvlive.m3u8
-
-
-
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wfNaEV9.png" group-title="CANALES DE BOLIVIA",Red Uno Santa Cruz
 https://streamer03.digital.com.bo/session/4e839498-b325-47f7-987f-205b4831346f/2ap337/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
@@ -366,19 +311,6 @@ https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8
 #EXTINF:-1 tvg-id="FortalezaTVCueto.bo" tvg-logo="https://i.imgur.com/z4TfuxB.jpg" group-title="CANALES DE BOLIVIA",Fortaleza TV Cueto
 https://rpn3.bozztv.com/ssh101/ssh101/fortalezacueto/playlist.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/654a35ce346f420008d5c36e/colorLogoPNG.png"  group-title="SERIES Y PELICULAS" , Pluto TV Invasión Alien
 https://r.mjh.nz/PlutoTV/654a35ce346f420008d5c36e-alt.m3u8
 
@@ -449,8 +381,6 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w16687574
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/cff251a5a41e79a2fbe6677694a1c4671529324b0c2fc0259f18d88e729b3928.png" group-title="SERIES Y PELICULAS",TVS Retro
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
-
-
 #EXTINF:-1 tvg-id="Canela TV" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/linear-canela-tv_1.png" group-title="SERIES Y PELICULAS",Canela TV
 https://ov.ottera.tv/channels/cnm_ctm_ro/master1400000.m3u8;session=cnm_ctm_ro
 
@@ -477,16 +407,6 @@ https://r.mjh.nz/PlutoTV/645a309c5a0cd5000873f609-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6475bfec536e0c0008858e9f/colorLogoPNG.png"  group-title="SERIES Y PELICULAS" , Pluto TV K-Drama
 https://r.mjh.nz/PlutoTV/6475bfec536e0c0008858e9f-alt.m3u8
-
-
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LC46tBg/cosmos-tv-hd.jpg" group-title="INTERNACIONAL",Cosmos TV
 https://v1.tustreaming.cl/cosmostv/tracks-v1a1/mono.m3u8
@@ -529,14 +449,6 @@ https://5790d294af2dc.streamlock.net/8100/8100/chunklist_w1515398043.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/95b03ec39e2ed29147f06d3836242ee5.webp" group-title="INTERNACIONAL",Canal Mas
 https://tvlive.servicioselbachi.com:3686/hybrid/play.m3u8
-
-
-
-
-
-
-
-
 
 #EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/colorLogoPNG.png"  group-title="PELICULAS" , Cine Premiere
 https://r.mjh.nz/PlutoTV/5cf968040ab7d8f181e6a68b-alt.m3u8
@@ -622,14 +534,6 @@ https://cinereal-plex.amagi.tv/CineReal/master_6.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6731cdcffdd23c62cd574c8d68154af9.webp" group-title="PELICULAS",Planeta TV Family
 https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w1542610425.m3u8
 
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="AlltheKPop.kr" tvg-logo="https://i.imgur.com/IFLXi6n.png" group-title="MUSICALES",All The K-POP
 https://ythls.armelin.one/channel/UCPde4guD9yFBRzkxk2PatoA.m3u8
 
@@ -638,27 +542,6 @@ https://r.mjh.nz/PlutoTV/64d161c93c785e0008df575e-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60c8b3ddaaf9d4000780066f/colorLogoPNG.png"  group-title="MUSICALES" , Pluto TV K-Pop
 https://r.mjh.nz/PlutoTV/60c8b3ddaaf9d4000780066f-alt.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-id="FanpopTV.cl" tvg-logo="https://cdn.energeek.cl/logos/Fanpop-512.png" group-title="VARIADOS",Fanpop TV
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
@@ -674,7 +557,6 @@ https://wifiexpert-1.energeek.cl/energeek/canal-2/chunks.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9mJCtHC/RETRO-HD-ANIME.jpg" group-title="VARIADOS",Energeek Retro
 https://wifiexpert-1.energeek.cl/energeek/canal-1/chunks.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bb1TFCC/magictvkids-HD.jpg" group-title="VARIADOS",Magickids TV
 https://magicstream.ddns.net/magicstream/stream.m3u8

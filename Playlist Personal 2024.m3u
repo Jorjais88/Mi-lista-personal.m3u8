@@ -120,7 +120,7 @@ http://www.channel.tevemi.com:1935/XtoTv/XtoTv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk1WWfKP/SOLIDARIATVBOLIVIA-HD.jpg" group-title="CANALES DE BOLIVIA", Solidaria TV Bolivia HD
 https://tv.bitstreaming.net:3073/live/solidariatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wfNaEV9.png" group-title="CANALES DE BOLIVIA",Red Uno Santa Cruz
-https://streamer03.digital.com.bo/session/4e839498-b325-47f7-987f-205b4831346f/2ap337/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.flpb2-1.fna.fbcdn.net/v/t1.6435-9/30707948_1073687499437313_3623266966757703680_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=DLl1sS3H9AAAX_scvUw&_nc_ht=scontent.flpb2-1.fna&oh=00_AfAr43M9G-eM-rw6bR_5eTXGs3OduqVN4eoZlbuLhfWKoA&oe=660D2499" group-title="CANALES DE BOLIVIA",Unitel Santa Cruz
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-id="BOLIVISION BOLIVIA" tvg-logo="https://i.postimg.cc/hG6r5sj0/bolivisionlapazbo.jpg" group-title="CANALES DE BOLIVIA",Bolivision La Paz HD

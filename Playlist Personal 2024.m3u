@@ -1,7 +1,7 @@
 #EXTM3U 
 
 
-****************************   url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"   ****************************
+
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0cf002ed575e28fb68b6827a6bbb9b12.webp" group-title="24/7",Trailers 
 https://amg01821-lovetvchannels-lovemagazinespain-tivify-tivify-8o5mz.amagi.tv/1080p/index.m3u8
@@ -119,63 +119,63 @@ http://livex.pop-app.live/s4n/poplive/ch555/playlist.m3u8
 
 
 
-****************************CIENCIA, HISTORIA Y TECNOLOGIA****************************
+****************************CIENCIA HISTORIA Y TECNOLOGIA****************************
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6051201a0aa8a70007c24a2a/colorLogoPNG-1618602700695.png" tvg-chno="4450" group-title="CIENCIA, HISTORIA Y TECNOLOGIA" , Mundo geek
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6051201a0aa8a70007c24a2a/colorLogoPNG-1618602700695.png" tvg-chno="4450" group-title="CIENCIA HISTORIA Y TECNOLOGIA" , Mundo geek
 https://r.mjh.nz/PlutoTV/6051201a0aa8a70007c24a2a-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png" group-title="CIENCIA, HISTORIA Y TECNOLOGIA",National Geographic
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png" group-title="CIENCIA HISTORIA Y TECNOLOGIA",National Geographic
 http://stream.flynetwifi.com:1935/live/mobile-091/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1200px-History_%282021%29.svg.png"  group-title="CIENCIA, HISTORIA Y TECNOLOGIA",History
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1200px-History_%282021%29.svg.png"  group-title="CIENCIA HISTORIA Y TECNOLOGIA",History
 http://stream.flynetwifi.com:1935/live/mobile-058/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-History2_logo_%282022%29.svg.png"  group-title="CIENCIA, HISTORIA Y TECNOLOGIA",H2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-History2_logo_%282022%29.svg.png"  group-title="CIENCIA HISTORIA Y TECNOLOGIA",H2
 http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd8364ea1d6780009929902/colorLogoPNG.png" group-title="CIENCIA, HISTORIA Y TECNOLOGIA" , Pluto TV Ciencia
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd8364ea1d6780009929902/colorLogoPNG.png" group-title="CIENCIA HISTORIA Y TECNOLOGIA" , Pluto TV Ciencia
 https://r.mjh.nz/PlutoTV/5dd8364ea1d6780009929902-alt.m3u8
 
-#EXTINF:-1 tvg-id="HiperconectadosTV.cl" tvg-logo="https://i.imgur.com/CBbbrkI.png" group-title="CIENCIA, HISTORIA Y TECNOLOGIA",Hiperconectados TV
+#EXTINF:-1 tvg-id="HiperconectadosTV.cl" tvg-logo="https://i.imgur.com/CBbbrkI.png" group-title="CIENCIA HISTORIA Y TECNOLOGIA",Hiperconectados TV
 https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/6051201a0aa8a70007c24a2a/colorLogoPNG-1618602700695.png" tvg-chno="4450" group-title="CIENCIA, HISTORIA Y TECNOLOGIA" , Mundo geek
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/6051201a0aa8a70007c24a2a/colorLogoPNG-1618602700695.png"  group-title="CIENCIA HISTORIA Y TECNOLOGIA" , Mundo geek
 https://r.mjh.nz/PlutoTV/6051201a0aa8a70007c24a2a-alt.m3u8
 
-#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/64db2e0835425100080f2f5a/colorLogoPNG.png"  group-title="CIENCIA, HISTORIA Y TECNOLOGIA" , Pluto TV Diseño
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/64db2e0835425100080f2f5a/colorLogoPNG.png"  group-title="CIENCIA HISTORIA Y TECNOLOGIA" , Pluto TV Diseño
 https://r.mjh.nz/PlutoTV/64db2e0835425100080f2f5a-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61cd78920b90cb0007e28231/colorLogoPNG.png"  group-title="CIENCIA, HISTORIA Y TECNOLOGIA" , Pluto TV Documentales
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61cd78920b90cb0007e28231/colorLogoPNG.png"  group-title="CIENCIA HISTORIA Y TECNOLOGIA" , Pluto TV Documentales
 https://r.mjh.nz/PlutoTV/61cd78920b90cb0007e28231-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png"  group-title="CIENCIA, HISTORIA Y TECNOLOGIA" , Nature Time
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png"  group-title="CIENCIA HISTORIA Y TECNOLOGIA" , Nature Time
 https://r.mjh.nz/PlutoTV/60dd6b1da79e4d0007309455-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png" group-title="CIENCIA, HISTORIA Y TECNOLOGIA" , Pluto TV Animales
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png" group-title="CIENCIA HISTORIA Y TECNOLOGIA" , Pluto TV Animales
 https://r.mjh.nz/PlutoTV/5dd834c66fe2ca0009303b8d-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/645d1abbe1979c0008779d5a/colorLogoPNG.png"  group-title="CIENCIA, HISTORIA Y TECNOLOGIA" , Archivos Extraterrestres
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/645d1abbe1979c0008779d5a/colorLogoPNG.png"  group-title="CIENCIA HISTORIA Y TECNOLOGIA" , Archivos Extraterrestres
 https://r.mjh.nz/PlutoTV/645d1abbe1979c0008779d5a-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60492a9bbca75b0007b1bfd5/colorLogoPNG.png"  group-title="CIENCIA, HISTORIA Y TECNOLOGIA" , Mundo paranormal
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60492a9bbca75b0007b1bfd5/colorLogoPNG.png"  group-title="CIENCIA HISTORIA Y TECNOLOGIA" , Mundo paranormal
 https://r.mjh.nz/PlutoTV/60492a9bbca75b0007b1bfd5-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/612ce5214bb5790007ad3016/colorLogoPNG.png"  group-title="CIENCIA, HISTORIA Y TECNOLOGIA" , Pluto TV Paranormal
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/612ce5214bb5790007ad3016/colorLogoPNG.png"  group-title="CIENCIA HISTORIA Y TECNOLOGIA" , Pluto TV Paranormal
 https://r.mjh.nz/PlutoTV/612ce5214bb5790007ad3016-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png"  group-title="CIENCIA, HISTORIA Y TECNOLOGIA" , Pluto TV Historia
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png"  group-title="CIENCIA HISTORIA Y TECNOLOGIA" , Pluto TV Historia
 https://r.mjh.nz/PlutoTV/5de5758e1a30dc00094fcd6c-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f230e416b68ff00075b0139/colorLogoPNG.png" group-title="CIENCIA, HISTORIA Y TECNOLOGIA" , Misterios Medicos
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f230e416b68ff00075b0139/colorLogoPNG.png" group-title="CIENCIA HISTORIA Y TECNOLOGIA" , Misterios Medicos
 https://r.mjh.nz/PlutoTV/5f230e416b68ff00075b0139-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde2f53449c50009b2b4dc/colorLogoPNG.png"  group-title="CIENCIA, HISTORIA Y TECNOLOGIA" , Pluto TV Misterios
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde2f53449c50009b2b4dc/colorLogoPNG.png"  group-title="CIENCIA HISTORIA Y TECNOLOGIA" , Pluto TV Misterios
 https://r.mjh.nz/PlutoTV/5dcde2f53449c50009b2b4dc-alt.m3u8
 
-#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png"  group-title="CIENCIA, HISTORIA Y TECNOLOGIA" , Historias de Ultratumba
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png"  group-title="CIENCIA HISTORIA Y TECNOLOGIA" , Historias de Ultratumba
 https://r.mjh.nz/PlutoTV/5f4d3696d938c900072679fd-alt.m3u8
 
-#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png"  group-title="CIENCIA, HISTORIA Y TECNOLOGIA" , Misterios sin Resolver
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png"  group-title="CIENCIA HISTORIA Y TECNOLOGIA" , Misterios sin Resolver
 https://r.mjh.nz/PlutoTV/5f610042272f68000867685b-alt.m3u8
 
 

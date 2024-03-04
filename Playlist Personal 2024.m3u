@@ -14,7 +14,7 @@ https://amg01821-lovetvchannels-lovemagazinespain-tivify-tivify-8o5mz.amagi.tv/1
 
 
 
-****************************CANALES 24/7****************************
+
 
 
 #EXTINF:-1  tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/b355242d6e0b04a86981e66814f7f43a43c2e7061fb5972715ea6572b0c39ba6._UY500_UX667_RI_TTW_.jpg" group-title="24/7",Anger Management
@@ -85,7 +85,7 @@ https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 
 
 
-****************************ESPECIALES****************************
+
 
 
 #EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5fb554d87a0c480007c8dada/colorLogoPNG.png" group-title="ESPECIALES" , ESR 24/7
@@ -119,7 +119,7 @@ http://livex.pop-app.live/s4n/poplive/ch555/playlist.m3u8
 
 
 
-****************************CIENCIA HISTORIA Y TECNOLOGIA****************************
+
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6051201a0aa8a70007c24a2a/colorLogoPNG-1618602700695.png" tvg-chno="4450" group-title="CIENCIA HISTORIA Y TECNOLOGIA" , Mundo geek
 https://r.mjh.nz/PlutoTV/6051201a0aa8a70007c24a2a-alt.m3u8
@@ -182,7 +182,7 @@ https://r.mjh.nz/PlutoTV/5f610042272f68000867685b-alt.m3u8
 
 
 
-****************************RELIGIOSOS****************************
+
 
 #EXTINF:-1 tvg-logo="https://unored.tv/wp-content/uploads/2020/08/aliento-vision-tv-nuevo.jpg"  group-title="RELIGIOSOS" , Aliento Vision
 https://627bb251f23c7.streamlock.net:444/AlientoSD/AlientoSD/chunklist_w569749635.m3u8
@@ -232,7 +232,7 @@ https://tv.bitstreaming.net:3073/live/solidariatvlive.m3u8
 
 
 
-****************************CANALES NACIONALES****************************
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wfNaEV9.png" group-title="CANALES DE BOLIVIA",Red Uno Santa Cruz
 https://streamer03.digital.com.bo/session/4e839498-b325-47f7-987f-205b4831346f/2ap337/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
@@ -377,7 +377,6 @@ https://rpn3.bozztv.com/ssh101/ssh101/fortalezacueto/playlist.m3u8
 
 
 
-****************************SERIES Y PELICULAS****************************
 
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/654a35ce346f420008d5c36e/colorLogoPNG.png"  group-title="SERIES Y PELICULAS" , Pluto TV Invasión Alien
@@ -481,7 +480,12 @@ https://r.mjh.nz/PlutoTV/6475bfec536e0c0008858e9f-alt.m3u8
 
 
 
-****************************INTERNACIONALES****************************
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LC46tBg/cosmos-tv-hd.jpg" group-title="INTERNACIONAL",Cosmos TV
@@ -532,7 +536,6 @@ https://tvlive.servicioselbachi.com:3686/hybrid/play.m3u8
 
 
 
-****************************PELICULAS****************************
 
 
 #EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/colorLogoPNG.png"  group-title="PELICULAS" , Cine Premiere
@@ -622,7 +625,11 @@ https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w1542610425.m3u8
 
 
 
-****************************MUSICALES****************************
+
+
+
+
+
 #EXTINF:-1 tvg-id="AlltheKPop.kr" tvg-logo="https://i.imgur.com/IFLXi6n.png" group-title="MUSICALES",All The K-POP
 https://ythls.armelin.one/channel/UCPde4guD9yFBRzkxk2PatoA.m3u8
 
@@ -650,18 +657,8 @@ https://r.mjh.nz/PlutoTV/60c8b3ddaaf9d4000780066f-alt.m3u8
 
 
 
-****************************VARIADOS****************************
 
 
-
-
-
-
-
-
-
-
-****************************ANIMADAS****************************
 
 #EXTINF:-1 tvg-id="FanpopTV.cl" tvg-logo="https://cdn.energeek.cl/logos/Fanpop-512.png" group-title="VARIADOS",Fanpop TV
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8

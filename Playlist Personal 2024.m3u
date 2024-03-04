@@ -68,7 +68,7 @@ https://r.mjh.nz/PlutoTV/6511a5d8d1f20c000864b951-alt.m3u8
 #EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/63c69c87808b740007599fe1/colorLogoPNG.png" group-title="24/7" , Érase una vez...
 https://r.mjh.nz/PlutoTV/63c69c87808b740007599fe1-alt.m3u8
 
-#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5e82bb378601b80007b4bd78/colorLogoPNG.png" group-title="24/7l" , The Walking Dead
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5e82bb378601b80007b4bd78/colorLogoPNG.png" group-title="24/7" , The Walking Dead
 https://r.mjh.nz/PlutoTV/5e82bb378601b80007b4bd78-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/849fa51674359c442c85efaeefac0aa6.webp" group-title="24/7",Wu Tang Collection TV
@@ -166,7 +166,7 @@ https://r.mjh.nz/PlutoTV/612ce5214bb5790007ad3016-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png"  group-title="CIENCIA, HISTORIA Y TECNOLOGIA" , Pluto TV Historia
 https://r.mjh.nz/PlutoTV/5de5758e1a30dc00094fcd6c-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f230e416b68ff00075b0139/colorLogoPNG.png" group-title="CIENCIA, HISTORIA Y TECNOLOGIAd" , Misterios Medicos
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f230e416b68ff00075b0139/colorLogoPNG.png" group-title="CIENCIA, HISTORIA Y TECNOLOGIA" , Misterios Medicos
 https://r.mjh.nz/PlutoTV/5f230e416b68ff00075b0139-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde2f53449c50009b2b4dc/colorLogoPNG.png"  group-title="CIENCIA, HISTORIA Y TECNOLOGIA" , Pluto TV Misterios
@@ -487,7 +487,7 @@ https://r.mjh.nz/PlutoTV/6475bfec536e0c0008858e9f-alt.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LC46tBg/cosmos-tv-hd.jpg" group-title="INTERNACIONAL",Cosmos TV
 https://v1.tustreaming.cl/cosmostv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/486_Orbit_TV.png", Orbit TV
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/486_Orbit_TV.png" group-title="INTERNACIONAL", Orbit TV
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1016388699.m3u8
 
 #EXTINF:-1 tvg-id="AlegreTVRD.do" tvg-logo="https://i.imgur.com/O6USO8r.png" group-title="INTERNACIONAL",Alegre TV (720p)

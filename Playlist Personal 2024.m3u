@@ -111,19 +111,19 @@ https://vsrv2.az-streamingserver.com:3057/live/clarovisiontvlive.m3u8
 https://streannlivecvc.cachefly.net/Protected/sp=1;dirmatch=true/5213c85025818c3f8d78f129a6f64ee34f0b0ff64b8b51ebebb30647c64e585c/cvclavoz2/cvclavoz2_abr/cvclavoz2/cvclavoz2_1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cvclavoz.com/wp-content/uploads/elementor/thumbs/CVCLAVOZ-Go-Final-Logo_Icon-Partial-White-18-qbz3lz352byoalw4ha8ga541kt4e2sovks4qf4oabs.png" group-title="RELIGIOSOS",CVC La Voz !GO
 https://streannlivecvc.cachefly.net/Protected/sp=1;dirmatch=true/f7291aa3047d55612322a9c27e0c0027846e3c814b143bbb46e5b4a228b9065a/cvc4/cvc4_abr/cvc4/cvc4_1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-iEysF2kYNgc/Xx34XwrEGgI/AAAAAAAAIOw/PSjHDIDYwqoMf1MZ-7XwlEZOt47VQoHMwCLcBGAsYHQ/w1200-h630-p-k-no-nu/EJTV.PNG" group-title="RELIGIOSOS",Enlace Juvenil
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZR5RprklNmE1pCcNbmdXlF1cO7UZhAFJF41I6rT=s900-c-k-c0x00ffffff-no-rj" group-title="RELIGIOSOS",Enlace Juvenil
 https://livecdn.enlace.plus/ejtv/smil:ejtv-hd.smil/chunklist_b2752000_sleng.m3u8
 #EXTINF:-1 tvg-id="Poder de Dios.bo" tvg-logo="https://scontent.flpb2-1.fna.fbcdn.net/v/t39.30808-6/417211332_795615489276223_905244614319894099_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=sf2YEr1XH1QAX9-Kkz8&_nc_ht=scontent.flpb2-1.fna&oh=00_AfDUqaDDYAHLYwrGj40be7ArkuYGzwO5y7HYa38Xmkin1A&oe=65EAC691" group-title="CANALES DE BOLIVIA",Canal Poder de Dios
 https://s3.tvdatta.com:3846/live/poderdedioslive.m3u8
-#EXTINF:-1 tvg-id="XTOTV.bo" tvg-logo="https://i.imgur.com/MLwLlWl.png" group-title="CANALES DE BOLIVIA", XTOTV
+#EXTINF:-1 tvg-id="XTOTV.bo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e9b632aabb0576ebf8f67b5af638ccba.webp" group-title="CANALES DE BOLIVIA", XTOTV
 http://www.channel.tevemi.com:1935/XtoTv/XtoTv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk1WWfKP/SOLIDARIATVBOLIVIA-HD.jpg" group-title="CANALES DE BOLIVIA", Solidaria TV Bolivia
 https://tv.bitstreaming.net:3073/live/solidariatvlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wfNaEV9.png" group-title="CANALES DE BOLIVIA",Red Uno HD
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
+#EXTINF:-1 tvg-logo="https://scontent.flpb2-2.fna.fbcdn.net/v/t39.30808-6/307083081_396235339357408_3618711764136284225_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=9c7eae&_nc_ohc=ByARZFdwSFAAX927yRz&_nc_ht=scontent.flpb2-2.fna&oh=00_AfD9EUdzpVp58GrXt2iin9LrCM3_bx-PiN4Q_AphZ9HVwg&oe=65EB24B1" group-title="CANALES DE BOLIVIA",Red Uno HD
+https://streamer03.digital.com.bo/session/4e839498-b325-47f7-987f-205b4831346f/2ap337/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EI-wBOZWwAEYKey.png" group-title="CANALES DE BOLIVIA",Unitel HD
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-id="BOLIVISION BOLIVIA" tvg-logo="https://i.postimg.cc/hG6r5sj0/bolivisionlapazbo.jpg" group-title="CANALES DE BOLIVIA",Bolivision La Paz HD
+#EXTINF:-1 tvg-id="BOLIVISION BOLIVIA" tvg-logo="https://scontent.flpb2-2.fna.fbcdn.net/v/t39.30808-6/419163175_782686897224483_3105428605523602770_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=9c7eae&_nc_ohc=PVX3rUET-YoAX-RsOBA&_nc_ht=scontent.flpb2-2.fna&oh=00_AfA76KeQvdgle-ZxzaWUkrA2TpKaYmkruyJ_uzV7Xdy_sw&oe=65EB03FC" group-title="CANALES DE BOLIVIA",Bolivision La Paz HD
 https://d3mghbm9e5zfap.cloudfront.net:443/Bolivision/2af819d7c8ab1c07658d1575e55800e5.sdp/Bolivision/Bolivision1/chunks.m3u8
 #EXTINF:-1 tvg-id="BOLIVISION BOLIVIA"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bolivision.png/800px-Bolivision.png" group-title="CANALES DE BOLIVIA",Bolivision La Paz SD
 https://d3mghbm9e5zfap.cloudfront.net:443/Bolivision/2af819d7c8ab1c07658d1575e55800e5.sdp/Bolivision/Bolivision2/chunks.m3u8
@@ -144,7 +144,7 @@ https://master.tucableip.com/abyayalatv/tracks-v1a1/mono.m3u8
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/PAT/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/brY56Hk/cvc-hd-virgen.jpg" group-title="CANALES DE BOLIVIA",Virgen De Copacabana
 https://5d00db0e0fcd5.streamlock.net/7034/7034/chunklist_w1842351465.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fE3BkcT.png" group-title="CANALES DE BOLIVIA",Gigavision
+#EXTINF:-1 tvg-logo="https://scontent.flpb2-1.fna.fbcdn.net/v/t39.30808-6/352105332_1422390358545984_8295598734554923799_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=X1Ik_lhlhUMAX9J7PlM&_nc_ht=scontent.flpb2-1.fna&oh=00_AfCzk8IIwZqtA4qSPlhaT06DtZ3T-_fxdsXnd_7YvLPD-g&oe=65EAF63E" group-title="CANALES DE BOLIVIA",Gigavision
 https://master.tucableip.com/gigavision/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.rqp.com.bo/wp-content/uploads/2023/11/20240102_114900_0000.png" group-title="CANALES DE BOLIVIA",RQP Plus
 https://d2pctfu2mpc31v.cloudfront.net/RQP/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
@@ -216,7 +216,7 @@ https://r.mjh.nz/PlutoTV/654a35ce346f420008d5c36e-alt.m3u8
 https://r.mjh.nz/PlutoTV/5f2817d3d7573a00080f9175-alt.m3u8
 #EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/65786888b228b7000843ad9a/colorLogoPNG.png" tvg-chno="32" group-title="SERIES Y PELICULAS" , Pluto TV Zombies
 https://r.mjh.nz/PlutoTV/65786888b228b7000843ad9a-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62fa81ccd1a7e90007c1ada0/colorLogoPNG.png" tvg-chno="4290" group-title="SERIES Y PELICULAS" , AMC
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62fa81ccd1a7e90007c1ada0/colorLogoPNG.png" tvg-chno="4290" group-title="SERIES Y PELICULAS" , AMC En Español
 https://r.mjh.nz/PlutoTV/62fa81ccd1a7e90007c1ada0-alt.m3u8
 #EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5f1acc91cc9e1b000711ff21/colorLogoPNG.png"  group-title="SERIES Y PELICULAS" , Mutante X
 https://r.mjh.nz/PlutoTV/5f1acc91cc9e1b000711ff21-alt.m3u8
@@ -252,7 +252,7 @@ http://stream.flynetwifi.com:1935/live/mobile-099/playlist.m3u
 http://stream.flynetwifi.com:1935/live/mobile-001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/ee33bf151598341.Y3JvcCwxMzgwLDEwODAsMjczLDA.jpg" group-title="SERIES Y PELICULAS",Cinecanal
 http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://amcnetworks.es/wp-content/uploads/2014/08/86fe389a-7332-4f94-a6fe-7bdfd11780e7.png" group-title="SERIES Y PELICULAS",AMC Español
+#EXTINF:-1 tvg-logo="https://amcnetworks.es/wp-content/uploads/2014/08/86fe389a-7332-4f94-a6fe-7bdfd11780e7.png" group-title="SERIES Y PELICULAS",AMC
 http://stream.flynetwifi.com:1935/live/mobile-079/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="SERIES Y PELICULAS",Warner TV
 http://stream.flynetwifi.com:1935/live/mobile-030/playlist.m3u8

@@ -53,7 +53,7 @@ http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 https://rpn3.bozztv.com/ssh101/ssh101/gogoplay/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WzJLqDM/ANIME-STATION-HD.jpg" group-title="ESPECIALES",Anime Station TV
 https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/codigoespagueti.com/wp-content/uploads/2019/07/bitme.jpg" group-title="ESPECIALES",BitMe
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/BitMe.svg/1629px-BitMe.svg.png" group-title="ESPECIALES",BitMe
 http://livex.pop-app.live/s4n/poplive/ch555/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Oj3hEBh.jpg" group-title="ESPECIALES",MAX Anime
 https://d16k620tapvw9n.cloudfront.net/out/v1/8e3062c10bb341feb7ee363c320e06af/index.m3u8
@@ -139,7 +139,7 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/ind
 https://d3mghbm9e5zfap.cloudfront.net:443/Bolivision/2af819d7c8ab1c07658d1575e55800e5.sdp/Bolivision/Bolivision1/chunks.m3u8
 #EXTINF:-1 tvg-id="BOLIVISION BOLIVIA"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bolivision.png/800px-Bolivision.png" group-title="CANALES DE BOLIVIA",Bolivision La Paz SD
 https://d3mghbm9e5zfap.cloudfront.net:443/Bolivision/2af819d7c8ab1c07658d1575e55800e5.sdp/Bolivision/Bolivision2/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d664F5t/CADENA-A-HD.jpg" group-title="CANALES DE BOLIVIA",Cadena A
+#EXTINF:-1 tvg-logo="https://scontent.flpb2-2.fna.fbcdn.net/v/t39.30808-6/428603015_466219426069564_7536542583503488613_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=7STj8oQ0lfMAX-aS4YK&_nc_ht=scontent.flpb2-2.fna&oh=00_AfAUR5sViAgpWE0_hLsKKXMaKfiDM7kBWTm-IN9-aKr-gA&oe=65EC07EF" group-title="CANALES DE BOLIVIA",Cadena A
 https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/chunklist_w1555521344.m3u8
 #EXTINF:-1 tvg-id="RTP BOLIVIA" tvg-logo="https://pbs.twimg.com/profile_images/1611030398955298817/wa4yOQuL_400x400.jpg" group-title="CANALES DE BOLIVIA",RTP HD
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8

@@ -133,9 +133,9 @@ https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/chunklist_w1555521344.
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/red-atb-bolivia-logo-2ABBEC408E-seeklogo.com.png" group-title="CANALES DE BOLIVIA",ATB
 http://186.121.206.197/live/daniel/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Bolivia_TV_2017_Oficial.png/revision/latest/scale-to-width-down/250?cb=20170113211312" group-title="CANALES DE BOLIVIA",Bolivia TV 7.1
+#EXTINF:-1 tvg-logo="https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg" group-title="CANALES DE BOLIVIA",Bolivia TV 7.1
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Bolivia-Deportes-TV-7.2-en-vivo-Online.png" group-title="CANALES DE BOLIVIA",Bolivia TV 7.2
+#EXTINF:-1 tvg-logo="https://deredes.tv/wp-content/uploads/2022/05/Bolivia-tv-Oficial-on-Twitter.jpg" group-title="CANALES DE BOLIVIA", Bolivia TV 7.2
 https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 #EXTINF:-1 tvg-id="ABYA YALA" tvg-logo="https://i.ibb.co/XkWwQH5/ABYA-YALA-HD.jpg" group-title="CANALES DE BOLIVIA",Abya Yala TV
 https://master.tucableip.com/abyayalatv/tracks-v1a1/mono.m3u8
@@ -145,7 +145,6 @@ https://w8.redpat.tv:7777/play/120/index.m3u8
 https://5d00db0e0fcd5.streamlock.net/7034/7034/chunklist_w1842351465.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fE3BkcT.png" group-title="CANALES DE BOLIVIA",Gigavision
 https://master.tucableip.com/gigavision/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.rqp.com.bo/wp-content/uploads/2023/11/20240102_114900_0000.png" group-title="CANALES DE BOLIVIA",RQP Plus
 https://d2pctfu2mpc31v.cloudfront.net/RQP/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="TVU BOLIVIA" tvg-logo="https://i.postimg.cc/1tv6QGb3/TVU-HD-NEW-2023.jpg" group-title="CANALES DE BOLIVIA",TVU UMSA

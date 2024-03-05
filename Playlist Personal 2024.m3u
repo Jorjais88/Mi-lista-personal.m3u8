@@ -59,7 +59,7 @@ http://livex.pop-app.live/s4n/poplive/ch555/playlist.m3u8
 https://d16k620tapvw9n.cloudfront.net/out/v1/8e3062c10bb341feb7ee363c320e06af/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6051201a0aa8a70007c24a2a/colorLogoPNG-1618602700695.png" tvg-chno="4450" group-title="CIENCIA HISTORIA Y TECNOLOGIA" , Mundo geek
 https://r.mjh.nz/PlutoTV/6051201a0aa8a70007c24a2a-alt.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png" group-title="CIENCIA HISTORIA Y TECNOLOGIA",National Geographic
+#EXTINF:-1 tvg-logo="https://static.nationalgeographic.es/files/styles/image_3200/public/23186.600x450.jpg?w=1900&h=1425" group-title="CIENCIA HISTORIA Y TECNOLOGIA",National Geographic
 http://stream.flynetwifi.com:1935/live/mobile-091/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1200px-History_%282021%29.svg.png"  group-title="CIENCIA HISTORIA Y TECNOLOGIA",History
 http://stream.flynetwifi.com:1935/live/mobile-058/playlist.m3u8
@@ -83,7 +83,7 @@ https://r.mjh.nz/PlutoTV/6051201a0aa8a70007c24a2a-alt.m3u8
 https://r.mjh.nz/PlutoTV/64db2e0835425100080f2f5a-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61cd78920b90cb0007e28231/colorLogoPNG.png"  group-title="CIENCIA HISTORIA Y TECNOLOGIA" , Pluto TV Documentales
 https://r.mjh.nz/PlutoTV/61cd78920b90cb0007e28231-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png"  group-title="CIENCIA HISTORIA Y TECNOLOGIA" , Nature Time
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61eeb4a701020c00075676ef/featuredImage.jpg"  group-title="CIENCIA HISTORIA Y TECNOLOGIA" , Nature Time
 https://r.mjh.nz/PlutoTV/60dd6b1da79e4d0007309455-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png" group-title="CIENCIA HISTORIA Y TECNOLOGIA" , Pluto TV Animales
 https://r.mjh.nz/PlutoTV/5dd834c66fe2ca0009303b8d-alt.m3u8
@@ -234,15 +234,15 @@ https://rpn3.bozztv.com/ssh101/ssh101/boliviaradiotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PlanetaTV.pe" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="SERIES Y PELICULAS",Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/7/1013/png-clipart-logo-hbo-hd-scalable-graphics-design-blue-angle.png" group-title="SERIES Y PELICULAS",HBO
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/hbo.jpg" group-title="SERIES Y PELICULAS",HBO
 http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="SERIES Y PELICULAS",HBO2
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/hbo-21940.logowik.com.webp" group-title="SERIES Y PELICULAS",HBO2
 http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/nQKUFG03EzcMHQ-BFMWP3wmBPWDgDCBZatPssXY4riWuc_ZCFN5rQAova2US2olc6VDIF-OY1g=s900-c-k-c0x00ffffff-no-rj" group-title="SERIES Y PELICULAS",Home & Health
 http://stream.flynetwifi.com:1935/live/mobile-107/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1059375747788390400/sn2AY1Ob_400x400.jpg" group-title="SERIES Y PELICULAS",FX
 http://stream.flynetwifi.com:1935/live/mobile-123/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="SERIES Y PELICULAS",Comedy Central
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_comedy-central_m.png" group-title="SERIES Y PELICULAS",Comedy Central
 http://stream.flynetwifi.com:1935/live/mobile-001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/ee33bf151598341.Y3JvcCwxMzgwLDEwODAsMjczLDA.jpg" group-title="SERIES Y PELICULAS",Cinecanal
 http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
@@ -250,7 +250,7 @@ http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-030/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/esstarwars/images/2/2c/Tnt_logo.png/revision/latest?cb=20091230061033" group-title="SERIES Y PELICULAS",TNT
 http://stream.flynetwifi.com:1935/live/mobile-074/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/800px-Star_Channel_2020.svg.png" group-title="SERIES Y PELICULAS",Star Channel
+#EXTINF:-1 tvg-logo="https://elbocon.pe/resizer/e34hunCljqmpA2piBVm9MKIGPW0=/1200x1200/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/J6CG7N4JFNHLDAAPAPWPEPATLI.jpg" group-title="SERIES Y PELICULAS",Star Channel
 http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="SERIES Y PELICULAS",Sony Channel
 http://stream.flynetwifi.com:1935/live/mobile-035/playlist.m3u8
@@ -300,8 +300,6 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://srv2.zcast.com.br/sptv32/sptv32/chunklist_w1630201617.m3u8
 #EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZQFOa3X5DwQKmTOfztQ3b-Bbk67VXlXacJYc7JqQg=s900-c-k-c0x00ffffff-no-rj" group-title="SERIES Y PELICULAS",Cinco TV
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
-#EXTINF:-1  tvg-logo="https://latinartv.com/sites/default/files/logos/nexthd.jpg" group-title="SERIES Y PELICULAS",Next HD
-https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 #EXTINF:-1  tvg-logo="https://latinartv.com/sites/default/files/logos/nexthd.jpg" group-title="SERIES Y PELICULAS",Next HD
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 #EXTINF:-1 tvg-id="Canela TV" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/linear-canela-tv_1.png" group-title="SERIES Y PELICULAS",Canela TV
@@ -366,29 +364,29 @@ https://r.mjh.nz/PlutoTV/5dcb62e63d4d8f0009f36881-alt.m3u8
 https://r.mjh.nz/PlutoTV/5e972a21ad709d00074195ba-alt.m3u8
 
 
-#EXTINF:-1 tvg-id="GoldenEdgePanregional.mx" tvg-logo="https://i.imgur.com/SlSbcp3.png" group-title="PELICULAS",Golden Edge
+#EXTINF:-1 tvg-id="GoldenEdgePanregional.mx" tvg-logo="https://i.pinimg.com/474x/dc/68/92/dc68921c04a4d9d6b10c7b7d7715d76f.jpg" group-title="PELICULAS",Golden Edge
 https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="GoldenMultiplex.mx" tvg-logo="https://i.imgur.com/Gnz4twB.png" group-title="PELICULAS",Golden
+#EXTINF:-1 tvg-id="GoldenMultiplex.mx" tvg-logo="https://televisa-networks.com/wp-content/uploads/2023/06/televisa-networks-senales-golden.png" group-title="PELICULAS",Golden
 https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="GoldenPlus.mx" tvg-logo="https://i.imgur.com/OOEkyM2.png" group-title="PELICULAS",Golden Plus
+#EXTINF:-1 tvg-id="GoldenPlus.mx" tvg-logo="https://www.latincable.pe/images/canales-tv/golden-plus.jpg" group-title="PELICULAS",Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="PELICULAS",Golden Premier
+#EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBhTgpQdxz5B0pOxKoISB3OiKUQJR_ylRyDTGeL15GLvqbOWwh" group-title="PELICULAS",Golden Premier
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aksM8pa.png" group-title="PELICULAS",De Película
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5S-mno6CCCcEYSG-gyD4DVjbT-5BXwuaVJ676HC64wAgZE8xs" group-title="PELICULAS",De Película
 https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MMhSmDK.png" group-title="PELICULAS",De Película Plus
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRas7OGZDxtaIRC1grMgYF51cBjgewlyLnkBP23rkZdIF0jUVWe" group-title="PELICULAS",De Película Plus
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="PELICULAS",Rakuten Action Movies
+#EXTINF:-1 tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/2ebca1ec-0fc9-48a4-b040-8ab526df1f26-peliculas-de-accion-rakuten-tv-1621956288.png" group-title="PELICULAS",Rakuten Action Movies
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="PELICULAS",Rakuten Comedy Movies
+#EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/65259a19-a034-4dca-bc49-ed7cf47f756d.jpeg" group-title="PELICULAS",Rakuten Comedy Movies
 https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="PELICULAS",Rakuten Drama
+#EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/019fef30-0d93-4f94-b056-d6f4e8a358bf-drama-movies-rakuten-tv-1621612518.jpeg" group-title="PELICULAS",Rakuten Drama
 https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="PELICULAS",Rakuten Family
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2022/10/Rakuten-TV-en-Familia-en-directo-Online.png" group-title="PELICULAS",Rakuten Family
 https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="PELICULAS",MyTime Movie Network Mexico
+#EXTINF:-1 tvg-logo="https://scontent.flpb2-1.fna.fbcdn.net/v/t39.30808-6/302220060_447736737370540_189474043498272080_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=Ee6eF6LMOfkAX_kxKrF&_nc_ht=scontent.flpb2-1.fna&oh=00_AfDujSdPREwFpPNnrtxDinJ3LpfF_QKBaRgf1xjX7xtAQg&oe=65EA707D" group-title="PELICULAS",MyTime Movie Network Mexico
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="PELICULAS",MyTime movie network Spain
+#EXTINF:-1 tvg-logo="https://scontent.flpb2-1.fna.fbcdn.net/v/t39.30808-6/302220060_447736737370540_189474043498272080_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=Ee6eF6LMOfkAX_kxKrF&_nc_ht=scontent.flpb2-1.fna&oh=00_AfDujSdPREwFpPNnrtxDinJ3LpfF_QKBaRgf1xjX7xtAQg&oe=65EA707D" group-title="PELICULAS",MyTime movie network Spain
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
 
@@ -400,12 +398,12 @@ https://scl.edge.grupoz.cl/movie/live/chunklist_w1169082194.m3u8
 https://tv.streaming-chile.com:1936/8142/8142/chunklist_w8647447.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vBj4w62/varied-tv-hd.jpg" group-title="PELICULAS",Varied TV
 https://6362ca6f1fc28.streamlock.net/8066/8066/chunklist_w536319455.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="PELICULAS",Terror TV
+#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/logos/terror-tv.png" group-title="PELICULAS",Terror TV
 https://tv.streaming-chile.com:1936/8140/8140/chunklist_w200214298.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8f667db78acfeca3e792be86616ee96f.webp" group-title="PELICULAS",Cine Friki 
 https://d2jqgm8hyia1n3.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8hl8d0bx6aah/65246661-2ade-4a67-8cf4-60251fdcc971/0.m3u8
 #EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/1300_Moni_TV.png" group-title="PELICULAS",Moni TV
-https://rpn3.bozztv.com/ssh101/ssh101/monitvhd/playlist.m3u8
+https://vdo.streaming-chile.com:3056/live/ngencrcbyylive.m3u8
 #EXTINF:-1  tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/05/cine-ar-logo-vector.png" group-title="PELICULAS",Cine.AR
 https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w1007148431.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/02dd320d-ce42-40eb-8f86-c91dd108c2be/flou_cine_logo_1500x1500-04_-_Marcello_Gagliardi_Lugordx2.png" group-title="PELICULAS",Flou Cine

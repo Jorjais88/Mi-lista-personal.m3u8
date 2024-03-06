@@ -1,7 +1,6 @@
 #EXTM3U 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0cf002ed575e28fb68b6827a6bbb9b12.webp" group-title="24/7",Trailers 
 https://amg01821-lovetvchannels-lovemagazinespain-tivify-tivify-8o5mz.amagi.tv/1080p/index.m3u8
-
 #EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5fb554d87a0c480007c8dada/colorLogoPNG.png" group-title="ESPECIALES" , ESR 24/7
 https://r.mjh.nz/PlutoTV/5fb554d87a0c480007c8dada-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png" tvg-chno="1324" group-title="ESPECIALES" , Pluto TV E-Sports
@@ -28,10 +27,8 @@ https://tv.bitstreaming.net:3073/live/solidariatvlive.m3u8
 https://streamer03.digital.com.bo/session/4e839498-b325-47f7-987f-205b4831346f/2ap337/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EI-wBOZWwAEYKey.png" group-title="CANALES DE BOLIVIA",Unitel HD
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/prxKw6tK/bolivisionbolivia.jpg" group-title="CANALES DE BOLIVIA",Bolivision Bolivia HD
 https://d3mghbm9e5zfap.cloudfront.net/Bolivision/2af819d7c8ab1c07658d1575e55800e5.sdp/playlist.m3u8
-
 #EXTINF:-1  tvg-logo="https://scontent.flpb2-2.fna.fbcdn.net/v/t39.30808-6/419163175_782686897224483_3105428605523602770_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=9c7eae&_nc_ohc=PVX3rUET-YoAX-RsOBA&_nc_ht=scontent.flpb2-2.fna&oh=00_AfA76KeQvdgle-ZxzaWUkrA2TpKaYmkruyJ_uzV7Xdy_sw&oe=65EB03FC" group-title="CANALES DE BOLIVIA",Bolivision La Paz HD
 https://d3mghbm9e5zfap.cloudfront.net:443/Bolivision/2af819d7c8ab1c07658d1575e55800e5.sdp/Bolivision/Bolivision1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/03/Bolivisi%C3%B3n-en-vivo-Online.png" group-title="CANALES DE BOLIVIA",Bolivision La Paz SD

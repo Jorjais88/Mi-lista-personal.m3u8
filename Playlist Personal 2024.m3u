@@ -31,6 +31,8 @@ https://5e85d90130e77.streamlock.net/6020/6020/chunklist_w497603724.m3u8
 https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MpTgJMJ.png" group-title="RELIGIOSOS",Claro Visión TV
 https://vsrv2.az-streamingserver.com:3057/live/clarovisiontvlive.m3u8
+#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/channel-iyf2023-16x9_0.jpg" group-title="RELIGIOSOS",Canela TV Inspiracion y Fe
+https://stream.ads.ottera.tv/cl/240306cnkfkf03t0ms86vjhl00/1280x720_3071200_0_f.m3u8?i=475_4847
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WGkMt2j.png" group-title="RELIGIOSOS",RedADvenir TV
 http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/gjBZYQ5f7NwUNc9o6FJdry1Z3oa4gOgV707xAJhOVJ4UpGGlHwSCIeDk0V0LkQez9g" group-title="RELIGIOSOS",CVC La Voz
@@ -39,17 +41,17 @@ https://streannlivecvc.cachefly.net/Protected/sp=1;dirmatch=true/5213c85025818c3
 https://streannlivecvc.cachefly.net/Protected/sp=1;dirmatch=true/f7291aa3047d55612322a9c27e0c0027846e3c814b143bbb46e5b4a228b9065a/cvc4/cvc4_abr/cvc4/cvc4_1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZR5RprklNmE1pCcNbmdXlF1cO7UZhAFJF41I6rT=s900-c-k-c0x00ffffff-no-rj" group-title="RELIGIOSOS",Enlace Juvenil
 https://livecdn.enlace.plus/ejtv/smil:ejtv-hd.smil/chunklist_b2752000_sleng.m3u8
-#EXTINF:-1 tvg-id="Poder de Dios.bo" tvg-logo="https://scontent.flpb2-1.fna.fbcdn.net/v/t39.30808-6/417211332_795615489276223_905244614319894099_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=sf2YEr1XH1QAX9-Kkz8&_nc_ht=scontent.flpb2-1.fna&oh=00_AfDUqaDDYAHLYwrGj40be7ArkuYGzwO5y7HYa38Xmkin1A&oe=65EAC691" group-title="CANALES DE BOLIVIA",Canal Poder de Dios
+#EXTINF:-1 tvg-id="Poder de Dios.bo" tvg-logo="https://scontent.flpb2-1.fna.fbcdn.net/v/t39.30808-6/417211332_795615489276223_905244614319894099_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=sf2YEr1XH1QAX9-Kkz8&_nc_ht=scontent.flpb2-1.fna&oh=00_AfDUqaDDYAHLYwrGj40be7ArkuYGzwO5y7HYa38Xmkin1A&oe=65EAC691" group-title="CANALES DE BOLIVIA",Poder de Dios HD
 https://s3.tvdatta.com:3846/live/poderdedioslive.m3u8
 #EXTINF:-1 tvg-id="XTOTV.bo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e9b632aabb0576ebf8f67b5af638ccba.webp" group-title="CANALES DE BOLIVIA", XTOTV
 http://www.channel.tevemi.com:1935/XtoTv/XtoTv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk1WWfKP/SOLIDARIATVBOLIVIA-HD.jpg" group-title="CANALES DE BOLIVIA", Solidaria TV Bolivia
 https://tv.bitstreaming.net:3073/live/solidariatvlive.m3u8
-#EXTINF:-1 tvg-logo="https://scontent.flpb2-2.fna.fbcdn.net/v/t39.30808-6/307083081_396235339357408_3618711764136284225_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=9c7eae&_nc_ohc=ByARZFdwSFAAX927yRz&_nc_ht=scontent.flpb2-2.fna&oh=00_AfD9EUdzpVp58GrXt2iin9LrCM3_bx-PiN4Q_AphZ9HVwg&oe=65EB24B1" group-title="CANALES DE BOLIVIA",Red Uno HD
+#EXTINF:-1 tvg-logo="https://scontent.flpb2-2.fna.fbcdn.net/v/t39.30808-6/307083081_396235339357408_3618711764136284225_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=9c7eae&_nc_ohc=ByARZFdwSFAAX927yRz&_nc_ht=scontent.flpb2-2.fna&oh=00_AfD9EUdzpVp58GrXt2iin9LrCM3_bx-PiN4Q_AphZ9HVwg&oe=65EB24B1" group-title="CANALES DE BOLIVIA",Red Uno
 https://streamer03.digital.com.bo/session/4e839498-b325-47f7-987f-205b4831346f/2ap337/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EI-wBOZWwAEYKey.png" group-title="CANALES DE BOLIVIA",Unitel HD
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EI-wBOZWwAEYKey.png" group-title="CANALES DE BOLIVIA",Unitel
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/prxKw6tK/bolivisionbolivia.jpg" group-title="CANALES DE BOLIVIA",Bolivision Bolivia HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/prxKw6tK/bolivisionbolivia.jpg" group-title="CANALES DE BOLIVIA",Bolivision Bolivia
 https://d3mghbm9e5zfap.cloudfront.net/Bolivision/2af819d7c8ab1c07658d1575e55800e5.sdp/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://scontent.flpb2-2.fna.fbcdn.net/v/t39.30808-6/419163175_782686897224483_3105428605523602770_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=9c7eae&_nc_ohc=PVX3rUET-YoAX-RsOBA&_nc_ht=scontent.flpb2-2.fna&oh=00_AfA76KeQvdgle-ZxzaWUkrA2TpKaYmkruyJ_uzV7Xdy_sw&oe=65EB03FC" group-title="CANALES DE BOLIVIA",Bolivision La Paz HD
 https://d3mghbm9e5zfap.cloudfront.net:443/Bolivision/2af819d7c8ab1c07658d1575e55800e5.sdp/Bolivision/Bolivision1/chunks.m3u8
@@ -57,9 +59,9 @@ https://d3mghbm9e5zfap.cloudfront.net:443/Bolivision/2af819d7c8ab1c07658d1575e55
 https://d3mghbm9e5zfap.cloudfront.net:443/Bolivision/2af819d7c8ab1c07658d1575e55800e5.sdp/Bolivision/Bolivision2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.flpb2-2.fna.fbcdn.net/v/t39.30808-6/428603015_466219426069564_7536542583503488613_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=7STj8oQ0lfMAX-aS4YK&_nc_ht=scontent.flpb2-2.fna&oh=00_AfAUR5sViAgpWE0_hLsKKXMaKfiDM7kBWTm-IN9-aKr-gA&oe=65EC07EF" group-title="CANALES DE BOLIVIA",Cadena A
 https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/chunklist_w1555521344.m3u8
-#EXTINF:-1 tvg-id="RTP BOLIVIA" tvg-logo="https://pbs.twimg.com/profile_images/1611030398955298817/wa4yOQuL_400x400.jpg" group-title="CANALES DE BOLIVIA",RTP HD
+#EXTINF:-1 tvg-id="RTP BOLIVIA" tvg-logo="https://pbs.twimg.com/profile_images/1611030398955298817/wa4yOQuL_400x400.jpg" group-title="CANALES DE BOLIVIA",RTP
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/red-atb-bolivia-logo-2ABBEC408E-seeklogo.com.png" group-title="CANALES DE BOLIVIA",ATB HD
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/red-atb-bolivia-logo-2ABBEC408E-seeklogo.com.png" group-title="CANALES DE BOLIVIA",ATB
 http://186.121.206.197/live/daniel/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg" group-title="CANALES DE BOLIVIA",Bolivia TV 7.1
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
@@ -96,7 +98,7 @@ https://tv.bitstreaming.net:3234/multi_live/play_720.m3u8
 #EXTINF:-1 tvg-id="F10" tvg-logo="https://i.ibb.co/ggkqLnh/F10-HD.jpg" group-title="CANALES DE BOLIVIA",F10
 https://video.live.com.bo:3253/live/f10hdlive.m3u8
 #EXTINF:-1 tvg-id="SEOTV1FHD.bo" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="CANALES DE BOLIVIA",SEO TV
-https://seo.tv.bo/tv/SEO1.m3u8
+https://seo.tv.bo/tv/SEO1HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xCJhqyJ/DELTA-TV-HD-02.jpg" group-title="CANALES DE BOLIVIA",Delta TV
 https://vsrv1.az-streamingserver.com:3068/live/vdsocmnulive.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/444NgrX/RTVE-PUNATA-HD.jpg" group-title="CANALES DE BOLIVIA",RTVE Punata
@@ -127,9 +129,9 @@ https://vdo.grupolimalive.com:3162/live/imperialtvlive.m3u8
 https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVLatina.bo" tvg-logo="https://i.imgur.com/V6wxEdh.png" group-title="CANALES DE BOLIVIA",TV Latina
 https://master.tucableip.com/live/tvlatinamontero/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2jry2yg/CONTACTO-BOLIVIA-HD.jpg" group-title="CANALES DE BOLIVIA",CONTACTO BOLIVIA HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2jry2yg/CONTACTO-BOLIVIA-HD.jpg" group-title="CANALES DE BOLIVIA",Contacto Bolivia
 https://streannlivecontactobolivia.cachefly.net/Protected/sp=1;dirmatch=true;ip=131.0.196.97/1c1a81b78b3a70ed593d95eea6d18374f6138c7f15f0b4d8dd920c741dd11756/contactobolivia1/contactobolivia1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bgdhVKY/NEO-TV-BOLIVIA.jpg" group-title="CANALES DE BOLIVIA",NEO TV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bgdhVKY/NEO-TV-BOLIVIA.jpg" group-title="CANALES DE BOLIVIA",Neo TV
 https://tv1.mediacp.eu:3661/live/rlbpwxvhlive.m3u8
 #EXTINF:-1 tvg-id="Canal29TVA.bo" tvg-logo="https://i.imgur.com/y3bymuv.jpg" group-title="CANALES DE BOLIVIA",Canal 29 TVA
 https://vdo.grupolimalive.com:3089/live/tvelive.m3u8
@@ -270,12 +272,10 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Canela TV" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/linear-canela-tv_1.png" group-title="PELICULAS",Canela TV
 https://stream.ads.ottera.tv/cl/240306cnkffrlqmpl0cu3ug3ng/1280x720_3071200_0_f.m3u8?i=475_653
-#EXTINF:-1 tvg-id="Canela Cinema" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/linear-canela-cinema-16x9_0.png" group-title="PELICULAS",Canela cinema
+#EXTINF:-1 tvg-id="Canela Cinema" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/linear-canela-cinema-16x9_0.png" group-title="PELICULAS",Canela Cinema
 https://stream.ads.ottera.tv/cl/240306cnkfgqletd0m82dpamsg/1280x720_3071200_0_f.m3u8?i=475_3134
 #EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/square/366x206/d9772ce6-channel-desastres-1x1.jpg" group-title="PELICULAS",Canela TV Desastres
 https://stream.ads.ottera.tv/cl/240306cnkfjpuut1i2i5p329n0/1280x720_1400000_1_f.m3u8?i=475_7364
-#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/channel-iyf2023-16x9_0.jpg" group-title="PELICULAS",Canela TV Inspiracion y Fe
-https://stream.ads.ottera.tv/cl/240306cnkfkf03t0ms86vjhl00/1280x720_3071200_0_f.m3u8?i=475_4847
 #EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/square/366x206/bba9b402-channel-canela_horror-7x10.jpg" group-title="PELICULAS",Canela TV Horror
 https://stream.ads.ottera.tv/cl/240306cnkflb7lv2p8828fktbg/1280x720_2300000_0_f.m3u8?i=475_6029
 #EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/Vg1FlYWv3f_xiG-52sEBZoHuJY_R_s0GVMMPMgNxUMc.jpg" group-title="PELICULAS",Azteca Internacional
@@ -316,6 +316,8 @@ https://stream.ads.ottera.tv/cl/240307cnkgh00ebt6eeok2k08g/1280x720_3071200_0_f.
 https://stream.ads.ottera.tv/cl/240307cnkghh8ebt6eeok2k3l0/1280x720_3071200_0_f.m3u8?i=728_6129
 #EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_familia_16x9.jpg" group-title="PELICULAS",Runtime Familia
 https://stream.ads.ottera.tv/cl/240307cnkghvo3t0ms86vjnrtg/1280x720_3071200_0_f.m3u8?i=728_6118
+#EXTINF:-1  tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="PELICULAS",Cine Sony
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/99912765d4b4234eab782b5beb81286d.webp" group-title="PELICULAS",Planeta TV Movies
 https://scl.edge.grupoz.cl/movie/live/chunklist_w1169082194.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png" group-title="PELICULAS",+Cine TV
@@ -424,6 +426,8 @@ https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream1/chunks.m3u8?nimblesessionid=587051430
 #EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/contivision-tv-7001.webp" group-title="SERIES Y PELICULAS",Contivision
 https://unlimited1-cl-isp.dps.live/cm/cm.smil/cm/livestream1/chunks.m3u8?nimblesessionid=951812061
+#EXTINF:-1 tvg-logo="https://noticias.uai.edu.ar/blogs/2001-3000/2183-tvdigital2.jpg" group-title="INTERNACIONAL",Super Digital TV
+https://inliveserver.com:1936/11516/11516/chunklist_w2034884370.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LC46tBg/cosmos-tv-hd.jpg" group-title="INTERNACIONAL",Cosmos TV
 https://v1.tustreaming.cl/cosmostv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/486_Orbit_TV.png" group-title="INTERNACIONAL", Orbit TV

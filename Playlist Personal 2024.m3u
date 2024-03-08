@@ -31,8 +31,6 @@ https://5e85d90130e77.streamlock.net/6020/6020/chunklist_w497603724.m3u8
 https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MpTgJMJ.png" group-title="RELIGIOSOS",Claro Visión TV
 https://vsrv2.az-streamingserver.com:3057/live/clarovisiontvlive.m3u8
-#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/channel-iyf2023-16x9_0.jpg" group-title="RELIGIOSOS",Canela TV Inspiracion y Fe
-https://stream.ads.ottera.tv/cl/240306cnkfkf03t0ms86vjhl00/1280x720_3071200_0_f.m3u8?i=475_4847
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WGkMt2j.png" group-title="RELIGIOSOS",RedADvenir TV
 http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/gjBZYQ5f7NwUNc9o6FJdry1Z3oa4gOgV707xAJhOVJ4UpGGlHwSCIeDk0V0LkQez9g" group-title="RELIGIOSOS",CVC La Voz
@@ -41,7 +39,7 @@ https://streannlivecvc.cachefly.net/Protected/sp=1;dirmatch=true/5213c85025818c3
 https://streannlivecvc.cachefly.net/Protected/sp=1;dirmatch=true/f7291aa3047d55612322a9c27e0c0027846e3c814b143bbb46e5b4a228b9065a/cvc4/cvc4_abr/cvc4/cvc4_1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZR5RprklNmE1pCcNbmdXlF1cO7UZhAFJF41I6rT=s900-c-k-c0x00ffffff-no-rj" group-title="RELIGIOSOS",Enlace Juvenil
 https://livecdn.enlace.plus/ejtv/smil:ejtv-hd.smil/chunklist_b2752000_sleng.m3u8
-#EXTINF:-1 tvg-id="Poder de Dios.bo" tvg-logo="https://scontent.flpb2-1.fna.fbcdn.net/v/t39.30808-6/417211332_795615489276223_905244614319894099_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=sf2YEr1XH1QAX9-Kkz8&_nc_ht=scontent.flpb2-1.fna&oh=00_AfDUqaDDYAHLYwrGj40be7ArkuYGzwO5y7HYa38Xmkin1A&oe=65EAC691" group-title="CANALES DE BOLIVIA",Poder de Dios HD
+#EXTINF:-1 tvg-id="Poder de Dios.bo" tvg-logo="https://scontent.flpb2-1.fna.fbcdn.net/v/t39.30808-6/417211332_795615489276223_905244614319894099_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=sf2YEr1XH1QAX9-Kkz8&_nc_ht=scontent.flpb2-1.fna&oh=00_AfDUqaDDYAHLYwrGj40be7ArkuYGzwO5y7HYa38Xmkin1A&oe=65EAC691" group-title="CANALES DE BOLIVIA",Poder de Dios
 https://s3.tvdatta.com:3846/live/poderdedioslive.m3u8
 #EXTINF:-1 tvg-id="XTOTV.bo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e9b632aabb0576ebf8f67b5af638ccba.webp" group-title="CANALES DE BOLIVIA", XTOTV
 http://www.channel.tevemi.com:1935/XtoTv/XtoTv/playlist.m3u8
@@ -270,52 +268,6 @@ https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.flpb2-1.fna.fbcdn.net/v/t39.30808-6/302220060_447736737370540_189474043498272080_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=Ee6eF6LMOfkAX_kxKrF&_nc_ht=scontent.flpb2-1.fna&oh=00_AfDujSdPREwFpPNnrtxDinJ3LpfF_QKBaRgf1xjX7xtAQg&oe=65EA707D" group-title="PELICULAS",MyTime movie network Spain
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Canela TV" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/linear-canela-tv_1.png" group-title="PELICULAS",Canela TV
-https://stream.ads.ottera.tv/cl/240306cnkffrlqmpl0cu3ug3ng/1280x720_3071200_0_f.m3u8?i=475_653
-#EXTINF:-1 tvg-id="Canela Cinema" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/linear-canela-cinema-16x9_0.png" group-title="PELICULAS",Canela Cinema
-https://stream.ads.ottera.tv/cl/240306cnkfgqletd0m82dpamsg/1280x720_3071200_0_f.m3u8?i=475_3134
-#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/square/366x206/d9772ce6-channel-desastres-1x1.jpg" group-title="PELICULAS",Canela TV Desastres
-https://stream.ads.ottera.tv/cl/240306cnkfjpuut1i2i5p329n0/1280x720_1400000_1_f.m3u8?i=475_7364
-#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/square/366x206/bba9b402-channel-canela_horror-7x10.jpg" group-title="PELICULAS",Canela TV Horror
-https://stream.ads.ottera.tv/cl/240306cnkflb7lv2p8828fktbg/1280x720_2300000_0_f.m3u8?i=475_6029
-#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/Vg1FlYWv3f_xiG-52sEBZoHuJY_R_s0GVMMPMgNxUMc.jpg" group-title="PELICULAS",Azteca Internacional
-https://stream.ads.ottera.tv/cl/240306cnkfm5425rmucqoh6q1g/1280x720_3070540_0_f.m3u8?i=475_5397
-#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/square/366x206/d9772ce6-channel-desastres-1x1.jpg" group-title="PELICULAS",Canela TV True Crime
-https://stream.ads.ottera.tv/cl/240306cnkfn20ebt6eeok2e1m0/1920x1080_2900000_5_f.m3u8?i=475_3985
-#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-accion-mexicana-16x9.jpg" group-title="PELICULAS",Canela TV Accion Mexicana
-https://stream.ads.ottera.tv/cl/240306cnkfoogorssvr6h3lebg/1280x720_1400000_1_f.m3u8?i=475_1153
-#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/1lTi7wSP60cxE7qXChGjTg8EnqO7fSIgEulDWrzfPOI.jpg" group-title="PELICULAS",Canela TV Cinema
-https://stream.ads.ottera.tv/cl/240306cnkfq5c25rmucqoh7rd0/1280x720_3071200_0_f.m3u8?i=475_5400
-#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/pelimex-v2.jpg" group-title="PELICULAS",Canela TV Pelimex
-https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_PeliMex/cc572431-cf11-4368-8874-2d0af5fe2738/4.m3u8
-#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/logo/366x206/1920_x_1080_0_2.jpg" group-title="PELICULAS",Canela TV Clic
-https://stream.ads.ottera.tv/cl/240306cnkfrdno7svq0t6hg6k0/1280x720_3071200_0_f.m3u8?i=475_653
-#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/channel-todo_cine-16x9_0.jpg" group-title="PELICULAS",Canela TV Todo Cine
-https://stream.ads.ottera.tv/cl/240306cnkfs6k4f133279jtleg/1280x720_3072000_0_f.m3u8?i=475_4565
-#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/channel-flou_cine-16x9_0.jpg" group-title="PELICULAS",Flou Cine
-https://amg01768-flou-flou-canelatv-yri41.amagi.tv/playlist/amg01768-flou-flou-canelatv/cb563d1d7a6c65909bc33978d9f662ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5baf6852db80148b6f4adafb8c2360625f5c98435ee3b24aa5f7b75b45d83da3ac481b942b58e683179cc915ea88d346cd458220f41ccf93a28bd3458887ab5ef803f17a1a513678a6907894cc2ff6b0e4612d88613b034d54a3f195bb1c3a91505412fbfec5ba69fe5dda9f60d3666dcf6af25a970f9a79a31fa6e257d2cbd1bb135837e99e350b40a1e1b3c4e23a31cf0591c3b9870916e9f7106b09cd68ce2b283dafeac21090cb67f0dc47d4e6314d62bbfb289a99a1cdfcb9994fa32bcbcaf1ea57282660050c8351a38e7b816bb716a9ca006f5d5d54929840ca82d55b421225e88351d95d18b8d58e8fde4034de74412a8209d85f1622cf3b7c6ce45f9af05d3cd35b60ef3439e81632854cf8bd3e87c8b1880834a1e1d452fa6ce6b303d7f258fa07515806a0bc285a53457ed5d16f09423ba905b7d599b9255806e8a4c9fa9100695069460b5bd3e6b4259e8a97794841c556713a057a7d9700c527d613760c2fdd6cb0c66824df7e4b43e7a32c134f7fa9d8a38891d7c95dc719b9abac2021760337d74204227d9db79d49c22b5f716858bf1a764fcf78303fe281ddf58ada21818b73bd7661156dc0fc160f1d443c670f8d996bd24db8e877ca9ace4f82eb88044c86399c0d1190d7c96dffe8f3a3256d95b90d6a0dfbd423d56112c418da388ddc64aad33f674d662b22a68950ef4dcbbcf0a67bc043c727027af936bc98f3a1a4053c86c11049597854136c1c72291ab1d9d05b087ee5bb2ff22f838136fe100469482dae83044dc8ef730c8e0a7d6fabb3ce85b9b8607aab3fc692a80a71cec6d5a180b65ac8acf094d888635d16d0b7d934d1c3bba0bc184ebb1c71010394d44b5d37f92bf59e0ee2ac6711871c0a6bbb1cf159e3758b85ac6ca454344a326fdcf1b1848d53124e5b45e8c0faff1acfb34a41be3bf74c6d289d90ae9437bfb2b87696ff4c9be8e73e0e47a36f3fea156df98bf2881827e295605ad43b1ec0dfcf2706f2e9c64a3d50fed7886237ce8c5add1ddbddc00642880709f7077055ec2daac9ef322fd6b51d5605b64b1fda23cd88f84c497eaba563270104185a5c8217127fb27e228e3286c9cefd282c870a8f4f18ba7aa4cd1ee78104fcfcc9f6e1b46a37e9a74246bc5fa738b825cfcb86b76df7042ff93ee36f08cce8d5f0cce3d0a48f8e4e287fb870db589838cabceafb13210575d9033e3058df15d1040456d48915fdae436889c9ee41a422515609003fdf13ddcd431b5d42ad99530c41f1527ae27afc1c11ba68c5/163/1280x720_2657019/index.m3u8
-#EXTINF:-1 tvg-id="Free TV Accion" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/freetv_accion_1920x1080.jpg" group-title="PELICULAS",Free TV Accion
-https://amg01024-olympusat-olytopcinelatam-canelatv-ad-1t.amagi.tv/playlist/amg01024-olympusat-olytopcinelatam-canelatv/cb563d1d7a6c65909bc33978d9f662ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5baf6852db80148b6f4adafb8c2360625f5c98435ee3b24aa5a9e85b4cd868a5ac481b942c58e683179cc94ebed5d2469a45d076a24295c1f0d8d14388abab59f803f17a0e5d2c799c920bfca330b8d58e562a8c742b4f185ce3a7c991245487435012fffbdbad179c79afd97ff10a50ba048b019d3f8819cf63c4d86182f7d0b526463db4d629024dc1b5fade914432b975b5a3f9cd4c6f8df9067d78dc7fd4505452edf5df0094d04fd9f93492a3271e39ce94499ad3a695a0b4885c9526cfd4aeeb572e49671410b95ead947ede27c90acba4727006372edc9b51d7c8dd5b266b4c83bf56d11a1cb1cff9e6b56d6c983041218213d85f1622c8317a75e628c6963d628e330b82304f9f32578551a6c9469fa6dff64832a6e1cb43eb1d8cdf6b82ac51c3003d5d11fdf629494c4f78efe7627f72138316e28092b3260f04bff3c9af93026f57684e05548fb1b2759fd9907c4a12c4047c1a1e60169217986dda1640032bf609daa81d7cf7604b49b7f5670d002efca6b0859498cb54a540d1daf33d233e2b13d75d0629639db58c57f8344a30754994551c29d3065e51a480dada899267d89d67b34a047e0794e9190c532619091f88af78c557f4921ea0e9ac36a8be941c08df47c96c119ac3927ff1f984f8410e9daf25730dffd026cb7621c603c271ffb800d9b446481b38505afd8d5bf14cbcd18eb548f04dfc7de41f800ad30d3b3cb71c34c5be08541106591e695b775e74d2b8e64570b56821459c30d5e440bd4a14123242cc8b035ffc851f891dbb1f12c38ccacb9dcb19528a0660f4470171c77b7758c5c928eb91a6f2f78261400f99b2ae0c97a0c8b1cdcc80462c4f0434ea2f4a440cb5c6a02c7e3c9feb3d01e0ba459000b678e727b287b761c83d9ffbbd14945dfc94f45a1844535bf0c0b8af5a8bfc4272b275df423a0bdca4d0b434ab94ec5c38dd54eed35335ee26280980ebda14d827bdd13c28cc8e7d168027658fb3a96654e30c930d1e31b1c188653e8fe40a904694dcb72c449e0713e1080f33fe32aac9ef273fa18f120650ff0248d924d3868a0a2b07c4f8512c240903021a91110c5e83105ee54be2aab2cb2b4ae826850038b37cd5b274afb003e3f684beeed2316ba3f81b05b068c30eaa28dad69ff259f74b0066f830e05d97b588f53d401e5cae8187/3/1280x720_2964940/index.m3u8
-#EXTINF:-1 tvg-id="Free TV" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F44c41dc6-79ae-4751-b637-f657742e6332%2FFreeTVLive_logo_1920x1080_-_Ralph_Campillo.jpg" group-title="PELICULAS",Free TV Live
-https://chiquilines-freetv.amagi.tv/Chiquilines-plex/master_5.m3u8
-#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/freetv_esterlar_1920x1080.jpg" group-title="PELICULAS",Free TV Estelar
-https://amg01024-olympusat-olytucinelatam-canelatv-ad-pe.amagi.tv/playlist/amg01024-olympusat-olytucinelatam-canelatv/cb563d1d7a6c65909bc33978d9f662ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5baf6852db80148b6f4adafb8c2360625f5c98435ee3b24af7a9e75c478c38a2ac481b942d58e683179cc915ed888046cf41857ff116cc96a5d9871788a7ab59f803f17a004b1d7198940bf0a33ce680e903559b7538542156e9ad80fb4028f424293da9a5b3d50bfe17ddc730925f27a9098e4e8729f80dc06df6f840edf7e8b52f403db78a5f6431a9e6a5b5f23141ff0cbbf1ef8e2b2ec8f0102b43cd3c8b737c68c1a49c4c80904093b274d5e13e193d97cb07f1f3b387fcfe8c5a8c1ac8d2fa9c31473c136e6c8552afd46eda27d874a9801c35481734c7fd54c09597473f603de3ea3ded3c39e3a1e1f2de0a2884641e4ce163dc640d69c5336468974893f96b3ed97c61ef513aff4827f22196d97cafd0b195073fa690c046ef7dd0b605dce507a7794e3a68d2a376242f3f7cd4fd2809356fca46e1ecc6e0790e15edf0c88ca4395a022a4d0666fae3e363d58fd0392205d55c34654b05059a76a903a2085d143eda449ce31e639248222ce8a2335c14788087b58491dfc941a625aea597382b281764b83d01237ca1d9e734f3375f41694d850c6d45b4025e1885ffa1e49d9320c99874b84a017e0295aa6d2b79537770449f957ede5de7ac0ab09fde54be89e77614d764f35b6bf4bddd68eba392ce5b0aafa4561462e5b94dad702cc912d82a9cc42aacda3f130f03505acb9855fc46cbb9f0a37a8322e07de41f800ad30d3b3cb71c34c5be08541106591e695b775e74d2b8e64570b56821459c30d5e440bd4a14123242cc8b035ffc851f891dbb1f12c38ccacb9dcb19528a0660f4470171c77b7758c5c928eb91a6f2f78261400f99b2ae0c97a0c8b1cdcc80462c4f0434ea2f4a440cb5c6a02c7e3c9feb3d01e0ba459000b678e727b287b761c83d9ffbbd14945dfc94f45a1844535bf0c0b8af5a8bfc4272b275df423a0bdca4d0b434ab94ec5c38dd54eed35335ee26280980ebda14d827bdd13c28cc8e7d168027658fb3a96654e30c930d1e31b1c188653e8fe40a904694dcb72c449e0713e1080f33fe32aac9ef273fa18f120650ff0248d924d3868a0a2b07c4f8512c240903021a91110c5e83105ee54be2aab2cb2b4ae826850038b37cd5b274afb003e3f684beeed2316ba3f81b05b068c30eaa28dad69ff25afc0679cb02185363abaa8c20b821b2bf35f8d980/85/1280x720_2964940/index.m3u8
-#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/freetv_drama_1920x1080_3.jpg" group-title="PELICULAS",Free TV Drama
-https://stream.ads.ottera.tv/cl/240306cnkg136ut1i2i5p353fg/1280x720_2964940_0_f.m3u8?i=475_4600
-#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_las_action_bg.jpg" group-title="PELICULAS",Runtime Accion
-https://stream.ads.ottera.tv/cl/240307cnkgej9arhpvl5g94s5g/1280x720_3071200_0_f.m3u8?i=728_2550
-#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/square/366x206/e68983a1-sangre_fria_1920x1920_0.jpg" group-title="PELICULAS",Runtime Sangre Fria
-https://stream.ads.ottera.tv/cl/240307cnkgf7j2n144fjv439i0/1280x720_3071200_0_f.m3u8?i=728_6130
-#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_cinespanto_16x9_0.jpg" group-title="PELICULAS",Runtime Cine Espanto
-https://stream.ads.ottera.tv/cl/240307cnkgfteut1i2i5p38jeg/1280x720_3071200_0_f.m3u8?i=728_6126
-#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_las_1920x1080.jpg" group-title="PELICULAS",Runtime TV y Peliculas
-https://stream.ads.ottera.tv/cl/240307cnkggdc3ffmg90fdob20/1280x720_3071200_0_f.m3u8?i=728_2154
-#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_las_comedy_bg.jpg" group-title="PELICULAS",Runtime Comedia
-https://stream.ads.ottera.tv/cl/240307cnkgh00ebt6eeok2k08g/1280x720_3071200_0_f.m3u8?i=728_6127
-#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_crimen_latam_16x9.jpg" group-title="PELICULAS",Runtime Crimen
-https://stream.ads.ottera.tv/cl/240307cnkghh8ebt6eeok2k3l0/1280x720_3071200_0_f.m3u8?i=728_6129
-#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_familia_16x9.jpg" group-title="PELICULAS",Runtime Familia
-https://stream.ads.ottera.tv/cl/240307cnkghvo3t0ms86vjnrtg/1280x720_3071200_0_f.m3u8?i=728_6118
 #EXTINF:-1  tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="PELICULAS",Cine Sony
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/99912765d4b4234eab782b5beb81286d.webp" group-title="PELICULAS",Planeta TV Movies
@@ -342,7 +294,7 @@ https://stmv6.voxtvhd.com.br/cinesuspenso/cinesuspenso/chunklist_w1213159772.m3u
 https://amogonetworx-bigtjme-2-eu.plex.wurl.tv/4300.m3u8
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/logos/cine-real.jpg" group-title="PELICULAS",Cine Real
 https://cinereal-plex.amagi.tv/CineReal/master_6.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6731cdcffdd23c62cd574c8d68154af9.webp" group-title="PELICULAS",Planeta TV Family
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/6731cdcffdd23c62cd574c8d68154af9.webp" group-title="PELICULAS",Planeta TV Family
 https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w1542610425.m3u8
 #EXTINF:-1 tvg-id="PlanetaTV.pe" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="SERIES Y PELICULAS",Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
@@ -392,8 +344,6 @@ https://r.mjh.nz/PlutoTV/645a309c5a0cd5000873f609-alt.m3u8
 https://r.mjh.nz/PlutoTV/6475bfec536e0c0008858e9f-alt.m3u8
 #EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5f1acc91cc9e1b000711ff21/colorLogoPNG.png"  group-title="SERIES Y PELICULAS" , Mutante X
 https://r.mjh.nz/PlutoTV/5f1acc91cc9e1b000711ff21-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png"  group-title="SERIES Y PELICULAS" , Runtime
-https://r.mjh.nz/PlutoTV/6086d3f420fc8500075f8dbf-alt.m3u8
 #EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png"  group-title="SERIES Y PELICULAS" , Historias de Ultratumba
 https://r.mjh.nz/PlutoTV/5f4d3696d938c900072679fd-alt.m3u8
 #EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png"  group-title="SERIES Y PELICULAS" , Misterios sin Resolver
@@ -460,14 +410,6 @@ https://5790d294af2dc.streamlock.net/8100/8100/chunklist_w1515398043.m3u8
 https://tvlive.servicioselbachi.com:3686/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/tupopfavorito-16-9_0.jpg" group-title="MUSICALES",Tu Pop favorito
 https://stream.ads.ottera.tv/cl/240306cnkg4stetd0m82dpfojg/1280x720_1400000_1_f.m3u8?i=475_1086
-#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/canelahits_16-9_1.jpg" group-title="MUSICALES",Canela Music Hit
-https://stream.ads.ottera.tv/cl/240306cnkg5m6t3ov0ft6bdg5g/1280x720_3071200_0_f.m3u8?i=475_1058
-#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/canelapresents_16-9_0.jpg" group-title="MUSICALES",Canela Music Present
-https://stream.ads.ottera.tv/cl/240306cnkg656934nkcrhshkq0/1280x720_1400000_1_f.m3u8?i=475_2548
-#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/ctv-conciertos-linnear-16x9.jpg" group-title="MUSICALES",Canela TV Conciertos
-https://stream.ads.ottera.tv/cl/240306cnkg6ou934nkcrhshpng/1280x720_1400000_1_f.m3u8?i=475_1085
-#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/HsibDUlsRhYez_7ASU6_mHmwR9gO22TY0LTQ3eANjgQ_0.jpg" group-title="MUSICALES",Canela Flow caribeño
-https://stream.ads.ottera.tv/cl/240307cnkg7b4cmn2s4vvrag40/1280x720_1400000_1_f.m3u8?i=475_1083
 #EXTINF:-1  tvg-logo="https://i.imgur.com/NVxHxJn.png" group-title="MUSICALES",Telehit
 https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PfROac9.png" group-title="MUSICALES",Telehit Música

@@ -67,11 +67,11 @@ http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 #EXTINF:-1 tvg-id="ABYA YALA" tvg-logo="https://yt3.googleusercontent.com/p9oCFve1Fi8miO6Ao1JZ9YtmOdXUqFXSSp7Izt1xvYpDK9Cwm2bDTcucrJ6sh14zTpnQP2Rwfw=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE BOLIVIA",Abya Yala TV
 https://master.tucableip.com/abyayalatv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/PAT_Logotype.png" group-title="CANALES DE BOLIVIA",PAT
+#EXTINF:-1 tvg-logo="https://www.defensoria.gob.bo/uploads/images/e514a970ff4c1cd1c19832864ca5961f.jpeg" group-title="CANALES DE BOLIVIA",PAT
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/PAT/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/brY56Hk/cvc-hd-virgen.jpg" group-title="CANALES DE BOLIVIA",Virgen De Copacabana
 https://5d00db0e0fcd5.streamlock.net/7034/7034/chunklist_w1842351465.m3u8
-#EXTINF:-1 tvg-logo="https://gigavision.tv/wp-content/uploads/2023/04/LOGO-GIGA-CENTRO-2.png" group-title="CANALES DE BOLIVIA",Gigavision
+#EXTINF:-1 tvg-logo="https://www.sinmordazadigital.com/wp-content/uploads/2020/06/IMG-20200602-WA0119.jpg" group-title="CANALES DE BOLIVIA",Gigavision
 https://master.tucableip.com/gigavision/playlist.m3u8
 #EXTINF:-1 tvg-id="FAPTV.bo" tvg-logo="https://i.imgur.com/jZ7g58e.png" group-title="CANALES DE BOLIVIA",FAP TV
 https://nd106.republicaservers.com/hls/c7284/index.m3u8

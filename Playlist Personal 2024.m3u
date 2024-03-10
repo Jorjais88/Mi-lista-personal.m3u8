@@ -183,7 +183,7 @@ https://stream.ads.ottera.tv/cl/240307cnkgikvssv2a7p2ppn70/1280x720_3071200_0_f.
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6051201a0aa8a70007c24a2a/colorLogoPNG-1618602700695.png" tvg-chno="4450" group-title="CIENCIA HISTORIA Y TECNOLOGIA" , Mundo geek
 https://r.mjh.nz/PlutoTV/6051201a0aa8a70007c24a2a-alt.m3u8
 #EXTINF:-1 tvg-logo="https://static.nationalgeographic.es/files/styles/image_3200/public/23186.600x450.jpg?w=1900&h=1425" group-title="CIENCIA HISTORIA Y TECNOLOGIA",National Geographic
-http://stream.flynetwifi.com:1935/live/mobile-091/playlist.m3u8
+http://livex.pop-app.live/s4n/poplive/ch509/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1200px-History_%282021%29.svg.png"  group-title="CIENCIA HISTORIA Y TECNOLOGIA",History
 http://livex.pop-app.live/s4n/poplive/ch349/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-History2_logo_%282022%29.svg.png"  group-title="CIENCIA HISTORIA Y TECNOLOGIA",History 2

@@ -185,7 +185,7 @@ https://r.mjh.nz/PlutoTV/6051201a0aa8a70007c24a2a-alt.m3u8
 #EXTINF:-1 tvg-logo="https://static.nationalgeographic.es/files/styles/image_3200/public/23186.600x450.jpg?w=1900&h=1425" group-title="CIENCIA HISTORIA Y TECNOLOGIA",National Geographic
 http://stream.flynetwifi.com:1935/live/mobile-091/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1200px-History_%282021%29.svg.png"  group-title="CIENCIA HISTORIA Y TECNOLOGIA",History
-http://stream.flynetwifi.com:1935/live/mobile-058/playlist.m3u8
+http://livex.pop-app.live/s4n/poplive/ch349/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-History2_logo_%282022%29.svg.png"  group-title="CIENCIA HISTORIA Y TECNOLOGIA",History 2
 http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd8364ea1d6780009929902/colorLogoPNG.png" group-title="CIENCIA HISTORIA Y TECNOLOGIA" , Pluto TV Ciencia
@@ -314,6 +314,10 @@ http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-030/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/esstarwars/images/2/2c/Tnt_logo.png/revision/latest?cb=20091230061033" group-title="SERIES Y PELICULAS",TNT
 http://stream.flynetwifi.com:1935/live/mobile-074/playlist.m3u8
+
+#EXTINF: tvg-logo="https://w7.pngwing.com/pngs/220/98/png-transparent-logo-much-tnt-series-latin-america-design-television-text-logo-thumbnail.png" -1 group-title="SERIES Y PELICULAS",TNT Series
+http://livex.pop-app.live/s4n/poplive/ch520/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://elbocon.pe/resizer/e34hunCljqmpA2piBVm9MKIGPW0=/1200x1200/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/J6CG7N4JFNHLDAAPAPWPEPATLI.jpg" group-title="SERIES Y PELICULAS",Star Channel
 http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="SERIES Y PELICULAS",Sony Channel

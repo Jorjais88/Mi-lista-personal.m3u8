@@ -301,8 +301,6 @@ https://cinereal-plex.amagi.tv/CineReal/master_6.m3u8
 https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w1542610425.m3u8
 #EXTINF:-1 tvg-id="PlanetaTV.pe" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="SERIES Y PELICULAS",Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
-#EXTINF:-1 tvg-id="PlanetaTV.pe" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="SERIES Y PELICULAS",Space
-http://181.78.105.146:2000/play/a04x/index.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/hbo.jpg" group-title="SERIES Y PELICULAS",HBO
 http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/hbo-21940.logowik.com.webp" group-title="SERIES Y PELICULAS",HBO2

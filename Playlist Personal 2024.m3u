@@ -248,6 +248,9 @@ https://r.mjh.nz/PlutoTV/5e972a21ad709d00074195ba-alt.m3u8
 https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="GoldenMultiplex.mx" tvg-logo="https://televisa-networks.com/wp-content/uploads/2023/06/televisa-networks-senales-golden.png" group-title="PELICULAS",Golden
 https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="GoldenMultiplex.mx" tvg-logo="https://televisa-networks.com/wp-content/uploads/2023/06/televisa-networks-senales-golden.png" group-title="PELICULAS",Golden 2
+https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="GoldenPlus.mx" tvg-logo="https://www.latincable.pe/images/canales-tv/golden-plus.jpg" group-title="PELICULAS",Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBhTgpQdxz5B0pOxKoISB3OiKUQJR_ylRyDTGeL15GLvqbOWwh" group-title="PELICULAS",Golden Premier
@@ -309,7 +312,8 @@ http://stream.flynetwifi.com:1935/live/mobile-123/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_comedy-central_m.png" group-title="SERIES Y PELICULAS",Comedy Central
 http://stream.flynetwifi.com:1935/live/mobile-001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/ee33bf151598341.Y3JvcCwxMzgwLDEwODAsMjczLDA.jpg" group-title="SERIES Y PELICULAS",Cinecanal
-http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
+#EXTVLCOPT--http-reconnect=true
+http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/1080
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="SERIES Y PELICULAS",Warner TV
 http://stream.flynetwifi.com:1935/live/mobile-030/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/esstarwars/images/2/2c/Tnt_logo.png/revision/latest?cb=20091230061033" group-title="SERIES Y PELICULAS",TNT

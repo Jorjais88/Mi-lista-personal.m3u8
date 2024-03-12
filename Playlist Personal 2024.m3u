@@ -199,7 +199,7 @@ https://i.mjh.nz/SamsungTVPlus/ESBD2300003S5.m3u8
 #EXTINF:-1 tvg-logo="https://static.nationalgeographic.es/files/styles/image_3200/public/23186.600x450.jpg?w=1900&h=1425" group-title="CIENCIA HISTORIA Y TECNOLOGIA",National Geographic
 http://livex.pop-app.live/s4n/poplive/ch509/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1200px-History_%282021%29.svg.png"  group-title="CIENCIA HISTORIA Y TECNOLOGIA",History
-http://181.78.105.146:2000/play/a017/index.m3u8
+http://livex.pop-app.live/s4n/poplive/ch349/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-History2_logo_%282022%29.svg.png"  group-title="CIENCIA HISTORIA Y TECNOLOGIA",History 2
 http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700002IM_20220511T011722SQUARE.png_20220511011723.png" group-title="CIENCIA HISTORIA Y TECNOLOGIA" , Televisión Consciente
@@ -358,14 +358,13 @@ http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/hbo-21940.logowik.com.webp" group-title="SERIES Y PELICULAS",HBO2
 http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/nQKUFG03EzcMHQ-BFMWP3wmBPWDgDCBZatPssXY4riWuc_ZCFN5rQAova2US2olc6VDIF-OY1g=s900-c-k-c0x00ffffff-no-rj" group-title="SERIES Y PELICULAS",Home & Health
-http://stream.flynetwifi.com:1935/live/mobile-107/playlist.m3u8
+http://livex.pop-app.live/s4n/poplive/ch524/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1059375747788390400/sn2AY1Ob_400x400.jpg" group-title="SERIES Y PELICULAS",FX
 http://181.78.105.146:2000/play/a05z/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_comedy-central_m.png" group-title="SERIES Y PELICULAS",Comedy Central
 http://stream.flynetwifi.com:1935/live/mobile-001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/ee33bf151598341.Y3JvcCwxMzgwLDEwODAsMjczLDA.jpg" group-title="SERIES Y PELICULAS",Cinecanal
-#EXTVLCOPT--http-reconnect=true
-http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/1080
+http://181.78.105.146:2000/play/a04q/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="SERIES Y PELICULAS",Warner TV
 http://stream.flynetwifi.com:1935/live/mobile-030/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/esstarwars/images/2/2c/Tnt_logo.png/revision/latest?cb=20091230061033" group-title="SERIES Y PELICULAS",TNT

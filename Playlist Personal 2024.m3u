@@ -15,6 +15,10 @@ https://rpn3.bozztv.com/ssh101/ssh101/gogoplay/chunks.m3u8
 https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/BitMe.svg/1629px-BitMe.svg.png" group-title="ESPECIALES",BitMe
 http://livex.pop-app.live/s4n/poplive/ch555/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e8397936791b30007ebb5a7/colorLogoPNG.png" group-title="ESPECIALES" , Pluto TV Humor
+https://r.mjh.nz/PlutoTV/5e8397936791b30007ebb5a7-alt.m3u8
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/645952687cb4b100084ed52e/colorLogoPNG.png"  group-title="ESPECIALES" , Nickelodeon Pluto TV
+https://r.mjh.nz/PlutoTV/645952687cb4b100084ed52e-alt.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Oj3hEBh.jpg" group-title="ESPECIALES",MAX Anime
 https://d16k620tapvw9n.cloudfront.net/out/v1/8e3062c10bb341feb7ee363c320e06af/index_4.m3u8
 #EXTINF:-1 tvg-logo="https://unored.tv/wp-content/uploads/2020/08/aliento-vision-tv-nuevo.jpg"  group-title="RELIGIOSOS" , Aliento Vision
@@ -244,6 +248,8 @@ https://r.mjh.nz/PlutoTV/5dcde437229eff00091b6c30-alt.m3u8
 https://r.mjh.nz/PlutoTV/5dcb62e63d4d8f0009f36881-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png"  group-title="PELICULAS" , Estrellas de Acción
 https://r.mjh.nz/PlutoTV/5e972a21ad709d00074195ba-alt.m3u8
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/62c5d80dc6de440007e033eb/colorLogoPNG.png" group-title="PELICULAS" , Runtime
+https://r.mjh.nz/PlutoTV/62c5d80dc6de440007e033eb-alt.m3u8
 #EXTINF:-1 tvg-id="GoldenEdgePanregional.mx" tvg-logo="https://i.pinimg.com/474x/dc/68/92/dc68921c04a4d9d6b10c7b7d7715d76f.jpg" group-title="PELICULAS",Golden Edge
 https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="GoldenMultiplex.mx" tvg-logo="https://televisa-networks.com/wp-content/uploads/2023/06/televisa-networks-senales-golden.png" group-title="PELICULAS",Golden
@@ -299,6 +305,8 @@ https://amogonetworx-bigtjme-2-eu.plex.wurl.tv/4300.m3u8
 https://cinereal-plex.amagi.tv/CineReal/master_6.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/6731cdcffdd23c62cd574c8d68154af9.webp" group-title="PELICULAS",Planeta TV Family
 https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w1542610425.m3u8
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG-1662394157103.png" group-title="SERIES Y PELICULASf" , Nick Teen
+https://r.mjh.nz/PlutoTV/5fab09a8749b1a00077d35d2-alt.m3u8
 #EXTINF:-1 tvg-id="PlanetaTV.pe" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="SERIES Y PELICULAS",Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/hbo.jpg" group-title="SERIES Y PELICULAS",HBO

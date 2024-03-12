@@ -236,6 +236,8 @@ https://r.mjh.nz/PlutoTV/64b9671cdac71b0008f371df-alt.m3u8
 https://r.mjh.nz/PlutoTV/60fb2f47c133270007327375-alt.m3u8
 #EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5d8d164d92e97a5e107638d2/colorLogoPNG-1623101979398.png" group-title="PELICULAS" , Cine adrenalina
 https://r.mjh.nz/PlutoTV/5d8d164d92e97a5e107638d2-alt.m3u8
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/61b793ccf571b80007b7a610/colorLogoPNG.png" group-title="PELICULAS" , Pluto TV Adrenalina Freezone
+https://r.mjh.nz/PlutoTV/61b793ccf571b80007b7a610-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8d180092e97a5e107638d3/colorLogoPNG.png"  group-title="PELICULAS" , Cine terror
 https://r.mjh.nz/PlutoTV/5d8d180092e97a5e107638d3-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f513564e4622a0007c578c0/colorLogoPNG.png"  group-title="PELICULAS" , Cine ¡¡jaja!!
@@ -305,8 +307,12 @@ https://amogonetworx-bigtjme-2-eu.plex.wurl.tv/4300.m3u8
 https://cinereal-plex.amagi.tv/CineReal/master_6.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/6731cdcffdd23c62cd574c8d68154af9.webp" group-title="PELICULAS",Planeta TV Family
 https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w1542610425.m3u8
-#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG-1662394157103.png" group-title="SERIES Y PELICULASf" , Nick Teen
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG-1662394157103.png" group-title="SERIES Y PELICULAS" , Nick Teen
 https://r.mjh.nz/PlutoTV/5fab09a8749b1a00077d35d2-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png"  group-title="SERIES Y PELICULAS" , Pluto TV Series Retro
+https://r.mjh.nz/PlutoTV/5de802659167b10009e7deba-alt.m3u8
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5dcde1317578340009b751d0/colorLogoPNG.png"  group-title="SERIES Y PELICULAS" , Pluto TV Series
+https://r.mjh.nz/PlutoTV/5dcde1317578340009b751d0-alt.m3u8
 #EXTINF:-1 tvg-id="PlanetaTV.pe" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="SERIES Y PELICULAS",Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/hbo.jpg" group-title="SERIES Y PELICULAS",HBO

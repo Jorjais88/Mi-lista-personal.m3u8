@@ -21,6 +21,11 @@ https://i.mjh.nz/SamsungTVPlus/ESBC3500002PW.m3u8
 https://r.mjh.nz/PlutoTV/5e8397936791b30007ebb5a7-alt.m3u8
 #EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/645952687cb4b100084ed52e/colorLogoPNG.png"  group-title="ESPECIALES" , Nickelodeon Pluto TV
 https://r.mjh.nz/PlutoTV/645952687cb4b100084ed52e-alt.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/645952687cb4b100084ed52e/colorLogoPNG.png"  group-title="ESPECIALES" , Nickelodeon
+http://181.78.105.146:2000/play/a014/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://unored.tv/wp-content/uploads/2020/08/aliento-vision-tv-nuevo.jpg"  group-title="RELIGIOSOS" , Aliento Vision
 https://627bb251f23c7.streamlock.net:444/AlientoSD/AlientoSD/chunklist_w569749635.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/3edd65252de7e080c75b23860668c4e857f1182ceeda081969c34436d69350aa.png"  group-title="RELIGIOSOS" , Extrema TV
@@ -326,9 +331,26 @@ https://r.mjh.nz/PlutoTV/5fab09a8749b1a00077d35d2-alt.m3u8
 #EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5dcde1317578340009b751d0/colorLogoPNG.png"  group-title="SERIES Y PELICULAS" , Pluto TV Series
 https://r.mjh.nz/PlutoTV/5dcde1317578340009b751d0-alt.m3u8
 #EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/1300_Moni_TV.png" group-title="SERIES Y PELICULAS",Moni TV
-https://vdo.streaming-chile.com:3056/live/ngencrcbyylive.m3u8
+https://stream.skarnetchile.com:3817/live/monitvlive.m3u8
 #EXTINF:-1 tvg-id="PlanetaTV.pe" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="SERIES Y PELICULAS",Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
+https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/5f77f28b2d72c8a25c836cee44011ffd5dd6e950b160752de1755003860b1a1a.png" group-title="SERIES Y PELICULAS",WOW TV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w1668757430_b2000000_slen.m3u8
+#EXTINF:-1  tvg-logo="https://neotvdigital.com.ar/imagenes/fb.png" group-title="SERIES Y PELICULAS",Neo TV 16.1
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:-1  tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/weVy6A9B_400x400%20%281%29_0.jpg?itok=uvuVKz1S" group-title="SERIES Y PELICULAS",San Pedro TV
+https://srv2.zcast.com.br/sptv32/sptv32/chunklist_w1630201617.m3u8
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZQFOa3X5DwQKmTOfztQ3b-Bbk67VXlXacJYc7JqQg=s900-c-k-c0x00ffffff-no-rj" group-title="SERIES Y PELICULAS",Cinco TV
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
+#EXTINF:-1  tvg-logo="https://latinartv.com/sites/default/files/logos/nexthd.jpg" group-title="SERIES Y PELICULAS",Next HD
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GJthQOa.png" group-title="SERIES Y PELICULAS",Tu Kanal
+http://45.33.63.98/hls/abdi.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/UCV-TV-en-vivo-Online.png?fit=1920%2C1080&ssl=1" group-title="SERIES Y PELICULAS",UCV Television
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream1/chunks.m3u8?nimblesessionid=587051430
+#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/contivision-tv-7001.webp" group-title="SERIES Y PELICULAS",Contivision
+https://unlimited1-cl-isp.dps.live/cm/cm.smil/cm/livestream1/chunks.m3u8?nimblesessionid=951812061
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/hbo.jpg" group-title="SERIES Y PELICULAS",HBO
 http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/hbo-21940.logowik.com.webp" group-title="SERIES Y PELICULAS",HBO2
@@ -336,7 +358,7 @@ http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/nQKUFG03EzcMHQ-BFMWP3wmBPWDgDCBZatPssXY4riWuc_ZCFN5rQAova2US2olc6VDIF-OY1g=s900-c-k-c0x00ffffff-no-rj" group-title="SERIES Y PELICULAS",Home & Health
 http://stream.flynetwifi.com:1935/live/mobile-107/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1059375747788390400/sn2AY1Ob_400x400.jpg" group-title="SERIES Y PELICULAS",FX
-http://stream.flynetwifi.com:1935/live/mobile-123/playlist.m3u8
+http://181.78.105.146:2000/play/a05z/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_comedy-central_m.png" group-title="SERIES Y PELICULAS",Comedy Central
 http://stream.flynetwifi.com:1935/live/mobile-001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/ee33bf151598341.Y3JvcCwxMzgwLDEwODAsMjczLDA.jpg" group-title="SERIES Y PELICULAS",Cinecanal
@@ -389,23 +411,6 @@ https://r.mjh.nz/PlutoTV/5d8d11baeb31c5a43b77bf59-alt.m3u8
 #EXTINF:-1 channel-id="pluto-60fb3087fbbc120007fc46be" tvg-id="60fb3087fbbc120007fc46be" tvg-logo="https://images.pluto.tv/channels/60fb3087fbbc120007fc46be/colorLogoPNG.png" tvg-chno="4240" group-title="SERIES Y PELICULAS" , Series con Ñ
 https://r.mjh.nz/PlutoTV/60fb3087fbbc120007fc46be-alt.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="SERIES Y PELICULAS",Tlnovelas
-https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/5f77f28b2d72c8a25c836cee44011ffd5dd6e950b160752de1755003860b1a1a.png" group-title="SERIES Y PELICULAS",WOW TV
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w1668757430_b2000000_slen.m3u8
-#EXTINF:-1  tvg-logo="https://neotvdigital.com.ar/imagenes/fb.png" group-title="SERIES Y PELICULAS",Neo TV 16.1
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-#EXTINF:-1  tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/weVy6A9B_400x400%20%281%29_0.jpg?itok=uvuVKz1S" group-title="SERIES Y PELICULAS",San Pedro TV
-https://srv2.zcast.com.br/sptv32/sptv32/chunklist_w1630201617.m3u8
-#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZQFOa3X5DwQKmTOfztQ3b-Bbk67VXlXacJYc7JqQg=s900-c-k-c0x00ffffff-no-rj" group-title="SERIES Y PELICULAS",Cinco TV
-https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
-#EXTINF:-1  tvg-logo="https://latinartv.com/sites/default/files/logos/nexthd.jpg" group-title="SERIES Y PELICULAS",Next HD
-https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GJthQOa.png" group-title="SERIES Y PELICULAS",Tu Kanal
-http://45.33.63.98/hls/abdi.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/UCV-TV-en-vivo-Online.png?fit=1920%2C1080&ssl=1" group-title="SERIES Y PELICULAS",UCV Television
-https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream1/chunks.m3u8?nimblesessionid=587051430
-#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/contivision-tv-7001.webp" group-title="SERIES Y PELICULAS",Contivision
-https://unlimited1-cl-isp.dps.live/cm/cm.smil/cm/livestream1/chunks.m3u8?nimblesessionid=951812061
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/cff251a5a41e79a2fbe6677694a1c4671529324b0c2fc0259f18d88e729b3928.png" group-title="SERIES Y PELICULAS",TVS Retro
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/viJBL6f.png" group-title="SERIES Y PELICULAS",Retrox TV

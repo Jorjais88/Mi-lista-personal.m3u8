@@ -1,6 +1,8 @@
 #EXTM3U 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0cf002ed575e28fb68b6827a6bbb9b12.webp" group-title="24/7",Trailers 
 https://i.mjh.nz/SamsungTVPlus/ESBC1700004PX.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1500001SD_20240214T035656SQUARE.png_20240214035657.png"  group-title="24/7" , Mi chimenea
+https://i.mjh.nz/SamsungTVPlus/ESBD1500001SD.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700008SK_20230426T015711SQUARE.png_20230426015712.png" group-title="ESPECIALES" , Just For Laughs
 https://i.mjh.nz/SamsungTVPlus/ESBC2700008SK.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png" tvg-chno="1324" group-title="ESPECIALES" , Pluto TV E-Sports
@@ -11,8 +13,6 @@ https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8
 http://vcpar.myplaytv.com/esportsmax/live/playlist_4.m3u8
 #EXTINF:-1 tvg-id="GOGOPLAY TV HD"  tvg-logo="https://i.postimg.cc/dVfPMD5s/gogoplay-Bol-Fhd12.jpg" group-title="ESPECIALES",Gogoplay TV
 https://rpn3.bozztv.com/ssh101/ssh101/gogoplay/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WzJLqDM/ANIME-STATION-HD.jpg" group-title="ESPECIALES",Anime Station TV
-https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/BitMe.svg/1629px-BitMe.svg.png" group-title="ESPECIALES",BitMe
 http://livex.pop-app.live/s4n/poplive/ch555/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500002PW_20221215T020824SQUARE.png_20221215020824.png" group-title="ESPECIALES" , Ideas en 5 Minutos
@@ -181,16 +181,24 @@ https://r.mjh.nz/PlutoTV/63c69c87808b740007599fe1-alt.m3u8
 https://r.mjh.nz/PlutoTV/5e82bb378601b80007b4bd78-alt.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/tK9zOgo.png" group-title="24/7",La Rosa de Guadalupe
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700004ME_20230912T232557SQUARE.png_20230912232558.png"  group-title="24/7" , Como Dice el Dicho
+https://i.mjh.nz/SamsungTVPlus/USBD2700004ME.m3u8
 #EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/366x206/pitufotv_1920x1080_1.jpg" group-title="24/7",Pitufo TV
 https://i.mjh.nz/SamsungTVPlus/ESBD130000205.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400001OG_20221012T021006SQUARE.png_20221012021006.png" group-title="24/7" , Doctor Who
+https://i.mjh.nz/SamsungTVPlus/ESBA1400001OG.m3u8
 #EXTINF:-1  tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300001EP_20240117T032714SQUARE.png_20240117032715.png"  group-title="24/7" , Baywatch Guardianes de la Bahia
 https://i.mjh.nz/SamsungTVPlus/ESBD1300001EP.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300003S5_20230712T021346SQUARE.png_20230712021346.png" group-title="24/7" , Rabbids : La invasion
+https://i.mjh.nz/SamsungTVPlus/ESBD2300003S5.m3u8
 #EXTINF:-1 tvg-logo="https://static.nationalgeographic.es/files/styles/image_3200/public/23186.600x450.jpg?w=1900&h=1425" group-title="CIENCIA HISTORIA Y TECNOLOGIA",National Geographic
 http://livex.pop-app.live/s4n/poplive/ch509/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1200px-History_%282021%29.svg.png"  group-title="CIENCIA HISTORIA Y TECNOLOGIA",History
 http://livex.pop-app.live/s4n/poplive/ch349/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-History2_logo_%282022%29.svg.png"  group-title="CIENCIA HISTORIA Y TECNOLOGIA",History 2
 http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700002IM_20220511T011722SQUARE.png_20220511011723.png" group-title="CIENCIA HISTORIA Y TECNOLOGIA" , Televisión Consciente
+https://i.mjh.nz/SamsungTVPlus/ESBC1700002IM.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd8364ea1d6780009929902/colorLogoPNG.png" group-title="CIENCIA HISTORIA Y TECNOLOGIA" , Pluto TV Ciencia
 https://r.mjh.nz/PlutoTV/5dd8364ea1d6780009929902-alt.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e6esjLZ.jpg" group-title="CIENCIA HISTORIA Y TECNOLOGIA",Tu Universo TV
@@ -203,7 +211,7 @@ https://stmv6.voxtvhd.com.br/elhistonautatv/elhistonautatv/chunklist_w1170607440
 https://stmv6.voxtvhd.com.br/techscience365/techscience365/chunklist_w806249283.m3u8
 #EXTINF:-1  tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/29-1.jpg" group-title="CIENCIA HISTORIA Y TECNOLOGIA",Astro Net
 https://stmv6.voxtvhd.com.br/astronet/astronet/chunklist_w1435015522.m3u8
-#EXTINF:-1  tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500021HQ_20221214T044854SQUARE.png_20221214044855.png"  group-title="CIENCIA HISTORIA Y TECNOLOGIA" , Documentales - Rakuten TV
+#EXTINF:-1  tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500021HQ_20221214T044854SQUARE.png_20221214044855.png"  group-title="CIENCIA HISTORIA Y TECNOLOGIA" , Rakuten Documentales
 https://i.mjh.nz/SamsungTVPlus/ESAJ4500021HQ.m3u8
 #EXTINF:-1  tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700002TD_20240131T031146SQUARE.png_20240131031146.png"  group-title="CIENCIA HISTORIA Y TECNOLOGIA" , Love the Planet
 https://i.mjh.nz/SamsungTVPlus/ESBC4700002TD.m3u8
@@ -278,6 +286,16 @@ https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
 https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2022/10/Rakuten-TV-en-Familia-en-directo-Online.png" group-title="PELICULAS",Rakuten Family
 https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300017FA_20240117T032708SQUARE.png_20240117032709.png" group-title="PELICULAS" , Rakuten Familia
+https://i.mjh.nz/SamsungTVPlus/ESBA3300017FA.m3u8
+#EXTINF:-1  tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500019AM_20240117T032650SQUARE.png_20240117032651.png" tvg-chno="4990" group-title="PELICULAS" , Rakuten Comedia
+https://i.mjh.nz/SamsungTVPlus/ESAJ4500019AM.m3u8
+#EXTINF:-1 channel-id="samsung-ESBC2700005EE" tvg-id="ESBC2700005EE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700005EE_20221012T021024SQUARE.png_20221012021024.png" tvg-chno="4994" group-title="Spain" , Rakuten Peliculas Top
+https://i.mjh.nz/SamsungTVPlus/ESBC2700005EE.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD80000288_20240117T032726SQUARE.png_20240117032726.png" tvg-chno="4976" group-title="PELICULAS" , Runtime Acción
+https://i.mjh.nz/SamsungTVPlus/ESBD80000288.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD8000033W_20230913T030610SQUARE.png_20230913030611.png" tvg-chno="4977" group-title="PELICULAS" , Runtime Comedia
+https://i.mjh.nz/SamsungTVPlus/ESBD8000033W.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.flpb2-1.fna.fbcdn.net/v/t39.30808-6/302220060_447736737370540_189474043498272080_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=Ee6eF6LMOfkAX_kxKrF&_nc_ht=scontent.flpb2-1.fna&oh=00_AfDujSdPREwFpPNnrtxDinJ3LpfF_QKBaRgf1xjX7xtAQg&oe=65EA707D" group-title="PELICULAS",MyTime Movie Network Mexico
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.flpb2-1.fna.fbcdn.net/v/t39.30808-6/302220060_447736737370540_189474043498272080_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=Ee6eF6LMOfkAX_kxKrF&_nc_ht=scontent.flpb2-1.fna&oh=00_AfDujSdPREwFpPNnrtxDinJ3LpfF_QKBaRgf1xjX7xtAQg&oe=65EA707D" group-title="PELICULAS",MyTime movie network Spain
@@ -292,8 +310,8 @@ https://tv.streaming-chile.com:1936/8142/8142/chunklist_w8647447.m3u8
 https://6362ca6f1fc28.streamlock.net/8066/8066/chunklist_w536319455.m3u8
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/logos/terror-tv.png" group-title="PELICULAS",Terror TV
 https://tv.streaming-chile.com:1936/8140/8140/chunklist_w200214298.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8f667db78acfeca3e792be86616ee96f.webp" group-title="PELICULAS",Cine Friki 
-https://d2jqgm8hyia1n3.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8hl8d0bx6aah/65246661-2ade-4a67-8cf4-60251fdcc971/0.m3u8
+#EXTINF:-1 channel-id="samsung-ESBD800001RJ" tvg-id="ESBD800001RJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800001RJ_20230308T021500SQUARE.png_20230308021500.png" tvg-chno="4980" group-title="PELICULAS" , Cine Friki
+https://i.mjh.nz/SamsungTVPlus/ESBD800001RJ.m3u8
 #EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/1300_Moni_TV.png" group-title="PELICULAS",Moni TV
 https://vdo.streaming-chile.com:3056/live/ngencrcbyylive.m3u8
 #EXTINF:-1  tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/05/cine-ar-logo-vector.png" group-title="PELICULAS",Cine.AR
@@ -348,6 +366,8 @@ http://stream.flynetwifi.com:1935/live/mobile-034/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-079/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62fa81ccd1a7e90007c1ada0/colorLogoPNG.png"  group-title="SERIES Y PELICULAS" , AMC En Español
 https://r.mjh.nz/PlutoTV/62fa81ccd1a7e90007c1ada0-alt.m3u8
+#EXTINF:-1  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD7000017L_20230523T230719SQUARE.png_20230523230720.png"  group-title="United States" , AMC en Español USA
+https://i.mjh.nz/SamsungTVPlus/USBD7000017L.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/512px-DistritoComediaLOGO2018.png" group-title="SERIES Y PELICULAS",Distrito Comedia
 https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/654a35ce346f420008d5c36e/colorLogoPNG.png"  group-title="SERIES Y PELICULAS" , Pluto TV Invasión Alien
@@ -378,6 +398,34 @@ https://r.mjh.nz/PlutoTV/5d8d11baeb31c5a43b77bf59-alt.m3u8
 https://r.mjh.nz/PlutoTV/60fb3087fbbc120007fc46be-alt.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="SERIES Y PELICULAS",Tlnovelas
 https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/5f77f28b2d72c8a25c836cee44011ffd5dd6e950b160752de1755003860b1a1a.png" group-title="SERIES Y PELICULAS",WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w1668757430_b2000000_slen.m3u8
 #EXTINF:-1  tvg-logo="https://neotvdigital.com.ar/imagenes/fb.png" group-title="SERIES Y PELICULAS",Neo TV 16.1

@@ -415,7 +415,7 @@ https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png"  group-title="SERIES Y PELICULAS" , Pluto TV Series Retro
 https://r.mjh.nz/PlutoTV/5de802659167b10009e7deba-alt.m3u8
 #EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/1466_Pandamax_TV.png" group-title="SERIES Y PELICULAS",Pandamax
-https://stream.wifiexpert.cl/telenorte/pandamaxch/chunks.m3u8?nimblesessionid=15089465&WebM3UCL
+https://stream.wifiexpert.cl/telenorte/pandamaxch/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Oj3hEBh.jpg" group-title="SERIES Y PELICULAS",MAX Anime
 https://d16k620tapvw9n.cloudfront.net/out/v1/8e3062c10bb341feb7ee363c320e06af/index_4.m3u8
 #EXTINF:-1 tvg-id="LocomotionTV.do" tvg-logo="https://i.imgur.com/1CftDPB.png" group-title="SERIES Y PELICULAS",Locomotion TV

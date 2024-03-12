@@ -416,7 +416,7 @@ https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
 https://r.mjh.nz/PlutoTV/5de802659167b10009e7deba-alt.m3u8
 #EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/1466_Pandamax_TV.png" group-title="SERIES Y PELICULAS",Pandamax
 https://stream.wifiexpert.cl/telenorte/pandamaxch/chunks.m3u8?nimblesessionid=15089465&WebM3UCL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Oj3hEBh.jpg" group-title="VARIADOS",MAX Anime
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Oj3hEBh.jpg" group-title="SERIES Y PELICULAS",MAX Anime
 https://d16k620tapvw9n.cloudfront.net/out/v1/8e3062c10bb341feb7ee363c320e06af/index_4.m3u8
 #EXTINF:-1 tvg-id="LocomotionTV.do" tvg-logo="https://i.imgur.com/1CftDPB.png" group-title="SERIES Y PELICULAS",Locomotion TV
 http://51.222.85.85:81/hls/loco/index.m3u8
@@ -448,7 +448,7 @@ https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
 https://cp.panelchs.com:1936/8156/8156/playlist.m3u8
 #EXTINF:-1 tvg-id="ImagenUniversalTV.do" tvg-logo="https://i.imgur.com/DP6HmDV.png" group-title="INTERNACIONAL",Imagen Universal TV
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
-#EXTINF:-1 tvg-id="EstrellaTV.us" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="INTERNACIONAL",Estrella TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="INTERNACIONAL",Estrella TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marvisiontv.com/wp-content/uploads/elementor/thumbs/logoMV-qdr7xh0dhr7fo8eat1nyjg2mp1npvvu37bt0w9oh9e.png" group-title="INTERNACIONAL",Marvision
 https://vdo.grupolimalive.com:3631/live/marvisionlive.m3u8

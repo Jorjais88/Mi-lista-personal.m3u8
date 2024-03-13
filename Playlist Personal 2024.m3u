@@ -9,7 +9,7 @@ http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8
 http://181.78.105.146:2000/play/a05z/index.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/space-channel-logo-4AD3528E2F-seeklogo.com.png" group-title="CANALES PREMIUM",Space
 http://181.78.105.146:2000/play/a04x/index.m3u8
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/cartoon_network-175280508760361-nm_200.jpg" group-title="Bics Variados", CartoonNetwork
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jonnymesh/images/6/68/CN.png/revision/latest?cb=20170603105618&path-prefix=es" group-title="CANALES PREIUM", Cartoon Network
 http://181.78.105.146:2000/play/a03k/index.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/hbo.jpg" group-title="CANALES PREMIUM",HBO
 http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
@@ -69,7 +69,7 @@ http://181.78.105.146:2000/play/a03i/index.m3u8
 http://livex.pop-app.live/s4n/poplive/ch524/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_comedy-central_m.png" group-title="CANALES PREMIUM",Comedy Central
 http://stream.flynetwifi.com:1935/live/mobile-001/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/474x/dc/68/92/dc68921c04a4d9d6b10c7b7d7715d76f.jpg" group-title="PELICULAS",Golden Edge
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/474x/dc/68/92/dc68921c04a4d9d6b10c7b7d7715d76f.jpg" group-title="CANALES PREMIUM",Golden Edge
 https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://televisa-networks.com/wp-content/uploads/2023/06/televisa-networks-senales-golden.png" group-title="CANALES PREMIUM",Golden
 https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
@@ -350,9 +350,9 @@ https://r.mjh.nz/PlutoTV/62c5d80dc6de440007e033eb-alt.m3u8
 https://i.mjh.nz/SamsungTVPlus/ESBD80000288.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD8000033W_20230913T030610SQUARE.png_20230913030611.png" tvg-chno="4977" group-title="PELICULAS" , Runtime Comedia
 https://i.mjh.nz/SamsungTVPlus/ESBD8000033W.m3u8
-#EXTINF:-1 tvg-logo="https://scontent.flpb2-1.fna.fbcdn.net/v/t39.30808-6/302220060_447736737370540_189474043498272080_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=Ee6eF6LMOfkAX_kxKrF&_nc_ht=scontent.flpb2-1.fna&oh=00_AfDujSdPREwFpPNnrtxDinJ3LpfF_QKBaRgf1xjX7xtAQg&oe=65EA707D" group-title="PELICULAS",MyTime Movie Network Mexico
+#EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/site-logo.png" group-title="PELICULAS",MyTime Movie Network Mexico
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://scontent.flpb2-1.fna.fbcdn.net/v/t39.30808-6/302220060_447736737370540_189474043498272080_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=Ee6eF6LMOfkAX_kxKrF&_nc_ht=scontent.flpb2-1.fna&oh=00_AfDujSdPREwFpPNnrtxDinJ3LpfF_QKBaRgf1xjX7xtAQg&oe=65EA707D" group-title="PELICULAS",MyTime movie network Spain
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f6652061e12b0246ef228236f06fa5f1.webp" group-title="PELICULAS",MyTime movie network Spain
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="PELICULAS",Cine Sony
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8

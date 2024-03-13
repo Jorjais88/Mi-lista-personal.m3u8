@@ -242,6 +242,8 @@ https://r.mjh.nz/PlutoTV/6511a5d8d1f20c000864b951-alt.m3u8
 https://r.mjh.nz/PlutoTV/6254598f5083f800076d8563-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6322099c822bbc00074857db/colorLogoPNG-1667576393608.png" group-title="24/7" , Los Padrinos Mágicos
 https://r.mjh.nz/PlutoTV/6322099c822bbc00074857db-alt.m3u8
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5e82bb378601b80007b4bd78/colorLogoPNG.png" group-title="24/7" , The Walking Dead
+https://r.mjh.nz/PlutoTV/5e82bb378601b80007b4bd78-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/b355242d6e0b04a86981e66814f7f43a43c2e7061fb5972715ea6572b0c39ba6._UY500_UX667_RI_TTW_.jpg" group-title="24/7",Anger Management
 https://lnc-anger-management-espanol.tubi.video/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/604928d54a4f730007ff76bc/colorLogoPNG.png"  group-title="24/7" , CSI
@@ -258,8 +260,6 @@ https://r.mjh.nz/PlutoTV/63eb95baa99571000898a078-alt.m3u8
 https://r.mjh.nz/PlutoTV/5f85f1dc1418bd0007e11eb9-alt.m3u8
 #EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/63c69c87808b740007599fe1/colorLogoPNG.png" group-title="24/7" , Érase una vez...
 https://r.mjh.nz/PlutoTV/63c69c87808b740007599fe1-alt.m3u8
-#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5e82bb378601b80007b4bd78/colorLogoPNG.png" group-title="24/7" , The Walking Dead
-https://r.mjh.nz/PlutoTV/5e82bb378601b80007b4bd78-alt.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/tK9zOgo.png" group-title="24/7",La Rosa de Guadalupe
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700004ME_20230912T232557SQUARE.png_20230912232558.png"  group-title="24/7" , Como Dice el Dicho
@@ -278,8 +278,6 @@ https://r.mjh.nz/PlutoTV/5dd8364ea1d6780009929902-alt.m3u8
 https://r.mjh.nz/PlutoTV/64db2e0835425100080f2f5a-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61cd78920b90cb0007e28231/colorLogoPNG.png"  group-title="CIENCIA HISTORIA Y TECNOLOGIA" , Pluto TV Documentales
 https://r.mjh.nz/PlutoTV/61cd78920b90cb0007e28231-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61eeb4a701020c00075676ef/featuredImage.jpg"  group-title="CIENCIA HISTORIA Y TECNOLOGIA" , Nature Time
-https://r.mjh.nz/PlutoTV/60dd6b1da79e4d0007309455-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png" group-title="CIENCIA HISTORIA Y TECNOLOGIA" , Pluto TV Animales
 https://r.mjh.nz/PlutoTV/5dd834c66fe2ca0009303b8d-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/645d1abbe1979c0008779d5a/colorLogoPNG.png"  group-title="CIENCIA HISTORIA Y TECNOLOGIA" , Archivos Extraterrestres
@@ -304,6 +302,8 @@ https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8
 https://stmv6.voxtvhd.com.br/elhistonautatv/elhistonautatv/chunklist_w1170607440.m3u8
 #EXTINF:-1  tvg-logo="https://msinteractiva.com.ar/wp-content/uploads/2021/06/LOGO-2.png" group-title="CIENCIA HISTORIA Y TECNOLOGIA",TechScience 365
 https://stmv6.voxtvhd.com.br/techscience365/techscience365/chunklist_w806249283.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61eeb4a701020c00075676ef/featuredImage.jpg"  group-title="CIENCIA HISTORIA Y TECNOLOGIA" , Nature Time
+https://r.mjh.nz/PlutoTV/60dd6b1da79e4d0007309455-alt.m3u8
 #EXTINF:-1  tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/29-1.jpg" group-title="CIENCIA HISTORIA Y TECNOLOGIA",Astro Net
 https://stmv6.voxtvhd.com.br/astronet/astronet/chunklist_w1435015522.m3u8
 #EXTINF:-1  tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500021HQ_20221214T044854SQUARE.png_20221214044855.png"  group-title="CIENCIA HISTORIA Y TECNOLOGIA" , Rakuten Documentales

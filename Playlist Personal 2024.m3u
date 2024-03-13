@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
+#EXTM3U 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0cf002ed575e28fb68b6827a6bbb9b12.webp" group-title="24/7",Trailers 
 https://i.mjh.nz/SamsungTVPlus/ESBC1700004PX.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1500001SD_20240214T035656SQUARE.png_20240214035657.png"  group-title="24/7" , Mi chimenea

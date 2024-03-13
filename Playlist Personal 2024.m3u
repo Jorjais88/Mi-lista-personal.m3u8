@@ -9,17 +9,17 @@ http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8
 http://181.78.105.146:2000/play/a05z/index.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/space-channel-logo-4AD3528E2F-seeklogo.com.png" group-title="CANALES PREMIUM",Space
 http://181.78.105.146:2000/play/a04x/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jonnymesh/images/6/68/CN.png/revision/latest?cb=20170603105618&path-prefix=es" group-title="CANALES PREIUM", Cartoon Network
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/cartoon_network-175280508760361-nm_200.jpg" group-title="CANALES PREMIUM", Cartoon Network
 http://181.78.105.146:2000/play/a03k/index.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/hbo.jpg" group-title="CANALES PREMIUM",HBO
 http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/hbo-21940.logowik.com.webp" group-title="CANALES PREMIUM",HBO2
 http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/534/400/png-clipart-logo-hbo-brasil-hbo-family-hbo-2-design-text-logo.png" group-title="Bics Variados",HBO Family
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/534/400/png-clipart-logo-hbo-brasil-hbo-family-hbo-2-design-text-logo.png" group-title="CANALES PREMIUM",HBO Family
 http://livex.pop-app.live/s4n/poplive/ch515/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/550x/85/c1/f4/85c1f40028786e9ad9dddf071603dd64.jpg" group-title="Bics Variados",HBO Plus
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/550x/85/c1/f4/85c1f40028786e9ad9dddf071603dd64.jpg" group-title="CANALES PREMIUM",HBO Plus
 http://livex.pop-app.live/s4n/poplive/ch516/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.vnet.com.ve/wp-content/uploads/2021/04/modelo-signature.jpg" group-title="Bics Variados",HBO Signature
+#EXTINF:-1 tvg-logo="https://www.vnet.com.ve/wp-content/uploads/2021/04/modelo-signature.jpg" group-title="CANALES PREMIUM",HBO Signature
 http://livex.pop-app.live/s4n/poplive/ch517/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/ee33bf151598341.Y3JvcCwxMzgwLDEwODAsMjczLDA.jpg" group-title="CANALES PREMIUM",Cinecanal
 http://181.78.105.146:2000/play/a04q/index.m3u8
@@ -27,7 +27,7 @@ http://181.78.105.146:2000/play/a04q/index.m3u8
 http://181.78.105.146:2000/play/a01f/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/esstarwars/images/2/2c/Tnt_logo.png/revision/latest?cb=20091230061033" group-title="CANALES PREMIUM",TNT
 http://stream.flynetwifi.com:1935/live/mobile-074/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="Bics Variados",Universal
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="CANALES PREMIUM",Universal
 http://181.78.105.146:2000/play/a03d/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.nationalgeographic.es/files/styles/image_3200/public/23186.600x450.jpg?w=1900&h=1425" group-title="CANALES PREMIUM",National Geographic
 http://livex.pop-app.live/s4n/poplive/ch509/playlist.m3u8
@@ -35,7 +35,7 @@ http://livex.pop-app.live/s4n/poplive/ch509/playlist.m3u8
 http://livex.pop-app.live/s4n/poplive/ch349/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-History2_logo_%282022%29.svg.png"  group-title="CANALES PREMIUM",History 2
 http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png" group-title="Bics Variados", Azteca 7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png" group-title="CANALES PREMIUM", Azteca 7
 http://181.78.105.146:2000/play/a08z/index.m3u8
 #EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG-1662394157103.png" group-title="CANALES PREMIUM" , Nick Teen
 https://r.mjh.nz/PlutoTV/5fab09a8749b1a00077d35d2-alt.m3u8

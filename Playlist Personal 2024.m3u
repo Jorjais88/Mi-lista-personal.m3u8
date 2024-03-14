@@ -508,8 +508,8 @@ https://r.mjh.nz/PlutoTV/64d161c93c785e0008df575e-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60c8b3ddaaf9d4000780066f/colorLogoPNG.png"  group-title="MUSICALES" , Pluto TV K-Pop
 https://r.mjh.nz/PlutoTV/60c8b3ddaaf9d4000780066f-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_4201836.png" tvg-group="netflix", 2012 (2009)
-https:\\192.168.0.1\usb1_5\PELICULAS\2012 (2009).mp4
+smb:\\192.168.0.1\usb1_5\PELICULAS\2012 (2009).mp4
 #EXTINF:-1 tvg-logo="null" tvg-group="netflix", A Beautiful Mind (2001)
-https:\\192.168.0.1\usb1_5\PELICULAS\A Beautiful Mind (2001).mkv
+smb:\\192.168.0.1\usb1_5\PELICULAS\A Beautiful Mind (2001).mkv
 #EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_4252762.png" tvg-group="netflix", A.I. Artificial Intelligence (2001)
-https:\\192.168.0.1\usb1_5\PELICULAS\A.I. Artificial Intelligence (2001).mp4
+smb:\\192.168.0.1\usb1_5\PELICULAS\A.I. Artificial Intelligence (2001).mp4

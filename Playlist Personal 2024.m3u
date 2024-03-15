@@ -4,41 +4,41 @@ https://i.mjh.nz/SamsungTVPlus/ESBC1700004PX.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1500001SD_20240214T035656SQUARE.png_20240214035657.png"  group-title="24/7" , Mi chimenea
 https://i.mjh.nz/SamsungTVPlus/ESBD1500001SD.m3u8
 ************"""CANALES PREMIUM*************
-#EXTINF:-1 tvg-logo="https://elbocon.pe/resizer/e34hunCljqmpA2piBVm9MKIGPW0=/1200x1200/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/J6CG7N4JFNHLDAAPAPWPEPATLI.jpg" group-title="CANALES PREMIUM",Star Channel
+#EXTINF:-1 tvg-id="StarChannel.mx" tvg-logo="https://elbocon.pe/resizer/e34hunCljqmpA2piBVm9MKIGPW0=/1200x1200/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/J6CG7N4JFNHLDAAPAPWPEPATLI.jpg" group-title="CANALES PREMIUM",Star Channel
 http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1059375747788390400/sn2AY1Ob_400x400.jpg" group-title="CANALES PREMIUM",FX
+#EXTINF:-1 tvg-id="FX.mx" tvg-logo="https://pbs.twimg.com/profile_images/1059375747788390400/sn2AY1Ob_400x400.jpg" group-title="CANALES PREMIUM",FX
 http://181.78.105.146:2000/play/a05z/index.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/space-channel-logo-4AD3528E2F-seeklogo.com.png" group-title="CANALES PREMIUM",Space
+#EXTINF:-1 tvg-id="Space.mx" tvg-logo="https://seeklogo.com/images/S/space-channel-logo-4AD3528E2F-seeklogo.com.png" group-title="CANALES PREMIUM",Space
 http://181.78.105.146:2000/play/a04x/index.m3u8
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/cartoon_network-175280508760361-nm_200.jpg" group-title="CANALES PREMIUM", Cartoon Network
+#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-logo="https://pics.filmaffinity.com/cartoon_network-175280508760361-nm_200.jpg" group-title="CANALES PREMIUM", Cartoon Network
 http://181.78.105.146:2000/play/a03k/index.m3u8
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/hbo.jpg" group-title="CANALES PREMIUM",HBO
+#EXTINF:-1 tvg-id="HBO.mx" tvg-logo="https://logowik.com/content/uploads/images/hbo.jpg" group-title="CANALES PREMIUM",HBO
 http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/hbo-21940.logowik.com.webp" group-title="CANALES PREMIUM",HBO2
+#EXTINF:-1 tvg-id="HBO2.mx" tvg-logo="https://logowik.com/content/uploads/images/hbo-21940.logowik.com.webp" group-title="CANALES PREMIUM",HBO2
 http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/534/400/png-clipart-logo-hbo-brasil-hbo-family-hbo-2-design-text-logo.png" group-title="CANALES PREMIUM",HBO Family
+#EXTINF:-1 tvg-id="HBOFamily.mx" tvg-logo="https://e7.pngegg.com/pngimages/534/400/png-clipart-logo-hbo-brasil-hbo-family-hbo-2-design-text-logo.png" group-title="CANALES PREMIUM",HBO Family
 http://livex.pop-app.live/s4n/poplive/ch515/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/550x/85/c1/f4/85c1f40028786e9ad9dddf071603dd64.jpg" group-title="CANALES PREMIUM",HBO Plus
+#EXTINF:-1 tvg-id="HBOPlus.mx" tvg-logo="https://i.pinimg.com/550x/85/c1/f4/85c1f40028786e9ad9dddf071603dd64.jpg" group-title="CANALES PREMIUM",HBO Plus
 http://livex.pop-app.live/s4n/poplive/ch516/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.vnet.com.ve/wp-content/uploads/2021/04/modelo-signature.jpg" group-title="CANALES PREMIUM",HBO Signature
+#EXTINF:-1 tvg-id="HBOSignature.mx" tvg-logo="https://www.vnet.com.ve/wp-content/uploads/2021/04/modelo-signature.jpg" group-title="CANALES PREMIUM",HBO Signature
 http://livex.pop-app.live/s4n/poplive/ch517/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/ee33bf151598341.Y3JvcCwxMzgwLDEwODAsMjczLDA.jpg" group-title="CANALES PREMIUM",Cinecanal
+#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/ee33bf151598341.Y3JvcCwxMzgwLDEwODAsMjczLDA.jpg" group-title="CANALES PREMIUM",Cinecanal
 http://181.78.105.146:2000/play/a04q/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="CANALES PREMIUM",Warner TV
+#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="CANALES PREMIUM",Warner TV
 http://181.78.105.146:2000/play/a01f/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/esstarwars/images/2/2c/Tnt_logo.png/revision/latest?cb=20091230061033" group-title="CANALES PREMIUM",TNT
+#EXTINF:-1 tvg-id="TNT.mx" tvg-logo="https://static.wikia.nocookie.net/esstarwars/images/2/2c/Tnt_logo.png/revision/latest?cb=20091230061033" group-title="CANALES PREMIUM",TNT
 http://stream.flynetwifi.com:1935/live/mobile-074/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="CANALES PREMIUM",Universal
+#EXTINF:-1 tvg-id="UniversalTV.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="CANALES PREMIUM",Universal
 http://181.78.105.146:2000/play/a03d/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1200px-History_%282021%29.svg.png"  group-title="CANALES PREMIUM",History
+#EXTINF:-1 tvg-id="History.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1200px-History_%282021%29.svg.png"  group-title="CANALES PREMIUM",History
 http://livex.pop-app.live/s4n/poplive/ch349/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-History2_logo_%282022%29.svg.png"  group-title="CANALES PREMIUM",History 2
+#EXTINF:-1 tvg-id="History2.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-History2_logo_%282022%29.svg.png"  group-title="CANALES PREMIUM",History 2
 http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://investigacion.pucp.edu.pe/wp-content/uploads/2021/03/logo.png" group-title="CANALES PREMIUM",National Geographic
+#EXTINF:-1 tvg-id="NationalGeographics.mx" tvg-logo="https://investigacion.pucp.edu.pe/wp-content/uploads/2021/03/logo.png" group-title="CANALES PREMIUM",National Geographic
 http://livex.pop-app.live/s4n/poplive/ch509/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.revistapym.com.co/old/2019/02/animal-planet.jpg"  group-title="CANALES PREMIUM",Animal Planet
+#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-logo="https://i.revistapym.com.co/old/2019/02/animal-planet.jpg"  group-title="CANALES PREMIUM",Animal Planet
 http://livex.pop-app.live/s4n/poplive/ch208/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png" group-title="CANALES PREMIUM", Azteca 7
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png" group-title="CANALES PREMIUM", Azteca 7
 http://181.78.105.146:2000/play/a08z/index.m3u8
 #EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG-1662394157103.png" group-title="CANALES PREMIUM" , Nick Teen
 https://r.mjh.nz/PlutoTV/5fab09a8749b1a00077d35d2-alt.m3u8

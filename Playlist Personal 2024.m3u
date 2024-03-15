@@ -507,3 +507,11 @@ https://ythls.armelin.one/channel/UCPde4guD9yFBRzkxk2PatoA.m3u8
 https://r.mjh.nz/PlutoTV/64d161c93c785e0008df575e-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60c8b3ddaaf9d4000780066f/colorLogoPNG.png"  group-title="MUSICALES" , Pluto TV K-Pop
 https://r.mjh.nz/PlutoTV/60c8b3ddaaf9d4000780066f-alt.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMIrLdQfYDddPWaSP3GAKj422bSLqpSaDuYu13sqMZeA&s"  group-title="Prueba",Vídeo de prueba 
+https://www.youtube.com/embed/A_nRzRZQqv0?si=vdkmXbegfK-spuDv

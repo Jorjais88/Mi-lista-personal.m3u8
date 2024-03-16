@@ -6,7 +6,7 @@ https://i.mjh.nz/SamsungTVPlus/ESBD1500001SD.m3u8
 #EXTINF:-1 tvg-id="StarChannel.mx" tvg-logo="https://elbocon.pe/resizer/e34hunCljqmpA2piBVm9MKIGPW0=/1200x1200/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/J6CG7N4JFNHLDAAPAPWPEPATLI.jpg" group-title="CANALES PREMIUM",Star Channel
 http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8
 #EXTINF:-1 tvg-id="FX.mx" tvg-logo="https://pbs.twimg.com/profile_images/1059375747788390400/sn2AY1Ob_400x400.jpg" group-title="CANALES PREMIUM",FX
-http://livex.pop-app.live/s4n/poplive/ch505/playlist.m3u8
+http://181.78.105.146:2000/play/a05z/index.m3u8
 #EXTINF:-1 tvg-id="Space.mx" tvg-logo="https://seeklogo.com/images/S/space-channel-logo-4AD3528E2F-seeklogo.com.png" group-title="CANALES PREMIUM",Space
 http://181.78.105.146:2000/play/a04x/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-logo="https://pics.filmaffinity.com/cartoon_network-175280508760361-nm_200.jpg" group-title="CANALES PREMIUM", Cartoon Network

@@ -416,7 +416,7 @@ http://vcpar.myplaytv.com/esportsmax/live/playlist_4.m3u8
 #EXTINF:-1 tvg-id="VCOnline.cl" tvg-name="VC Musica Cristiana" tvg-logo="https://i.ibb.co/5MtX4sV/VC-MUSIC-CRISTIANA.jpg" group-title="ESPECIALES" tvg-shift="+4",VC Musica Cristiana
 https://panel.tvstream.cl:1936/8024/8024/chunklist_w840122950.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BitMe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/BitMe.svg/1629px-BitMe.svg.png" group-title="ESPECIALES" tvg-shift="+4",BitMe
-http://livex.pop-app.live/s4n/poplive/ch555/playlist.m3u8
+https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Just For Laughs" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700008SK_20230426T015711SQUARE.png_20230426015712.png" group-title="ESPECIALES" tvg-shift="+4",Just For Laughs
 https://i.mjh.nz/SamsungTVPlus/ESBC2700008SK.m3u8
 #EXTINF:-1 tvg-id="5ff3934600d4c7000733ff49" tvg-name="Pluto TV E-Sports" tvg-logo="https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png" group-title="ESPECIALES" tvg-shift="+4",Pluto TV E-Sports

@@ -23,7 +23,7 @@ http://stream.flynetwifi.com:1935/live/mobile-001/playlist.m3u8
 https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalSony.mx" tvg-name="Sony Channel Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="CANALES PREMIUM",Sony Channel Premium
 http://181.78.105.146:2000/play/a002/index.m3u8
-#EXTINF:-1 tvg-id="HBO.ar" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="CANALES PREMIUM",HBO
+#EXTINF:-1 tvg-id="StarzEdge.us" tvg-name="Starz Edge" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="CANALES PREMIUM",Starz Edge
 http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="CANALES PREMIUM",HBO2
 http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
@@ -152,7 +152,7 @@ http://hd.istbolivia.com:1935/aynitv/aynitv/playlist.m3u8
 #EXTINF:-1 tvg-id="AgendaMineraTV.bo" tvg-name="Agenda Minera TV" tvg-logo="https://i.ytimg.com/vi/42Wip8bACb8/maxresdefault.jpg" group-title="CANALES DE BOLIVIA",Agenda Minera TV
 https://srv.panelcast.net/amitel/amitel/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TL Estrella TV" tvg-logo="https://i.ibb.co/h24smyF/TELE-ESTRELLA-HD.jpg" group-title="CANALES DE BOLIVIA",TL Estrella TV
-https://solo.disfrutaenlared.com:1936/teleestrella/teleestrella/chunklist_w1685837679.m3u8
+https://stmvideo3.livecastv.com/teleestrellahd/teleestrellahd/chunklist_w590782325.m3u8
 #EXTINF:-1 tvg-id="MegaTV.bo" tvg-name="Mega TV" tvg-logo="https://i.imgur.com/3d4uiZF.png" group-title="CANALES DE BOLIVIA",Mega TV
 https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ceacom" tvg-logo="https://i.ibb.co/z4pbkj7/CEACOM-HD.jpg" group-title="CANALES DE BOLIVIA",Ceacom
@@ -229,12 +229,22 @@ https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBD2700004ME.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pitufo TV" tvg-logo="https://img2.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/366x206/pitufotv_1920x1080_1.jpg" group-title="24/7",Pitufo TV
 https://i.mjh.nz/SamsungTVPlus/ESBD130000205.m3u8
+#EXTINF:-1 tvg-id="5fceaab478f2af00080ff51f"  tvg-logo="https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png"  group-title="24/7" , Yu-Gi-Oh
+https://r.mjh.nz/PlutoTV/5fceaab478f2af00080ff51f-alt.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)"  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/849fa51674359c442c85efaeefac0aa6.webp" group-title="24/7",Wu Tang Collection TV
+https://aef5dc1975f84cf7af47123a116dd433.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_WuTangCollectionSpanish/3f545cdb-42d3-4534-8fe4-67271a99abaf/0.m3u8
+#EXTINF:-1 tvg-id="619b7db4872c650008eb8b6"  tvg-logo="https://images.pluto.tv/channels/619b7db4872c650008eb8b6a/colorLogoPNG.png"  group-title="24/7" , Star Trek
+https://r.mjh.nz/PlutoTV/619b7db4872c650008eb8b6a-alt.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Doctor Who" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400001OG_20221012T021006SQUARE.png_20221012021006.png" group-title="24/7",Doctor Who
 https://i.mjh.nz/SamsungTVPlus/ESBA1400001OG.m3u8
+#EXTINF:-1 tvg-id="60d3574e97f10800078455de" tvg-logo="https://images.pluto.tv/channels/60d3574e97f10800078455de/colorLogoPNG.png"  group-title="24/7" , Doctor Who 2
+https://r.mjh.nz/PlutoTV/60d3574e97f10800078455de-alt.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Baywatch Guardianes de la Bahia" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300001EP_20240117T032714SQUARE.png_20240117032715.png" group-title="24/7",Baywatch Guardianes de la Bahia
 https://i.mjh.nz/SamsungTVPlus/ESBD1300001EP.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rabbids : La invasion" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300003S5_20230712T021346SQUARE.png_20230712021346.png" group-title="24/7",Rabbids : La invasion
 https://i.mjh.nz/SamsungTVPlus/ESBD2300003S5.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/861f7be9e22e87c60bd864944229b831.webp" group-title="24/7",Cops
+https://rightsboosterltd-cops-1-eu.plex.wurl.tv/4300.m3u8
 #EXTINF:-1 tvg-id="5cf968040ab7d8f181e6a68b" tvg-name="Cine Premiere" tvg-logo="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/colorLogoPNG.png" group-title="PELICULAS",Cine Premiere
 https://r.mjh.nz/PlutoTV/5cf968040ab7d8f181e6a68b-alt.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Séptimo arte" tvg-logo="https://images.pluto.tv/channels/5cf96b1c4f1ca3f0629f4bf0/colorLogoPNG.png" group-title="PELICULAS",Séptimo arte

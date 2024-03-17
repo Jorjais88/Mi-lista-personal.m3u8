@@ -25,7 +25,7 @@ http://stream.flynetwifi.com:1935/live/mobile-001/playlist.m3u8
 https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalSony.mx" tvg-name="Canal Sony" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19385_dark_360w_270h.png" group-title="CANALES PREMIUM", Canal Sony
 http://181.78.105.146:2000/play/a002/index.m3u8
-#EXTINF:-1 tvg-id="CanalSony.mx" tvg-name="Sony Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="CANALES PREMIUM",Sony Channel
+#EXTINF:-1 tvg-id="CanalSony.co" tvg-name="Sony Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="CANALES PREMIUM",Sony Channel
 http://stream.flynetwifi.com:1935/live/mobile-035/playlist.m3u8
 #EXTINF:-1 tvg-id="StarzEdge(Pacific).us" tvg-name="Starz Edge" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16311_dark_360w_270h.png" group-title="CANALES PREMIUM",Starz Edge
 http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
@@ -69,10 +69,10 @@ https://r.mjh.nz/PlutoTV/645952687cb4b100084ed52e-alt.m3u8
 https://r.mjh.nz/PlutoTV/62fa81ccd1a7e90007c1ada0-alt.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC Samsung TV PLus" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD7000017L_20230523T230719SQUARE.png_20230523230720.png" group-title="CANALES PREMIUM",AMC Samsung TV PLus
 https://i.mjh.nz/SamsungTVPlus/USBD7000017L.m3u8
-#EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden" tvg-logo="https://televisa-networks.com/wp-content/uploads/2023/06/televisa-networks-senales-golden.png" group-title="CANALES PREMIUM",Golden
-https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="GoldenEagleBroadcasting.us" tvg-name="Golden 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50709_dark_360w_270h.png" group-title="CANALES PREMIUM",Golden 2
+#EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50709_dark_360w_270h.png" group-title="CANALES PREMIUM",Golden
 https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="GoldenMultiplex.mx" tvg-name="Golden" tvg-logo="https://televisa-networks.com/wp-content/uploads/2023/06/televisa-networks-senales-golden.png" group-title="CANALES PREMIUM",Golden 2
+https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="Golden Edge" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16423_dark_360w_270h.png" group-title="CANALES PREMIUM",Golden Edge
 https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="GOLDENPLUS.mx" tvg-name="Golden Plus" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68317_dark_360w_270h.png" group-title="CANALES PREMIUM",Golden Plus

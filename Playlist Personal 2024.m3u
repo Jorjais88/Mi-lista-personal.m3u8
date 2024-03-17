@@ -91,27 +91,27 @@ http://www.channel.tevemi.com:1935/XtoTv/XtoTv/playlist.m3u8
 https://tv.bitstreaming.net:3073/live/solidariatvlive.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Unitel" tvg-logo="https://pbs.twimg.com/media/EI-wBOZWwAEYKey.png" group-title="CANALES DE BOLIVIA" tvg-shift="+4",Unitel
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Red Uno" tvg-logo="https://i1.sndcdn.com/artworks-vWxTtaVisF9JACWH-fABFfA-t500x500.jpg" group-title="CANALES DE BOLIVIA" tvg-shift="+4",Red Uno
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Red Uno" tvg-logo="https://i1.sndcdn.com/artworks-vWxTtaVisF9JACWH-fABFfA-t500x500.jpg" group-title="CANALES DE BOLIVIA" tvg-shift="",Red Uno
 https://streamer03.digital.com.bo/session/4e839498-b325-47f7-987f-205b4831346f/2ap337/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-id="BOLIVISION BOLIVIA" tvg-name="Bolivision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bolivision.png/150px-Bolivision.png" group-title="CANALES DE BOLIVIA" tvg-shift="+4",Bolivision
+#EXTINF:-1 tvg-id="BOLIVISION BOLIVIA" tvg-name="Bolivision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bolivision.png/150px-Bolivision.png" group-title="CANALES DE BOLIVIA" tvg-shift="",Bolivision
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cadena A" tvg-logo="https://www.cadenaa.tv/wp-content/uploads/2022/03/LogoBaseA0300-e1646889594328.png" group-title="CANALES DE BOLIVIA" tvg-shift="+4",Cadena A
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cadena A" tvg-logo="https://www.cadenaa.tv/wp-content/uploads/2022/03/LogoBaseA0300-e1646889594328.png" group-title="CANALES DE BOLIVIA" tvg-shift="",Cadena A
 https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/chunklist_w1555521344.m3u8
-#EXTINF:-1 tvg-id="RTP BOLIVIA" tvg-name="RTP" tvg-logo="https://pbs.twimg.com/profile_images/1611030398955298817/wa4yOQuL_400x400.jpg" group-title="CANALES DE BOLIVIA" tvg-shift="+4",RTP
+#EXTINF:-1 tvg-id="RTP BOLIVIA" tvg-name="RTP" tvg-logo="https://pbs.twimg.com/profile_images/1611030398955298817/wa4yOQuL_400x400.jpg" group-title="CANALES DE BOLIVIA" tvg-shift="",RTP
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
-#EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-name="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/W3q9NKKK/atbhdbolivia.jpg" group-title="CANALES DE BOLIVIA" tvg-shift="+4",ATB BOLIVIA
+#EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-name="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/W3q9NKKK/atbhdbolivia.jpg" group-title="CANALES DE BOLIVIA" tvg-shift="",ATB BOLIVIA
 http://186.121.206.197/live/daniel/index.m3u8
-#EXTINF:-1 tvg-id="BOLIVIA TV" tvg-name="BOLIVIA TV" tvg-logo="https://i.ibb.co/8PNDmWQ/BOLIVIA-TV-7-1.jpg" group-title="CANALES DE BOLIVIA" tvg-shift="+4",BOLIVIA TV
+#EXTINF:-1 tvg-id="BOLIVIA TV" tvg-name="BOLIVIA TV" tvg-logo="https://i.ibb.co/8PNDmWQ/BOLIVIA-TV-7-1.jpg" group-title="CANALES DE BOLIVIA" tvg-shift="",BOLIVIA TV 7.1
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="BOLIVIA TV" tvg-name="BOLIVIA TV" tvg-logo="https://i.ibb.co/BNh6Y7T/BOLIVIA-TV-7-2.jpg" group-title="CANALES DE BOLIVIA" tvg-shift="+4",BOLIVIA TV
+#EXTINF:-1 tvg-id="BOLIVIA TV" tvg-name="BOLIVIA TV" tvg-logo="https://i.ibb.co/BNh6Y7T/BOLIVIA-TV-7-2.jpg" group-title="CANALES DE BOLIVIA" tvg-shift="",BOLIVIA TV 7.2
 https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
-#EXTINF:-1 tvg-id="ABYA YALA" tvg-name="Abya Yala TV" tvg-logo="https://yt3.googleusercontent.com/p9oCFve1Fi8miO6Ao1JZ9YtmOdXUqFXSSp7Izt1xvYpDK9Cwm2bDTcucrJ6sh14zTpnQP2Rwfw=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE BOLIVIA" tvg-shift="+4",Abya Yala TV
+#EXTINF:-1 tvg-id="ABYA YALA" tvg-name="Abya Yala TV" tvg-logo="https://yt3.googleusercontent.com/p9oCFve1Fi8miO6Ao1JZ9YtmOdXUqFXSSp7Izt1xvYpDK9Cwm2bDTcucrJ6sh14zTpnQP2Rwfw=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE BOLIVIA" tvg-shift="",Abya Yala TV
 https://master.tucableip.com/abyayalatv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PAT" tvg-logo="https://i.ibb.co/CW9mjpC/PAT-HD-01.jpg" group-title="CANALES DE BOLIVIA" tvg-shift="+4",PAT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PAT" tvg-logo="https://i.ibb.co/CW9mjpC/PAT-HD-01.jpg" group-title="CANALES DE BOLIVIA" tvg-shift="",PAT
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/PAT/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Virgen De Copacabana" tvg-logo="https://i.ibb.co/brY56Hk/cvc-hd-virgen.jpg" group-title="CANALES DE BOLIVIA" tvg-shift="+4",Virgen De Copacabana
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Virgen De Copacabana" tvg-logo="https://i.ibb.co/brY56Hk/cvc-hd-virgen.jpg" group-title="CANALES DE BOLIVIA" tvg-shift="",Virgen De Copacabana
 https://5d00db0e0fcd5.streamlock.net/7034/7034/chunklist_w1842351465.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gigavision" tvg-logo="https://www.sinmordazadigital.com/wp-content/uploads/2020/06/IMG-20200602-WA0119.jpg" group-title="CANALES DE BOLIVIA" tvg-shift="+4",Gigavision
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gigavision" tvg-logo="https://www.sinmordazadigital.com/wp-content/uploads/2020/06/IMG-20200602-WA0119.jpg" group-title="CANALES DE BOLIVIA" tvg-shift="",Gigavision
 https://master.tucableip.com/gigavision/playlist.m3u8
 #EXTINF:-1 tvg-id="FAPTV.bo" tvg-name="FAP TV" tvg-logo="https://i.imgur.com/jZ7g58e.png" group-title="CANALES DE BOLIVIA" tvg-shift="+4",FAP TV
 https://nd106.republicaservers.com/hls/c7284/index.m3u8
@@ -531,11 +531,11 @@ https://linear-418.frequency.stream/mt/studio/418/hls/master/playlist.m3u8
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63adf8eff3d69d1885731c06.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zona Music TV" tvg-logo="https://i.imgur.com/TJ5l9iI.png" group-title="MUSICALES" tvg-shift="+4",Zona Music TV
 https://srv.panelcast.net/zonatv2023/zonatv2023/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="K-POP TV PLAY HD" tvg-logo="https://i.ibb.co/jWszKpW/K-POP-TV-PLAY.jpg" group-title="MUSICALES" tvg-shift="+4",K-POP TV PLAY HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="K-POP TV PLAY HD" tvg-logo="https://i.ibb.co/jWszKpW/K-POP-TV-PLAY.jpg" group-title="MUSICALES" tvg-shift="",K-POP TV PLAY HD
 https://250weu.bozztv.com/ssh101/ssh101/kpoptv/chunks.m3u8
-#EXTINF:-1 tvg-id="64d161c93c785e0008df575e" tvg-name="Vevo Íconos Latinos" tvg-logo="https://images.pluto.tv/channels/64d161c93c785e0008df575e/colorLogoPNG.png" group-title="MUSICALES" tvg-shift="+4",Vevo Íconos Latinos
+#EXTINF:-1 tvg-id="64d161c93c785e0008df575e" tvg-name="Vevo Íconos Latinos" tvg-logo="https://images.pluto.tv/channels/64d161c93c785e0008df575e/colorLogoPNG.png" group-title="MUSICALES" tvg-shift="",Vevo Íconos Latinos
 https://r.mjh.nz/PlutoTV/64d161c93c785e0008df575e-alt.m3u8
 #EXTINF:-1 tvg-id="60c8b3ddaaf9d4000780066f" tvg-name="Pluto TV K-Pop" tvg-logo="https://images.pluto.tv/channels/60c8b3ddaaf9d4000780066f/colorLogoPNG.png" group-title="MUSICALES" tvg-shift="+4",Pluto TV K-Pop
 https://r.mjh.nz/PlutoTV/60c8b3ddaaf9d4000780066f-alt.m3u8
-#EXTINF:-1 tvg-id="50 First Dates (2004)" tvg-name="50 First Dates (2004)" tvg-logo="" group-title="PRUEBA" tvg-shift="+4",PELICULA DE PRUEBA
-http://192.168.0.1:21/SMB/2/usb1_5/PELICULAS/50%20First%20Dates%20%282004%29.mkv
+#EXTINF:-1 tvg-id="50 First Dates (2004)" tvg-name="50 First Dates (2004)" tvg-logo="" group-title="Peliculas de la web" tvg-shift="+4",PELICULA
+https://192.168.0.1/usb1_5/PELICULAS/50 First Dates (2004).mkv

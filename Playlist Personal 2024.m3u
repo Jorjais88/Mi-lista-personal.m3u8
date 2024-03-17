@@ -71,7 +71,7 @@ https://r.mjh.nz/PlutoTV/62fa81ccd1a7e90007c1ada0-alt.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBD7000017L.m3u8
 #EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50709_dark_360w_270h.png" group-title="CANALES PREMIUM",Golden
 https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="GoldenMultiplex.mx" tvg-name="Golden" tvg-logo="https://televisa-networks.com/wp-content/uploads/2023/06/televisa-networks-senales-golden.png" group-title="CANALES PREMIUM",Golden 2
+#EXTINF:-1 tvg-id="GoldenMultiplex.mx" tvg-name="Golden" tvg-logo="https://televisa-networks.com/wp-content/uploads/2023/06/televisa-networks-senales-golden.png" group-title="CANALES PREMIUM",Golden Multiplex
 https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="Golden Edge" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16423_dark_360w_270h.png" group-title="CANALES PREMIUM",Golden Edge
 https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8

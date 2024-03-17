@@ -91,12 +91,13 @@ http://www.channel.tevemi.com:1935/XtoTv/XtoTv/playlist.m3u8
 https://tv.bitstreaming.net:3073/live/solidariatvlive.m3u8
 #EXTINF:-1 tvg-id="Unitel" tvg-name="Unitel" tvg-logo="https://pbs.twimg.com/media/EI-wBOZWwAEYKey.png" group-title="CANALES DE BOLIVIA" tvg-shift="",Unitel
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-id="Unitel" tvg-name="Unitel" tvg-logo="https://pbs.twimg.com/media/EI-wBOZWwAEYKey.png" group-title="CANALES DE BOLIVIA" tvg-shift="",Unitel 2
+https://master.tucableip.com//movil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Red Uno" tvg-name="Red Uno" tvg-logo="https://i1.sndcdn.com/artworks-vWxTtaVisF9JACWH-fABFfA-t500x500.jpg" group-title="CANALES DE BOLIVIA" tvg-shift="",Red Uno
 https://streamer03.digital.com.bo/session/4e839498-b325-47f7-987f-205b4831346f/2ap337/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg" group-title="CANALES DE BOLIVIA",RED UNO LPZ 
 https://live-b.cf.dmcdn.net/sec2(nh9Ly4ovtuMPhpV9eyOTvwsikFS0vJhkvn8EH4Szr9WQcMLDtpzpC0hmJ7yXJobqxo9__atR3mooyoM9DLJZaX6i4J0xTXXjQzHkgtbXrqU)/dm/3/x8s1at2/d/live-3.m3u8
-#EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg" group-title="CANALES DE BOLIVIA",RED UNO LPZ 2
-https://master.tucableip.com//movil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BOLIVISION BOLIVIA" tvg-name="Bolivision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bolivision.png/150px-Bolivision.png" group-title="CANALES DE BOLIVIA" tvg-shift="",Bolivision
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="CadenaA.bo" tvg-name="Cadena A" tvg-logo="https://www.cadenaa.tv/wp-content/uploads/2022/03/LogoBaseA0300-e1646889594328.png" group-title="CANALES DE BOLIVIA" tvg-shift="",Cadena A
@@ -105,9 +106,9 @@ https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/chunklist_w1555521344.
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
 #EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-name="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/W3q9NKKK/atbhdbolivia.jpg" group-title="CANALES DE BOLIVIA" tvg-shift="",ATB BOLIVIA
 http://186.121.206.197/live/daniel/index.m3u8
-#EXTINF:-1 tvg-id="BOLIVIA TV" tvg-name="BOLIVIA TV" tvg-logo="https://i.ibb.co/8PNDmWQ/BOLIVIA-TV-7-1.jpg" group-title="CANALES DE BOLIVIA" tvg-shift="",BOLIVIA TV 7.1
+#EXTINF:-1 tvg-id="BOLIVIA TV" tvg-name="BOLIVIA TV 7.1" tvg-logo="https://i.ibb.co/8PNDmWQ/BOLIVIA-TV-7-1.jpg" group-title="CANALES DE BOLIVIA" tvg-shift="",BOLIVIA TV 7.1
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="BOLIVIA TV" tvg-name="BOLIVIA TV" tvg-logo="https://i.ibb.co/BNh6Y7T/BOLIVIA-TV-7-2.jpg" group-title="CANALES DE BOLIVIA" tvg-shift="",BOLIVIA TV 7.2
+#EXTINF:-1 tvg-id="BOLIVIA TV" tvg-name="BOLIVIA TV 7.2" tvg-logo="https://i.ibb.co/BNh6Y7T/BOLIVIA-TV-7-2.jpg" group-title="CANALES DE BOLIVIA" tvg-shift="",BOLIVIA TV 7.2
 https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 #EXTINF:-1 tvg-id="ABYA YALA" tvg-name="Abya Yala TV" tvg-logo="https://yt3.googleusercontent.com/p9oCFve1Fi8miO6Ao1JZ9YtmOdXUqFXSSp7Izt1xvYpDK9Cwm2bDTcucrJ6sh14zTpnQP2Rwfw=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE BOLIVIA" tvg-shift="",Abya Yala TV
 https://master.tucableip.com/abyayalatv/tracks-v1a1/mono.m3u8
@@ -541,5 +542,5 @@ https://250weu.bozztv.com/ssh101/ssh101/kpoptv/chunks.m3u8
 https://r.mjh.nz/PlutoTV/64d161c93c785e0008df575e-alt.m3u8
 #EXTINF:-1 tvg-id="60c8b3ddaaf9d4000780066f" tvg-name="Pluto TV K-Pop" tvg-logo="https://images.pluto.tv/channels/60c8b3ddaaf9d4000780066f/colorLogoPNG.png" group-title="MUSICALES" tvg-shift="",Pluto TV K-Pop
 https://r.mjh.nz/PlutoTV/60c8b3ddaaf9d4000780066f-alt.m3u8
-#EXTINF:-1 tvg-id="50 First Dates (2004)" tvg-name="50 First Dates (2004)" tvg-logo="" group-title="Peliculas de la web" tvg-shift="",PELICULA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/60c8b3ddaaf9d4000780066f/colorLogoPNG.png" group-title="Varios" tvg-shift="",Pelicula
 http://www.djnutte.com/movies/Puss%20in%20Boots%20The%20Last%20Wish.avi

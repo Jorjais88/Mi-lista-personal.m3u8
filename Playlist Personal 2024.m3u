@@ -337,26 +337,6 @@ https://cinereal-plex.amagi.tv/CineReal/master_6.m3u8
 https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w1542610425.m3u8
 #EXTINF:-1 tvg-id="5dcde1317578340009b751d0" tvg-name="Pluto TV Series" tvg-logo="https://images.pluto.tv/channels/5dcde1317578340009b751d0/colorLogoPNG.png" group-title="SERIES Y PELICULAS" tvg-shift="",Pluto TV Series
 https://r.mjh.nz/PlutoTV/5dcde1317578340009b751d0-alt.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Moni TV" tvg-logo="https://cdn.m3u.cl/logo/1300_Moni_TV.png" group-title="SERIES Y PELICULAS" tvg-shift="",Moni TV
-https://stream.skarnetchile.com:3817/live/monitvlive.m3u8
-#EXTINF:-1 tvg-id="PlanetaTV.pe" tvg-name="Planeta TV" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="SERIES Y PELICULAS" tvg-shift="",Planeta TV
-https://live.obslivestream.com/planetatv/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WOW TV" tvg-logo="https://image.roku.com/developer_channels/prod/5f77f28b2d72c8a25c836cee44011ffd5dd6e950b160752de1755003860b1a1a.png" group-title="SERIES Y PELICULAS" tvg-shift="",WOW TV
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w1668757430_b2000000_slen.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Neo TV 16.1" tvg-logo="https://neotvdigital.com.ar/imagenes/fb.png" group-title="SERIES Y PELICULAS" tvg-shift="",Neo TV 16.1
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="San Pedro TV" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/weVy6A9B_400x400%20%281%29_0.jpg?itok=uvuVKz1S" group-title="SERIES Y PELICULAS" tvg-shift="",San Pedro TV
-https://srv2.zcast.com.br/sptv32/sptv32/chunklist_w1630201617.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinco TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZQFOa3X5DwQKmTOfztQ3b-Bbk67VXlXacJYc7JqQg=s900-c-k-c0x00ffffff-no-rj" group-title="SERIES Y PELICULAS" tvg-shift="",Cinco TV
-https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Next HD" tvg-logo="https://latinartv.com/sites/default/files/logos/nexthd.jpg" group-title="SERIES Y PELICULAS" tvg-shift="",Next HD
-https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tu Kanal" tvg-logo="https://i.imgur.com/GJthQOa.png" group-title="SERIES Y PELICULAS" tvg-shift="",Tu Kanal
-http://45.33.63.98/hls/abdi.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UCV Television" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/UCV-TV-en-vivo-Online.png?fit=1920%2C1080&ssl=1" group-title="SERIES Y PELICULAS" tvg-shift="",UCV Television
-https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream1/chunks.m3u8?nimblesessionid=587051430
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Contivision" tvg-logo="https://photos.live-tv-channels.org/tv-logo/contivision-tv-7001.webp" group-title="SERIES Y PELICULAS" tvg-shift="",Contivision
-https://unlimited1-cl-isp.dps.live/cm/cm.smil/cm/livestream1/chunks.m3u8?nimblesessionid=951812061
 #EXTINF:-1 tvg-id="654a35ce346f420008d5c36e" tvg-name="Pluto TV Invasión Alien" tvg-logo="https://images.pluto.tv/channels/654a35ce346f420008d5c36e/colorLogoPNG.png" group-title="SERIES Y PELICULAS" tvg-shift="",Pluto TV Invasión Alien
 https://r.mjh.nz/PlutoTV/654a35ce346f420008d5c36e-alt.m3u8
 #EXTINF:-1 tvg-id="5f2817d3d7573a00080f9175" tvg-name="Pluto TV Sci-Fi" tvg-logo="https://images.pluto.tv/channels/5f2817d3d7573a00080f9175/colorLogoPNG.png" group-title="SERIES Y PELICULAS" tvg-shift="",Pluto TV Sci-Fi
@@ -389,6 +369,26 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6018913ea15130002b28418f.m3u8
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6018913ea15130002b284193.m3u8
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6018913ea15130002b284195" tvg-name="FreeTV Saber Más" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6576aebe-a538-473a-9f40-c8cea9fbeda8/FreeTVSaberM_s_Circle_1500x1000_-_Ralph_Campillo.png" group-title="SERIES Y PELICULAS" tvg-shift="",FreeTV Saber Más
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6018913ea15130002b284195.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Moni TV" tvg-logo="https://cdn.m3u.cl/logo/1300_Moni_TV.png" group-title="SERIES Y PELICULAS" tvg-shift="",Moni TV
+https://stream.skarnetchile.com:3817/live/monitvlive.m3u8
+#EXTINF:-1 tvg-id="PlanetaTV.pe" tvg-name="Planeta TV" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="SERIES Y PELICULAS" tvg-shift="",Planeta TV
+https://live.obslivestream.com/planetatv/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WOW TV" tvg-logo="https://image.roku.com/developer_channels/prod/5f77f28b2d72c8a25c836cee44011ffd5dd6e950b160752de1755003860b1a1a.png" group-title="SERIES Y PELICULAS" tvg-shift="",WOW TV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w1668757430_b2000000_slen.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Neo TV 16.1" tvg-logo="https://neotvdigital.com.ar/imagenes/fb.png" group-title="SERIES Y PELICULAS" tvg-shift="",Neo TV 16.1
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="San Pedro TV" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/weVy6A9B_400x400%20%281%29_0.jpg?itok=uvuVKz1S" group-title="SERIES Y PELICULAS" tvg-shift="",San Pedro TV
+https://srv2.zcast.com.br/sptv32/sptv32/chunklist_w1630201617.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinco TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZQFOa3X5DwQKmTOfztQ3b-Bbk67VXlXacJYc7JqQg=s900-c-k-c0x00ffffff-no-rj" group-title="SERIES Y PELICULAS" tvg-shift="",Cinco TV
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Next HD" tvg-logo="https://latinartv.com/sites/default/files/logos/nexthd.jpg" group-title="SERIES Y PELICULAS" tvg-shift="",Next HD
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tu Kanal" tvg-logo="https://i.imgur.com/GJthQOa.png" group-title="SERIES Y PELICULAS" tvg-shift="",Tu Kanal
+http://45.33.63.98/hls/abdi.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UCV Television" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/UCV-TV-en-vivo-Online.png?fit=1920%2C1080&ssl=1" group-title="SERIES Y PELICULAS" tvg-shift="",UCV Television
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream1/chunks.m3u8?nimblesessionid=587051430
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Contivision" tvg-logo="https://photos.live-tv-channels.org/tv-logo/contivision-tv-7001.webp" group-title="SERIES Y PELICULAS" tvg-shift="",Contivision
+https://unlimited1-cl-isp.dps.live/cm/cm.smil/cm/livestream1/chunks.m3u8?nimblesessionid=951812061
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVS Retro" tvg-logo="https://image.roku.com/developer_channels/prod/cff251a5a41e79a2fbe6677694a1c4671529324b0c2fc0259f18d88e729b3928.png" group-title="SERIES Y PELICULAS" tvg-shift="",TVS Retro
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retrox TV" tvg-logo="https://i.imgur.com/viJBL6f.png" group-title="SERIES Y PELICULAS" tvg-shift="",Retrox TV

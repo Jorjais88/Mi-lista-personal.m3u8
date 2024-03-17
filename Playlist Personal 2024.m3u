@@ -187,9 +187,9 @@ https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8
 https://rpn3.bozztv.com/ssh101/ssh101/fortalezacueto/playlist.m3u8
 #EXTINF:-1 tvg-id="BoliviaRadioTV.bo" tvg-name="Bolivia Radio TV" tvg-logo="https://i.imgur.com/rW8xssX.png" group-title="CANALES DE BOLIVIA",Bolivia Radio TV
 https://rpn3.bozztv.com/ssh101/ssh101/boliviaradiotv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trailers" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700004PX_20240117T032710SQUARE.png_20240117032711.png" group-title="24/7",Trailers
+#EXTINF:-1 tvg-id="ESBC1700004PX" tvg-name="Trailers" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700004PX_20240117T032710SQUARE.png_20240117032711.png" group-title="24/7",Trailers
 https://i.mjh.nz/SamsungTVPlus/ESBC1700004PX.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mi chimenea" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1500001SD_20240214T035656SQUARE.png_20240214035657.png" group-title="24/7",Mi chimenea
+#EXTINF:-1 tvg-id="ESBD1500001SD" tvg-name="Mi chimenea" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1500001SD_20240214T035656SQUARE.png_20240214035657.png" group-title="24/7",Mi chimenea
 https://i.mjh.nz/SamsungTVPlus/ESBD1500001SD.m3u8
 #EXTINF:-1 tvg-id="609ae5cd48d3200007b0a98e" tvg-name="South Park" tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG.png" group-title="24/7",South Park
 https://r.mjh.nz/PlutoTV/609ae5cd48d3200007b0a98e-alt.m3u8

@@ -537,16 +537,5 @@ https://250weu.bozztv.com/ssh101/ssh101/kpoptv/chunks.m3u8
 https://r.mjh.nz/PlutoTV/64d161c93c785e0008df575e-alt.m3u8
 #EXTINF:-1 tvg-id="60c8b3ddaaf9d4000780066f" tvg-name="Pluto TV K-Pop" tvg-logo="https://images.pluto.tv/channels/60c8b3ddaaf9d4000780066f/colorLogoPNG.png" group-title="MUSICALES" tvg-shift="+4",Pluto TV K-Pop
 https://r.mjh.nz/PlutoTV/60c8b3ddaaf9d4000780066f-alt.m3u8
-#EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-name="RED UNO LPZ" tvg-logo="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg" group-title="PRUEBA" tvg-shift="+4",RED UNO LPZ
-https://live-b.cf.dmcdn.net/sec2(-rBMCJDTp8BD0gcfCn5HdBLDO81ptGuuemohP2UlA0fgK8XTbXdOsjuvuY_yN0wATbWH27rVJ6TXA7qDb5Q-OSqJpRc3ri0BD6lvubDCM7k)/dm/3/x8s1at2/d/live-3.m3u8
-#EXTINF:-1 tvg-id="UNITEL BOLIVIA" tvg-name="UNITEL NACIONAL" tvg-logo="https://i.ibb.co/nRcbKbL/UNITEL-NACIONAL-HD.jpg" group-title="PRUEBA" tvg-shift="+4",UNITEL NACIONAL
-https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl6gBD673E_Iah1LJugxsC4iIMRwxoMpELbP7cKg0i4e1)/dm/3/x7wzxiw/s/live-3.m3u8
-#EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-name="RED UNO BOLIVIA LPZ HD" tvg-logo="https://i.ibb.co/Sx93Zh4/RED-UNO-LPZ-VLC.jpg" group-title="PRUEBA" tvg-shift="+4",RED UNO BOLIVIA LPZ HD
-https://www.dailymotion.com/video/x8ko1ix
-#EXTINF:-1 tvg-id="UNITEL" tvg-name="UNITEL LPZ HD" tvg-logo="https://i.postimg.cc/L6ynTcYr/UNITEL-LPZ-HD.jpg" group-title="PRUEBA" tvg-shift="+4",UNITEL LPZ HD
-https://www.dailymotion.com/video/x7vsfua
-#EXTINF:-1 tvg-id="UNITEL" tvg-name="UNITEL BOLIVIA HD" tvg-logo="https://i.ibb.co/pzVXZcg/UNITEL-BOLIVIA-VLC.jpg" group-title="PRUEBA" tvg-shift="+4",UNITEL BOLIVIA HD
-https://www.dailymotion.com/video/x7wzxiw
-
-#EXTINF:-1 tvg-id="50 First Dates (2004)" tvg-name="50 First Dates (2004)" tvg-logo="https://i.ibb.co/pzVXZcg/UNITEL-BOLIVIA-VLC.jpg" group-title="PRUEBA" tvg-shift="+4",PELICULA DE PRUEBA
+#EXTINF:-1 tvg-id="50 First Dates (2004)" tvg-name="50 First Dates (2004)" tvg-logo="" group-title="PRUEBA" tvg-shift="+4",PELICULA DE PRUEBA
 http://127.0.0.1:18967/SMB/2/usb1_5/PELICULAS/50%20First%20Dates%20%282004%29.mkv

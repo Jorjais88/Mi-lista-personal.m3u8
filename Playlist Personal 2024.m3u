@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy91569fww4k6yxr5,https://i.mjh.nz/Plex/mx.xml,https://i.mjh.nz/PlutoTV/all.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://www.bevy.be/bevyfiles/boliviapremium.xml,https://github.com/bitsbb01/m3u8_creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy91569fww4k6yxr5,https://i.mjh.nz/Plex/mx.xml,https://i.mjh.nz/PlutoTV/all.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://www.bevy.be/bevyfiles/boliviapremium.xml,http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58,http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58,https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml,https://github.com/bitsbb01/m3u8_creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz"
 #EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="Cartoon Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59562_dark_360w_270h.png" group-title="CANALES PREMIUM" tvg-shift="",Cartoon Network
 http://138.59.177.34:8000/play/a023/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="Cartoon Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59562_dark_360w_270h.png" group-title="CANALES PREMIUM" tvg-shift="",Cartoon Network HD
@@ -7,7 +7,7 @@ http://138.59.177.34:8000/play/a01l/index.m3u8
 http://181.78.105.146:2000/play/a014/index.m3u8
 #EXTINF:-1 tvg-id="Nick.mx" tvg-name="Nickelodeon" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16707_dark_360w_270h.png" group-title="CANALES PREMIUM" tvg-shift="",Nickelodeon HD
 http://138.59.177.34:8000/play/a06b/index.m3u8
-#EXTINF:-1 tvg-id="Disney.mx" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/1200px-Disney_Channel_logo.svg.png" group-title="CANALES PREMIUM" tvg-shift="",Disney Channel
+#EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/1200px-Disney_Channel_logo.svg.png" group-title="CANALES PREMIUM" tvg-shift="",Disney Channel
 http://138.59.177.34:8000/play/a06c/index.m3u8
 #EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="Star Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75423_dark_360w_270h.png" group-title="CANALES PREMIUM" tvg-shift="",Star Channel
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/147
@@ -45,9 +45,11 @@ http://138.59.177.34:8000/play/a05p/index.m3u8
 https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalSony.mx" tvg-name="Canal Sony" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19385_dark_360w_270h.png" group-title="CANALES PREMIUM" tvg-shift="",Canal Sony
 http://181.78.105.146:2000/play/a002/index.m3u8
+#EXTINF:-1 tvg-id="CanalSony.mx" tvg-name="Canal Sony" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19385_dark_360w_270h.png" group-title="CANALES PREMIUM" tvg-shift="",Canal Sony HD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/42
 #EXTINF:-1 tvg-id="StarzEdge.us" tvg-name="Starz Edge" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16311_dark_360w_270h.png" group-title="CANALES PREMIUM" tvg-shift="",Starz Edge
 http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
-#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://www.pngfind.com/pngs/m/204-2047747_cinemax-logo-hd-png-download.png" group-title="CANALES PREMIUM" tvg-shift="",Cinemax
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16794_dark_360w_270h.png" group-title="CANALES PREMIUM" tvg-shift="",Cinemax
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/11
 #EXTINF:-1 tvg-id="hbo.mx" tvg-name="hbo.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="CANALES PREMIUM" tvg-shift="",HBO HD
 http://138.59.177.34:8000/play/a01m/index.m3u8

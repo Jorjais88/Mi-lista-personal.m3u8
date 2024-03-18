@@ -2,21 +2,23 @@
 #EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="Cartoon Network HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59562_dark_360w_270h.png" group-title="CANALES PREMIUM" audio-track="spa",Cartoon Network HD
 http://138.59.177.34:8000/play/a01l/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="Cartoon Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59562_dark_360w_270h.png" group-title="CANALES PREMIUM",Cartoon Network
-http://138.59.177.34:8000/play/a023/index.m3u8
-#EXTINF:-1 tvg-id="Nick.mx" tvg-name="Nickelodeon HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16707_dark_360w_270h.png" group-title="CANALES PREMIUM",Nickelodeon HD
-http://138.59.177.34:8000/play/a06b/index.m3u8
+http://181.78.105.146:2000/play/a03k/index.m3u8
 #EXTINF:-1 tvg-id="Nick.mx" tvg-name="Nickelodeon" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16707_dark_360w_270h.png" group-title="CANALES PREMIUM",Nickelodeon
-http://181.78.105.146:2000/play/a014/index.m3u8
+http://138.59.177.34:8000/play/a06b/index.m3u8
+#EXTINF:-1 tvg-id="AdultSwin.mx" tvg-name="Adult Swin" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3cd770b2-3e49-4672-99fb-8483b9dd9bf0/dfl6vww-9abbe0c7-379d-4866-ab13-cc1b01636b51.png/v1/fill/w_2230,h_358/adult_swim_logo__update___in_2023__by_seanscreations1_dfl6vww-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTU3IiwicGF0aCI6IlwvZlwvM2NkNzcwYjItM2U0OS00NjcyLTk5ZmItODQ4M2I5ZGQ5YmYwXC9kZmw2dnd3LTlhYmJlMGM3LTM3OWQtNDg2Ni1hYjEzLWNjMWIwMTYzNmI1MS5wbmciLCJ3aWR0aCI6Ijw9MzQ2NCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.wDNjcShWuuzs-yh8zYgz3mjk8LAOEFnmiSJj0APqrHY"  group-title="CANALES PREMIUM", Adult Swim
+http://138.59.177.34:8000/play/a029/index.m3u8
+#EXTINF:-1 tvg-id="AdultSwin.mx" tvg-name="Adult Swin" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3cd770b2-3e49-4672-99fb-8483b9dd9bf0/dfl6vww-9abbe0c7-379d-4866-ab13-cc1b01636b51.png/v1/fill/w_2230,h_358/adult_swim_logo__update___in_2023__by_seanscreations1_dfl6vww-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTU3IiwicGF0aCI6IlwvZlwvM2NkNzcwYjItM2U0OS00NjcyLTk5ZmItODQ4M2I5ZGQ5YmYwXC9kZmw2dnd3LTlhYmJlMGM3LTM3OWQtNDg2Ni1hYjEzLWNjMWIwMTYzNmI1MS5wbmciLCJ3aWR0aCI6Ijw9MzQ2NCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.wDNjcShWuuzs-yh8zYgz3mjk8LAOEFnmiSJj0APqrHY" group-title="CANALES PREMIUM", Adult Swim HD 
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/174
 #EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/1200px-Disney_Channel_logo.svg.png" group-title="CANALES PREMIUM",Disney Channel
 http://138.59.177.34:8000/play/a06c/index.m3u8
 #EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="Star Channel HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75423_dark_360w_270h.png" group-title="CANALES PREMIUM",Star Channel HD
 http://138.59.177.34:8000/play/a05c/index.m3u8
 #EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="Star Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75423_dark_360w_270h.png" group-title="CANALES PREMIUM",Star Channel
-https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/147
+http://138.59.177.34:8000/play/a06d/index.m3u8
 #EXTINF:-1 tvg-id="FX.mx" tvg-name="FX HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46442_dark_360w_270h.png" group-title="CANALES PREMIUM",FX HD
 http://138.59.177.34:8000/play/a035/index.m3u8
 #EXTINF:-1 tvg-id="FX.mx" tvg-name="FX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46442_dark_360w_270h.png" group-title="CANALES PREMIUM",FX
-http://181.78.105.146:2000/play/a05z/index.m3u8
+http://138.59.177.34:8000/play/a03z/index.m3u8
 #EXTINF:-1 tvg-id="AMC.ar" tvg-name="AMC HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="CANALES PREMIUM",AMC HD
 http://138.59.177.34:8000/play/a033/index.m3u8
 #EXTINF:-1 tvg-id="AMC.ar" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="CANALES PREMIUM",AMC
@@ -135,6 +137,18 @@ https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-name="De Película Plus" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74016_dark_360w_270h.png" group-title="CANALES PREMIUM",De Película Plus
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
 #EXTINF:-1 tvg-id="Poder de Dios.bo" tvg-name="Poder de Dios" tvg-logo="https://www.boliviayp.com/img/bo/x/1649774247-58-poder-de-dios-canal-45.jpg" group-title="CANALES DE BOLIVIA",Poder de Dios
 https://s3.tvdatta.com:3846/live/poderdedioslive.m3u8
 #EXTINF:-1 tvg-id="XTOTV.bo" tvg-name="XTOTV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e9b632aabb0576ebf8f67b5af638ccba.webp" group-title="CANALES DE BOLIVIA",XTOTV
@@ -147,8 +161,8 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/ind
 https://master.tucableip.com//movil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Red Uno" tvg-name="Red Uno" tvg-logo="https://i1.sndcdn.com/artworks-vWxTtaVisF9JACWH-fABFfA-t500x500.jpg" group-title="CANALES DE BOLIVIA",Red Uno
 https://streamer03.digital.com.bo/session/4e839498-b325-47f7-987f-205b4831346f/2ap337/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-name="RED UNO LPZ" tvg-logo="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg" group-title="CANALES DE BOLIVIA",RED UNO LPZ
-https://live-b.cf.dmcdn.net/sec2(nh9Ly4ovtuMPhpV9eyOTvwsikFS0vJhkvn8EH4Szr9WQcMLDtpzpC0hmJ7yXJobqxo9__atR3mooyoM9DLJZaX6i4J0xTXXjQzHkgtbXrqU)/dm/3/x8s1at2/d/live-3.m3u8
+#EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg" group-title="CANALES DE BOLIVIA",RED UNO LPZ 
+https://live-c.cf.dmcdn.net/sec2(5QoF1wk1Mizf6C9s55nxR619nXf2p4hNTy2xPuwc8bbKsJbqSkqp8ELxh-E0MnOKGVD1nFe2MrMx96USM53yaeF_RVHjv8PBSb6r2PUlVQ8)/dm/3/x8ko1ix/d/live-3.m3u8
 #EXTINF:-1 tvg-id="BOLIVISION BOLIVIA" tvg-name="Bolivision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bolivision.png/150px-Bolivision.png" group-title="CANALES DE BOLIVIA",Bolivision
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="CadenaA.bo" tvg-name="Cadena A" tvg-logo="https://www.cadenaa.tv/wp-content/uploads/2022/03/LogoBaseA0300-e1646889594328.png" group-title="CANALES DE BOLIVIA",Cadena A
@@ -163,8 +177,10 @@ http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 #EXTINF:-1 tvg-id="ABYA YALA" tvg-name="Abya Yala TV" tvg-logo="https://yt3.googleusercontent.com/p9oCFve1Fi8miO6Ao1JZ9YtmOdXUqFXSSp7Izt1xvYpDK9Cwm2bDTcucrJ6sh14zTpnQP2Rwfw=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE BOLIVIA",Abya Yala TV
 https://master.tucableip.com/abyayalatv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PAT" tvg-logo="https://i.ibb.co/CW9mjpC/PAT-HD-01.jpg" group-title="CANALES DE BOLIVIA",PAT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PAT" tvg-logo="https://i.ibb.co/CW9mjpC/PAT-HD-01.jpg" group-title="CANALES DE BOLIVIA",PAT HD
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/PAT/__op/hls-default/__f/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P1ddvbd/PAT-LA-PAZ-HD.jpg" group-title="CANALES DE BOLIVIA",PAT
+https://w8.redpat.tv:7777/play/120/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Virgen De Copacabana" tvg-logo="https://i.ibb.co/brY56Hk/cvc-hd-virgen.jpg" group-title="CANALES DE BOLIVIA",Virgen De Copacabana
 https://5d00db0e0fcd5.streamlock.net/7034/7034/chunklist_w1842351465.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gigavision" tvg-logo="https://www.sinmordazadigital.com/wp-content/uploads/2020/06/IMG-20200602-WA0119.jpg" group-title="CANALES DE BOLIVIA",Gigavision
@@ -192,7 +208,7 @@ https://tv.bitstreaming.net:3234/multi_live/play_720.m3u8
 #EXTINF:-1 tvg-id="F10" tvg-name="F10" tvg-logo="https://i.ibb.co/ggkqLnh/F10-HD.jpg" group-title="CANALES DE BOLIVIA",F10
 https://video.live.com.bo:3253/live/f10hdlive.m3u8
 #EXTINF:-1 tvg-id="SEOTV1FHD.bo" tvg-name="SEO TV" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="CANALES DE BOLIVIA",SEO TV
-https://seo.tv.bo/tv/SEO1HD.m3u8
+https://seo.tv.bo/tv/TV_1FHD.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Delta TV" tvg-logo="https://i.ibb.co/xCJhqyJ/DELTA-TV-HD-02.jpg" group-title="CANALES DE BOLIVIA",Delta TV
 https://vsrv1.az-streamingserver.com:3068/live/vdsocmnulive.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTVE Punata" tvg-logo="https://i.ibb.co/444NgrX/RTVE-PUNATA-HD.jpg" group-title="CANALES DE BOLIVIA",RTVE Punata
@@ -207,6 +223,7 @@ http://hd.istbolivia.com:1935/aynitv/aynitv/playlist.m3u8
 https://srv.panelcast.net/amitel/amitel/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TL Estrella TV" tvg-logo="https://i.ibb.co/h24smyF/TELE-ESTRELLA-HD.jpg" group-title="CANALES DE BOLIVIA",TL Estrella TV
 https://stmvideo3.livecastv.com/teleestrellahd/teleestrellahd/chunklist_w590782325.m3u8
+
 #EXTINF:-1 tvg-id="MegaTV.bo" tvg-name="Mega TV" tvg-logo="https://i.imgur.com/3d4uiZF.png" group-title="CANALES DE BOLIVIA",Mega TV
 https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ceacom" tvg-logo="https://i.ibb.co/z4pbkj7/CEACOM-HD.jpg" group-title="CANALES DE BOLIVIA",Ceacom
@@ -222,7 +239,7 @@ https://vdo.grupolimalive.com:3162/live/imperialtvlive.m3u8
 #EXTINF:-1 tvg-id="RedCCTV.bo" tvg-name="Red CCTV" tvg-logo="https://i.imgur.com/YC5FRmq.png" group-title="CANALES DE BOLIVIA",Red CCTV
 https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVLatina.bo" tvg-name="TV Latina" tvg-logo="https://i.imgur.com/V6wxEdh.png" group-title="CANALES DE BOLIVIA",TV Latina
-https://master.tucableip.com/live/tvlatinamontero/playlist.m3u8
+https://master.tucableip.com/live/tvlatinamontero/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Contacto Bolivia" tvg-logo="https://i.ibb.co/2jry2yg/CONTACTO-BOLIVIA-HD.jpg" group-title="CANALES DE BOLIVIA",Contacto Bolivia
 https://streannlivecontactobolivia.cachefly.net/Protected/sp=1;dirmatch=true;ip=131.0.196.97/1c1a81b78b3a70ed593d95eea6d18374f6138c7f15f0b4d8dd920c741dd11756/contactobolivia1/contactobolivia1/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Neo TV" tvg-logo="https://i.ibb.co/bgdhVKY/NEO-TV-BOLIVIA.jpg" group-title="CANALES DE BOLIVIA",Neo TV
@@ -243,6 +260,7 @@ https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8
 https://rpn3.bozztv.com/ssh101/ssh101/fortalezacueto/playlist.m3u8
 #EXTINF:-1 tvg-id="BoliviaRadioTV.bo" tvg-name="Bolivia Radio TV" tvg-logo="https://i.imgur.com/rW8xssX.png" group-title="CANALES DE BOLIVIA",Bolivia Radio TV
 https://rpn3.bozztv.com/ssh101/ssh101/boliviaradiotv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="samsung-ESBC1700004PX" tvg-name="Trailers" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700004PX_20240117T032710SQUARE.png_20240117032711.png" group-title="24/7",Trailers
 https://i.mjh.nz/SamsungTVPlus/ESBC1700004PX.m3u8
 #EXTINF:-1 tvg-id="samsung-ESBD1500001SD" tvg-name="Paisajes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1500001SD_20240214T035656SQUARE.png_20240214035657.png" group-title="24/7",Paisajes

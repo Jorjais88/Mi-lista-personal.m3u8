@@ -8,7 +8,8 @@
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/4
 ******************************************************************************************************************************
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116154_dark_360w_270h.png" group-title="CANALES PREMIUM",Azteca 7
-http://181.78.105.146:2000/play/a08z/index.m3u8
+#EXTVLCOPT--http-reconnect=true
+https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 ******************************************************************************************************************************
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://cdn.m3u.cl/logo/1300_Moni_TV.png" group-title="CANALES PREMIUM",Moni TV
 https://stream.skarnetchile.com:3817/live/monitvlive.m3u8
@@ -37,7 +38,7 @@ https://r.mjh.nz/PlutoTV/645952687cb4b100084ed52e-alt.m3u8
 #EXTINF:-1 channel-id="pluto-62fa81ccd1a7e90007c1ada0" tvg-id="62fa81ccd1a7e90007c1ada0" tvg-logo="https://images.pluto.tv/channels/62fa81ccd1a7e90007c1ada0/colorLogoPNG.png" tvg-chno="4290" group-title="CANALES PREMIUM" , AMC Pluto TV
 https://r.mjh.nz/PlutoTV/62fa81ccd1a7e90007c1ada0-alt.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 channel-id="samsung-USBD7000017L" tvg-id="USBD7000017L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD7000017L_20230523T230719SQUARE.png_20230523230720.png" tvg-chno="1253" group-title="CANALES PREMIUM" , AMC Samsung TV PLus
+#EXTINF:-1 channel-id="samsung-USBD7000017L" tvg-id="USBD7000017L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD7000017L_20230523T230719SQUARE.png_20230523230720.png" tvg-chno="1253" group-title="CANALES PREMIUM" , AMC Samsung TV Plus
 https://i.mjh.nz/SamsungTVPlus/USBD7000017L.m3u8
 ******************************************************************************************************************************
 #EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59562_dark_360w_270h.png" group-title="CANALES PREMIUM" audio-track="spa",Cartoon Network HD

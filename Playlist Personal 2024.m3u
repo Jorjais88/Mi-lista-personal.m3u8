@@ -4,399 +4,401 @@
 **********************CANALES PREMIUM**************************
 ***************************************************************
 ***************************************************************
-#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="Cartoon Network HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59562_dark_360w_270h.png" group-title="CANALES PREMIUM" audio-track="spa",Cartoon Network HD
-http://138.59.177.34:8000/play/a01l/index.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="Cartoon Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59562_dark_360w_270h.png" group-title="CANALES PREMIUM",Cartoon Network
-http://181.78.105.146:2000/play/a03k/index.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="Nick.mx" tvg-name="Nickelodeon" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16707_dark_360w_270h.png" group-title="CANALES PREMIUM",Nickelodeon
-http://138.59.177.34:8000/play/a06b/index.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="AdultSwin.mx" tvg-name="Adult Swin" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3cd770b2-3e49-4672-99fb-8483b9dd9bf0/dfl6vww-9abbe0c7-379d-4866-ab13-cc1b01636b51.png/v1/fill/w_2230,h_358/adult_swim_logo__update___in_2023__by_seanscreations1_dfl6vww-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTU3IiwicGF0aCI6IlwvZlwvM2NkNzcwYjItM2U0OS00NjcyLTk5ZmItODQ4M2I5ZGQ5YmYwXC9kZmw2dnd3LTlhYmJlMGM3LTM3OWQtNDg2Ni1hYjEzLWNjMWIwMTYzNmI1MS5wbmciLCJ3aWR0aCI6Ijw9MzQ2NCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.wDNjcShWuuzs-yh8zYgz3mjk8LAOEFnmiSJj0APqrHY"  group-title="CANALES PREMIUM", Adult Swim
-http://138.59.177.34:8000/play/a029/index.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/1200px-Disney_Channel_logo.svg.png" group-title="CANALES PREMIUM",Disney Channel
-http://138.59.177.34:8000/play/a06c/index.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="Star Channel HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75423_dark_360w_270h.png" group-title="CANALES PREMIUM",Star Channel HD
-http://138.59.177.34:8000/play/a05c/index.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="Star Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75423_dark_360w_270h.png" group-title="CANALES PREMIUM",Star Channel
-http://138.59.177.34:8000/play/a06d/index.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46442_dark_360w_270h.png" group-title="CANALES PREMIUM",FX HD
-http://138.59.177.34:8000/play/a035/index.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46442_dark_360w_270h.png" group-title="CANALES PREMIUM",FX
-http://138.59.177.34:8000/play/a03z/index.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="AMC.ar" tvg-name="AMC HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="CANALES PREMIUM",AMC HD
-http://138.59.177.34:8000/play/a033/index.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="AMC.ar" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="CANALES PREMIUM",AMC
-http://138.59.177.34:8000/play/a02m/index.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" group-title="CANALES PREMIUM",Cinecanal HD
-http://138.59.177.34:8000/play/a05f/index.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" group-title="CANALES PREMIUM",Cinecanal
-http://138.59.177.34:8000/play/a06s/index.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="Warner TV HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16213_dark_360w_270h.png" group-title="CANALES PREMIUM",Warner TV HD
-http://138.59.177.34:8000/play/a05d/index.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="Warner TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16213_dark_360w_270h.png" group-title="CANALES PREMIUM" audio-track="spa",Warner TV
-http://181.78.105.146:2000/play/a01f/index.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="Space.mx" tvg-name="Space HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68021_dark_360w_270h.png" group-title="CANALES PREMIUM",Space HD
-http://138.59.177.34:8000/play/a06x/index.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="Space.mx" tvg-name="Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png" group-title="CANALES PREMIUM",Space
-http://181.78.105.146:2000/play/a04x/index.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png" group-title="CANALES PREMIUM",TNT HD
-http://138.59.177.34:8000/play/a05l/index.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="CANALES PREMIUM",TNT
-http://138.59.177.34:8000/play/a02l/index.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="Comedy Central HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76326_dark_360w_270h.png" group-title="CANALES PREMIUM",Comedy Central HD
-http://138.59.177.34:8000/play/a05p/index.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="Comedy Central" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76326_dark_360w_270h.png" group-title="CANALES PREMIUM",Comedy Central
-https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/13
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/512px-DistritoComediaLOGO2018.png" group-title="CANALES PREMIUM",Distrito Comedia
-https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="CanalSony.mx" tvg-name="Canal Sony HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19385_dark_360w_270h.png" group-title="CANALES PREMIUM",Canal Sony HD
-https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/42
-***************************************************************
-#EXTINF:-1 tvg-id="CanalSony.mx" tvg-name="Canal Sony" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19385_dark_360w_270h.png" group-title="CANALES PREMIUM",Canal Sony
-http://181.78.105.146:2000/play/a002/index.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="StarzEdge.us" tvg-name="Starz Edge" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16311_dark_360w_270h.png" group-title="CANALES PREMIUM",Starz Edge
-http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16794_dark_360w_270h.png" group-title="CANALES PREMIUM",Cinemax
-https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/11
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="hbo.mx" tvg-name="HBO HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="CANALES PREMIUM",HBO HD
-http://138.59.177.34:8000/play/a01m/index.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO2 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="CANALES PREMIUM",HBO2 HD
-https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/153
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="CANALES PREMIUM",HBO Family HD
-http://138.59.177.34:8000/play/a01p/index.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="CANALES PREMIUM",HBO Family
-http://livex.pop-app.live/s4n/poplive/ch515/playlist.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBO Plus" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="CANALES PREMIUM",HBO Plus
-http://138.59.177.34:8000/play/a01o/index.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="HBOSignature.mx" tvg-name="HBO Signature" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80120_dark_360w_270h.png" group-title="CANALES PREMIUM",HBO Signature
-http://livex.pop-app.live/s4n/poplive/ch517/playlist.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17484_dark_360w_270h.png" group-title="CANALES PREMIUM",AXN HD
-http://138.59.177.34:8000/play/a06w/index.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17484_dark_360w_270h.png" group-title="CANALES PREMIUM",AXN
-http://181.78.105.146:2000/play/a05y/index.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="EEntertainmentTV.mx" tvg-name="E! HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30259_dark_360w_270h.png" group-title="CANALES PREMIUM",E! HD
-http://138.59.177.34:8000/play/a030/index.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="EEntertainmentTV.mx" tvg-name="E!" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30259_dark_360w_270h.png" group-title="CANALES PREMIUM",E!
-http://138.59.177.34:8000/play/a051/index.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="Paramount.mx" tvg-name="Paramount HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106214_dark_360w_270h.png" group-title="CANALES PREMIUM",Paramount HD
-http://138.59.177.34:8000/play/a075/index.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="Paramount.mx" tvg-name="Paramount" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106214_dark_360w_270h.png" group-title="CANALES PREMIUM",Paramount
-http://138.59.177.34:8000/play/a01h/index.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="Universal" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s53218_dark_360w_270h.png" group-title="CANALES PREMIUM",Universal
-http://138.59.177.34:8000/play/a06m/index.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="Studio Universal HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png" group-title="CANALES PREMIUM",Studio Universal HD
-http://138.59.177.34:8000/play/a02y/index.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="Studio Universal" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png" group-title="CANALES PREMIUM",Studio Universal
-http://138.59.177.34:8000/play/a06r/index.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="History.mx" tvg-name="History HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="CANALES PREMIUM",History HD
-http://138.59.177.34:8000/play/a02s/index.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="History.mx" tvg-name="History" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="CANALES PREMIUM",History
-http://181.78.105.146:2000/play/a017/index.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="History2.mx" tvg-name="History 2 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80374_dark_360w_270h.png" group-title="CANALES PREMIUM",History 2 HD
-https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/154
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="History2.mx" tvg-name="History 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80374_dark_360w_270h.png" group-title="CANALES PREMIUM",History 2
-http://181.78.105.146:2000/play/a00v/index.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="Animal Planet HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18649_dark_360w_270h.png" group-title="CANALES PREMIUM",Animal Planet HD
-http://138.59.177.34:8000/play/a02z/index.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="Animal Planet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18649_dark_360w_270h.png" group-title="CANALES PREMIUM",Animal Planet
-http://138.59.177.34:8000/play/a055/index.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Home & Health HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="CANALES PREMIUM",Home & Health HD
-http://138.59.177.34:8000/play/a05n/index.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Home & Health" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="CANALES PREMIUM",Home & Health
-http://138.59.177.34:8000/play/a06f/index.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116154_dark_360w_270h.png" group-title="CANALES PREMIUM",Azteca 7 HD
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116154_dark_360w_270h.png" group-title="CANALES PREMIUM",Azteca 7 HD
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/4
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116154_dark_360w_270h.png" group-title="CANALES PREMIUM",Azteca 7
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116154_dark_360w_270h.png" group-title="CANALES PREMIUM",Azteca 7
 http://181.78.105.146:2000/play/a08z/index.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://cdn.m3u.cl/logo/1300_Moni_TV.png" group-title="SERIES Y PELICULAS",Moni TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://cdn.m3u.cl/logo/1300_Moni_TV.png" group-title="CANALES PREMIUM",Moni TV
 https://stream.skarnetchile.com:3817/live/monitvlive.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="PlanetaTV.pe" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="SERIES Y PELICULAS",Planeta TV
+#EXTINF:-1 tvg-id="PlanetaTV.pe" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="CANALES PREMIUM",Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://image.roku.com/developer_channels/prod/5f77f28b2d72c8a25c836cee44011ffd5dd6e950b160752de1755003860b1a1a.png" group-title="SERIES Y PELICULAS",WOW TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://image.roku.com/developer_channels/prod/5f77f28b2d72c8a25c836cee44011ffd5dd6e950b160752de1755003860b1a1a.png" group-title="CANALES PREMIUM",WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w668344429_b700000_slen.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="CANALES PREMIUM",National Geographic HD
-https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/492
+#EXTINF:-1 tvg-id="(no tvg-id)"  tvg-logo="https://neotvdigital.com.ar/imagenes/fb.png" group-title="CANALES PREMIUM",Neo TV 16.1
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="CANALES PREMIUM",National Geographic
-http://138.59.177.34:8000/play/a02f/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://image.roku.com/developer_channels/prod/cff251a5a41e79a2fbe6677694a1c4671529324b0c2fc0259f18d88e729b3928.png" group-title="SERIES Y PELICULAS",TVS Retro
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="5fab09a8749b1a00077d35d2" tvg-name="Nick Teen" tvg-logo="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG-1662394157103.png" group-title="CANALES PREMIUM",Nick Teen
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://wiseplaylistasiptv.com/wp-content/uploads/2021/09/Captura-de-Pantalla-2021-09-08-a-las-13.04.46.png" group-title="SERIES Y PELICULAS",Retro Play TV
+https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 channel-id="pluto-5fab09a8749b1a00077d35d2" tvg-id="5fab09a8749b1a00077d35d2" tvg-logo="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG-1662394157103.png" tvg-chno="1352" group-title="CANALES PREMIUM" , Nick Teen
 https://r.mjh.nz/PlutoTV/5fab09a8749b1a00077d35d2-alt.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="5e8397936791b30007ebb5a7" tvg-name="Pluto TV Humor" tvg-logo="https://images.pluto.tv/channels/5e8397936791b30007ebb5a7/colorLogoPNG.png" group-title="CANALES PREMIUM",Pluto TV Humor
+#EXTINF:-1 channel-id="pluto-5e8397936791b30007ebb5a7" tvg-id="5e8397936791b30007ebb5a7" tvg-logo="https://images.pluto.tv/channels/5e8397936791b30007ebb5a7/colorLogoPNG.png" tvg-chno="994" group-title="CANALES PREMIUM" , Pluto TV Humor
 https://r.mjh.nz/PlutoTV/5e8397936791b30007ebb5a7-alt.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="645952687cb4b100084ed52e" tvg-name="Nickelodeon Pluto TV" tvg-logo="https://images.pluto.tv/channels/645952687cb4b100084ed52e/colorLogoPNG.png" group-title="CANALES PREMIUM",Nickelodeon Pluto TV
+#EXTINF:-1 channel-id="pluto-645952687cb4b100084ed52e" tvg-id="645952687cb4b100084ed52e" tvg-logo="https://images.pluto.tv/channels/645952687cb4b100084ed52e/colorLogoPNG.png" tvg-chno="1455" group-title="CANALES PREMIUM" , Nickelodeon Pluto TV
 https://r.mjh.nz/PlutoTV/645952687cb4b100084ed52e-alt.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="62fa81ccd1a7e90007c1ada0" tvg-name="AMC Pluto TV" tvg-logo="https://images.pluto.tv/channels/62fa81ccd1a7e90007c1ada0/colorLogoPNG.png" group-title="CANALES PREMIUM",AMC Pluto TV
+#EXTINF:-1 channel-id="pluto-62fa81ccd1a7e90007c1ada0" tvg-id="62fa81ccd1a7e90007c1ada0" tvg-logo="https://images.pluto.tv/channels/62fa81ccd1a7e90007c1ada0/colorLogoPNG.png" tvg-chno="4290" group-title="CANALES PREMIUM" , AMC Pluto TV
 https://r.mjh.nz/PlutoTV/62fa81ccd1a7e90007c1ada0-alt.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="USBD7000017L" tvg-name="AMC Samsung TV PLus" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD7000017L_20230523T230719SQUARE.png_20230523230720.png" group-title="CANALES PREMIUM",AMC Samsung TV PLus
+#EXTINF:-1 channel-id="samsung-USBD7000017L" tvg-id="USBD7000017L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD7000017L_20230523T230719SQUARE.png_20230523230720.png" tvg-chno="1253" group-title="CANALES PREMIUM" , AMC Samsung TV PLus
 https://i.mjh.nz/SamsungTVPlus/USBD7000017L.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT Series HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="CANALES PREMIUM",TNT Series HD
+#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59562_dark_360w_270h.png" group-title="CANALES PREMIUM" audio-track="spa",Cartoon Network HD
+http://138.59.177.34:8000/play/a01l/index.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59562_dark_360w_270h.png" group-title="CANALES PREMIUM",Cartoon Network
+http://181.78.105.146:2000/play/a03k/index.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="Nick.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16707_dark_360w_270h.png" group-title="CANALES PREMIUM",Nickelodeon
+http://138.59.177.34:8000/play/a06b/index.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="AdultSwin.mx" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3cd770b2-3e49-4672-99fb-8483b9dd9bf0/dfl6vww-9abbe0c7-379d-4866-ab13-cc1b01636b51.png/v1/fill/w_2230,h_358/adult_swim_logo__update___in_2023__by_seanscreations1_dfl6vww-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTU3IiwicGF0aCI6IlwvZlwvM2NkNzcwYjItM2U0OS00NjcyLTk5ZmItODQ4M2I5ZGQ5YmYwXC9kZmw2dnd3LTlhYmJlMGM3LTM3OWQtNDg2Ni1hYjEzLWNjMWIwMTYzNmI1MS5wbmciLCJ3aWR0aCI6Ijw9MzQ2NCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.wDNjcShWuuzs-yh8zYgz3mjk8LAOEFnmiSJj0APqrHY"  group-title="CANALES PREMIUM", Adult Swim
+http://138.59.177.34:8000/play/a029/index.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/1200px-Disney_Channel_logo.svg.png" group-title="CANALES PREMIUM",Disney Channel
+http://138.59.177.34:8000/play/a06c/index.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="StarChannel.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75423_dark_360w_270h.png" group-title="CANALES PREMIUM",Star Channel HD
+http://138.59.177.34:8000/play/a05c/index.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="StarChannel.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75423_dark_360w_270h.png" group-title="CANALES PREMIUM",Star Channel
+http://138.59.177.34:8000/play/a06d/index.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="FX.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46442_dark_360w_270h.png" group-title="CANALES PREMIUM",FX HD
+http://138.59.177.34:8000/play/a035/index.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="FX.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46442_dark_360w_270h.png" group-title="CANALES PREMIUM",FX
+http://138.59.177.34:8000/play/a03z/index.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="AMC.ar" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="CANALES PREMIUM",AMC HD
+http://138.59.177.34:8000/play/a033/index.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="AMC.ar" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="CANALES PREMIUM",AMC
+http://138.59.177.34:8000/play/a02m/index.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" group-title="CANALES PREMIUM",Cinecanal HD
+http://138.59.177.34:8000/play/a05f/index.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" group-title="CANALES PREMIUM",Cinecanal
+http://138.59.177.34:8000/play/a06s/index.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16213_dark_360w_270h.png" group-title="CANALES PREMIUM",Warner TV HD
+http://138.59.177.34:8000/play/a05d/index.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16213_dark_360w_270h.png" group-title="CANALES PREMIUM" audio-track="spa",Warner TV
+http://181.78.105.146:2000/play/a01f/index.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="Space.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68021_dark_360w_270h.png" group-title="CANALES PREMIUM",Space HD
+http://138.59.177.34:8000/play/a06x/index.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="Space.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png" group-title="CANALES PREMIUM",Space
+http://181.78.105.146:2000/play/a04x/index.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="TNT.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png" group-title="CANALES PREMIUM",TNT HD
+http://138.59.177.34:8000/play/a05l/index.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="TNT.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="CANALES PREMIUM",TNT
+http://138.59.177.34:8000/play/a02l/index.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76326_dark_360w_270h.png" group-title="CANALES PREMIUM",Comedy Central HD
+http://138.59.177.34:8000/play/a05p/index.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76326_dark_360w_270h.png" group-title="CANALES PREMIUM",Comedy Central
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/13
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/512px-DistritoComediaLOGO2018.png" group-title="CANALES PREMIUM",Distrito Comedia
+https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="CanalSony.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19385_dark_360w_270h.png" group-title="CANALES PREMIUM",Canal Sony HD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/42
+***************************************************************
+#EXTINF:-1 tvg-id="CanalSony.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19385_dark_360w_270h.png" group-title="CANALES PREMIUM",Canal Sony
+http://181.78.105.146:2000/play/a002/index.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="StarzEdge.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16311_dark_360w_270h.png" group-title="CANALES PREMIUM",Starz Edge
+http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16794_dark_360w_270h.png" group-title="CANALES PREMIUM",Cinemax
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/11
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="hbo.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="CANALES PREMIUM",HBO HD
+http://138.59.177.34:8000/play/a01m/index.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="HBO2.mx"  tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="CANALES PREMIUM",HBO2 HD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/153
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="HBOFamily.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="CANALES PREMIUM",HBO Family HD
+http://138.59.177.34:8000/play/a01p/index.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="HBOFamily.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="CANALES PREMIUM",HBO Family
+http://livex.pop-app.live/s4n/poplive/ch515/playlist.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="HBOPlus.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="CANALES PREMIUM",HBO Plus
+http://138.59.177.34:8000/play/a01o/index.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="HBOSignature.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80120_dark_360w_270h.png" group-title="CANALES PREMIUM",HBO Signature
+http://livex.pop-app.live/s4n/poplive/ch517/playlist.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="AXN.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17484_dark_360w_270h.png" group-title="CANALES PREMIUM",AXN HD
+http://138.59.177.34:8000/play/a06w/index.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="AXN.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17484_dark_360w_270h.png" group-title="CANALES PREMIUM",AXN
+http://181.78.105.146:2000/play/a05y/index.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="EEntertainmentTV.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30259_dark_360w_270h.png" group-title="CANALES PREMIUM",E! HD
+http://138.59.177.34:8000/play/a030/index.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="EEntertainmentTV.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30259_dark_360w_270h.png" group-title="CANALES PREMIUM",E!
+http://138.59.177.34:8000/play/a051/index.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="Paramount.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106214_dark_360w_270h.png" group-title="CANALES PREMIUM",Paramount HD
+http://138.59.177.34:8000/play/a075/index.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="Paramount.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106214_dark_360w_270h.png" group-title="CANALES PREMIUM",Paramount
+http://138.59.177.34:8000/play/a01h/index.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="UniversalTV.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s53218_dark_360w_270h.png" group-title="CANALES PREMIUM",Universal
+http://138.59.177.34:8000/play/a06m/index.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png" group-title="CANALES PREMIUM",Studio Universal HD
+http://138.59.177.34:8000/play/a02y/index.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png" group-title="CANALES PREMIUM",Studio Universal
+http://138.59.177.34:8000/play/a06r/index.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="History.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="CANALES PREMIUM",History HD
+http://138.59.177.34:8000/play/a02s/index.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="History.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="CANALES PREMIUM",History
+http://181.78.105.146:2000/play/a017/index.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="History2.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80374_dark_360w_270h.png" group-title="CANALES PREMIUM",History 2 HD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/154
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="History2.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80374_dark_360w_270h.png" group-title="CANALES PREMIUM",History 2
+http://181.78.105.146:2000/play/a00v/index.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18649_dark_360w_270h.png" group-title="CANALES PREMIUM",Animal Planet HD
+http://138.59.177.34:8000/play/a02z/index.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18649_dark_360w_270h.png" group-title="CANALES PREMIUM",Animal Planet
+http://138.59.177.34:8000/play/a055/index.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="CANALES PREMIUM",Home & Health HD
+http://138.59.177.34:8000/play/a05n/index.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="CANALES PREMIUM",Home & Health
+http://138.59.177.34:8000/play/a06f/index.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="CANALES PREMIUM",National Geographic HD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/492
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="CANALES PREMIUM",National Geographic
+http://138.59.177.34:8000/play/a02f/index.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="CANALES PREMIUM",TNT Series HD
 http://138.59.177.34:8000/play/a076/index.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT Series" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="CANALES PREMIUM",TNT Series
+#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="CANALES PREMIUM",TNT Series
 http://138.59.177.34:8000/play/a02d/index.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="CanalSony.mx" tvg-name="Sony Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="CANALES PREMIUM",Sony Channel
+#EXTINF:-1 tvg-id="CanalSony.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="CANALES PREMIUM",Sony Channel
 http://stream.flynetwifi.com:1935/live/mobile-035/playlist.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="GoldenMultiplex.mx" tvg-name="Golden" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50709_dark_360w_270h.png" group-title="CANALES PREMIUM",Golden
+#EXTINF:-1 tvg-id="GoldenMultiplex.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50709_dark_360w_270h.png" group-title="CANALES PREMIUM",Golden
 https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50709_dark_360w_270h.png" group-title="CANALES PREMIUM",Golden
+#EXTINF:-1 tvg-id="Golden.mx"  tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50709_dark_360w_270h.png" group-title="CANALES PREMIUM",Golden
 https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="Golden Edge" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16423_dark_360w_270h.png" group-title="CANALES PREMIUM",Golden Edge
+#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16423_dark_360w_270h.png" group-title="CANALES PREMIUM",Golden Edge
 https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="GOLDENPLUS.mx" tvg-name="Golden Plus" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68317_dark_360w_270h.png" group-title="CANALES PREMIUM",Golden Plus
+#EXTINF:-1 tvg-id="GOLDENPLUS.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68317_dark_360w_270h.png" group-title="CANALES PREMIUM",Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-name="Golden Premier" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png" group-title="CANALES PREMIUM",Golden Premier
+#EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png" group-title="CANALES PREMIUM",Golden Premier
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="De Película" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16288_dark_360w_270h.png" group-title="CANALES PREMIUM",De Película
+#EXTINF:-1 tvg-id="DePelicula.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16288_dark_360w_270h.png" group-title="CANALES PREMIUM",De Película
 https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-name="De Película Plus" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74016_dark_360w_270h.png" group-title="CANALES PREMIUM",De Película Plus
+#EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74016_dark_360w_270h.png" group-title="CANALES PREMIUM",De Película Plus
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 ***************************************************************
 ***************************************************************
 **********************CANALES DE BOLIVIA***********************
 ***************************************************************
 ***************************************************************
-#EXTINF:-1 tvg-id="Poder de Dios.bo" tvg-name="Poder de Dios" tvg-logo="https://www.boliviayp.com/img/bo/x/1649774247-58-poder-de-dios-canal-45.jpg" group-title="CANALES DE BOLIVIA",Poder de Dios
+#EXTINF:-1 tvg-id="Poder de Dios.bo" tvg-logo="https://www.boliviayp.com/img/bo/x/1649774247-58-poder-de-dios-canal-45.jpg" group-title="CANALES DE BOLIVIA",Poder de Dios
 https://s3.tvdatta.com:3846/live/poderdedioslive.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="XTOTV.bo" tvg-name="XTOTV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e9b632aabb0576ebf8f67b5af638ccba.webp" group-title="CANALES DE BOLIVIA",XTOTV
+#EXTINF:-1 tvg-id="XTOTV.bo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e9b632aabb0576ebf8f67b5af638ccba.webp" group-title="CANALES DE BOLIVIA",XTOTV
 http://www.channel.tevemi.com:1935/XtoTv/XtoTv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Solidaria TV Bolivia" tvg-name="Solidaria TV Bolivia" tvg-logo="https://i.postimg.cc/Hk1WWfKP/SOLIDARIATVBOLIVIA-HD.jpg" group-title="CANALES DE BOLIVIA",Solidaria TV Bolivia
+#EXTINF:-1 tvg-id="Solidaria TV Bolivia" tvg-logo="https://i.postimg.cc/Hk1WWfKP/SOLIDARIATVBOLIVIA-HD.jpg" group-title="CANALES DE BOLIVIA",Solidaria TV Bolivia
 https://tv.bitstreaming.net:3073/live/solidariatvlive.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="Unitel" tvg-name="Unitel" tvg-logo="https://pbs.twimg.com/media/EI-wBOZWwAEYKey.png" group-title="CANALES DE BOLIVIA",Unitel
+#EXTINF:-1 tvg-id="Unitel"  tvg-logo="https://pbs.twimg.com/media/EI-wBOZWwAEYKey.png" group-title="CANALES DE BOLIVIA",Unitel
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="Unitel 2" tvg-name="Unitel 2" tvg-logo="https://i.ibb.co/nRcbKbL/UNITEL-NACIONAL-HD.jpg" group-title="CANALES DE BOLIVIA",Unitel 2
+#EXTINF:-1 tvg-id="Unitel" tvg-logo="https://i.ibb.co/nRcbKbL/UNITEL-NACIONAL-HD.jpg" group-title="CANALES DE BOLIVIA",Unitel 2
 https://master.tucableip.com//movil/tracks-v1a1/mono.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="Red Uno" tvg-name="Red Uno" tvg-logo="https://i1.sndcdn.com/artworks-vWxTtaVisF9JACWH-fABFfA-t500x500.jpg" group-title="CANALES DE BOLIVIA",Red Uno
+#EXTINF:-1 tvg-id="Red Uno" tvg-logo="https://i1.sndcdn.com/artworks-vWxTtaVisF9JACWH-fABFfA-t500x500.jpg" group-title="CANALES DE BOLIVIA",Red Uno
 https://streamer03.digital.com.bo/session/4e839498-b325-47f7-987f-205b4831346f/2ap337/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
 ******************************************************************************************************************************
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg" group-title="CANALES DE BOLIVIA",RED UNO LPZ 
 https://live-c.cf.dmcdn.net/sec2(5QoF1wk1Mizf6C9s55nxR619nXf2p4hNTy2xPuwc8bbKsJbqSkqp8ELxh-E0MnOKGVD1nFe2MrMx96USM53yaeF_RVHjv8PBSb6r2PUlVQ8)/dm/3/x8ko1ix/d/live-3.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="BOLIVISION BOLIVIA" tvg-name="Bolivision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bolivision.png/150px-Bolivision.png" group-title="CANALES DE BOLIVIA",Bolivision
+#EXTINF:-1 tvg-id="BOLIVISION BOLIVIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bolivision.png/150px-Bolivision.png" group-title="CANALES DE BOLIVIA",Bolivision
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="CadenaA.bo" tvg-name="Cadena A" tvg-logo="https://www.cadenaa.tv/wp-content/uploads/2022/03/LogoBaseA0300-e1646889594328.png" group-title="CANALES DE BOLIVIA",Cadena A
+#EXTINF:-1 tvg-id="CadenaA.bo" tvg-logo="https://www.cadenaa.tv/wp-content/uploads/2022/03/LogoBaseA0300-e1646889594328.png" group-title="CANALES DE BOLIVIA",Cadena A
 https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/chunklist_w1555521344.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="RTP BOLIVIA" tvg-name="RTP" tvg-logo="https://pbs.twimg.com/profile_images/1611030398955298817/wa4yOQuL_400x400.jpg" group-title="CANALES DE BOLIVIA",RTP
+#EXTINF:-1 tvg-id="RTP BOLIVIA" tvg-logo="https://pbs.twimg.com/profile_images/1611030398955298817/wa4yOQuL_400x400.jpg" group-title="CANALES DE BOLIVIA",RTP
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-name="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/W3q9NKKK/atbhdbolivia.jpg" group-title="CANALES DE BOLIVIA",ATB BOLIVIA
+#EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/W3q9NKKK/atbhdbolivia.jpg" group-title="CANALES DE BOLIVIA",ATB BOLIVIA
 http://186.121.206.197/live/daniel/index.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PAT" tvg-logo="https://i.ibb.co/CW9mjpC/PAT-HD-01.jpg" group-title="CANALES DE BOLIVIA",PAT HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.ibb.co/CW9mjpC/PAT-HD-01.jpg" group-title="CANALES DE BOLIVIA",PAT HD
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/PAT/__op/hls-default/__f/index.m3u8
 ******************************************************************************************************************************
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P1ddvbd/PAT-LA-PAZ-HD.jpg" group-title="CANALES DE BOLIVIA",PAT
 https://w8.redpat.tv:7777/play/120/index.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="BOLIVIA TV" tvg-name="BOLIVIA TV 7.1" tvg-logo="https://i.ibb.co/8PNDmWQ/BOLIVIA-TV-7-1.jpg" group-title="CANALES DE BOLIVIA",BOLIVIA TV 7.1
+#EXTINF:-1 tvg-id="BOLIVIA TV" tvg-logo="https://i.ibb.co/8PNDmWQ/BOLIVIA-TV-7-1.jpg" group-title="CANALES DE BOLIVIA",BOLIVIA TV 7.1
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="BOLIVIA TV" tvg-name="BOLIVIA TV 7.2" tvg-logo="https://i.ibb.co/BNh6Y7T/BOLIVIA-TV-7-2.jpg" group-title="CANALES DE BOLIVIA",BOLIVIA TV 7.2
+#EXTINF:-1 tvg-id="BOLIVIA TV" tvg-logo="https://i.ibb.co/BNh6Y7T/BOLIVIA-TV-7-2.jpg" group-title="CANALES DE BOLIVIA",BOLIVIA TV 7.2
 https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="F10" tvg-name="F10" tvg-logo="https://i.ibb.co/ggkqLnh/F10-HD.jpg" group-title="CANALES DE BOLIVIA",F10
+#EXTINF:-1 tvg-id="F10" tvg-logo="https://i.ibb.co/ggkqLnh/F10-HD.jpg" group-title="CANALES DE BOLIVIA",F10
 https://video.live.com.bo:3253/live/f10hdlive.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="SEOTV1FHD.bo" tvg-name="SEO TV" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="CANALES DE BOLIVIA",SEO TV
+#EXTINF:-1 tvg-id="SEOTV1FHD.bo" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="CANALES DE BOLIVIA",SEO TV
 https://seo.tv.bo/tv/TV_1FHD.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="TVU BOLIVIA" tvg-name="TVU UMSA" tvg-logo="https://i.postimg.cc/1tv6QGb3/TVU-HD-NEW-2023.jpg" group-title="CANALES DE BOLIVIA",TVU UMSA
+#EXTINF:-1 tvg-id="TVU BOLIVIA" tvg-logo="https://i.postimg.cc/1tv6QGb3/TVU-HD-NEW-2023.jpg" group-title="CANALES DE BOLIVIA",TVU UMSA
 https://video.live.com.bo:3731/live/tvuumsalive.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gigavision" tvg-logo="https://www.sinmordazadigital.com/wp-content/uploads/2020/06/IMG-20200602-WA0119.jpg" group-title="CANALES DE BOLIVIA",Gigavision
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://www.sinmordazadigital.com/wp-content/uploads/2020/06/IMG-20200602-WA0119.jpg" group-title="CANALES DE BOLIVIA",Gigavision
 https://master.tucableip.com/gigavision/playlist.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="UPEA TV" tvg-name="UPEA TV" tvg-logo="https://serviciopagina.upea.bo/InstitucionUpea/LinksExternos/6b500767-6b15-4b30-a72e-b98927089cdd.jpg" group-title="CANALES DE BOLIVIA",UPEA TV
+#EXTINF:-1 tvg-id="UPEA TV" tvg-logo="https://serviciopagina.upea.bo/InstitucionUpea/LinksExternos/6b500767-6b15-4b30-a72e-b98927089cdd.jpg" group-title="CANALES DE BOLIVIA",UPEA TV
 https://tvstream.upea.bo/hls/H78svDrtRWIhJhs43909.m3u8
-
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Virgen De Copacabana" tvg-logo="https://i.ibb.co/brY56Hk/cvc-hd-virgen.jpg" group-title="CANALES DE BOLIVIA",Virgen De Copacabana
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.ibb.co/brY56Hk/cvc-hd-virgen.jpg" group-title="CANALES DE BOLIVIA",Virgen De Copacabana
 https://5d00db0e0fcd5.streamlock.net/7034/7034/chunklist_w1842351465.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="ABYA YALA" tvg-name="Abya Yala TV" tvg-logo="https://yt3.googleusercontent.com/p9oCFve1Fi8miO6Ao1JZ9YtmOdXUqFXSSp7Izt1xvYpDK9Cwm2bDTcucrJ6sh14zTpnQP2Rwfw=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE BOLIVIA",Abya Yala TV
+#EXTINF:-1 tvg-id="ABYA YALA" tvg-logo="https://yt3.googleusercontent.com/p9oCFve1Fi8miO6Ao1JZ9YtmOdXUqFXSSp7Izt1xvYpDK9Cwm2bDTcucrJ6sh14zTpnQP2Rwfw=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE BOLIVIA",Abya Yala TV
 https://master.tucableip.com/abyayalatv/tracks-v1a1/mono.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="FAPTV.bo" tvg-name="FAP TV" tvg-logo="https://i.imgur.com/jZ7g58e.png" group-title="CANALES DE BOLIVIA",FAP TV
+#EXTINF:-1 tvg-id="FAPTV.bo" tvg-logo="https://i.imgur.com/jZ7g58e.png" group-title="CANALES DE BOLIVIA",FAP TV
 https://nd106.republicaservers.com/hls/c7284/index.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="GTV.bo" tvg-name="GTV" tvg-logo="https://i.imgur.com/tUUuRZR.png" group-title="CANALES DE BOLIVIA",GTV
+#EXTINF:-1 tvg-id="GTV.bo" tvg-logo="https://i.imgur.com/tUUuRZR.png" group-title="CANALES DE BOLIVIA",GTV
 https://solo.disfrutaenlared.com:1936/guadalupetv/guadalupetv/playlist.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="INTV.bo" tvg-name="IN TV" tvg-logo="https://i.imgur.com/4eNH7JS.png" group-title="CANALES DE BOLIVIA",IN TV
+#EXTINF:-1 tvg-id="INTV.bo" tvg-logo="https://i.imgur.com/4eNH7JS.png" group-title="CANALES DE BOLIVIA",IN TV
 https://solo.disfrutaenlared.com:1936/intv/intv/playlist.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="SigloXXITV.bo" tvg-name="Siglo XXI TV" tvg-logo="https://i.imgur.com/d1N2WzD.png" group-title="CANALES DE BOLIVIA",Siglo XXI TV
+#EXTINF:-1 tvg-id="SigloXXITV.bo" tvg-logo="https://i.imgur.com/d1N2WzD.png" group-title="CANALES DE BOLIVIA",Siglo XXI TV
 https://solo.disfrutaenlared.com:1936/sigloxxi/sigloxxi/playlist.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="TVShowOruro.bo" tvg-name="TV Show Oruro" tvg-logo="https://i.ibb.co/nnsYJCq/IMG-20210731-094609.png" group-title="CANALES DE BOLIVIA",TV Show Oruro
+#EXTINF:-1 tvg-id="TVShowOruro.bo" tvg-logo="https://i.ibb.co/nnsYJCq/IMG-20210731-094609.png" group-title="CANALES DE BOLIVIA",TV Show Oruro
 http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RQP Plus" tvg-logo="https://www.rqp.com.bo/wp-content/uploads/2023/11/20240102_114900_0000.png" group-title="CANALES DE BOLIVIA",RQP Plus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://www.rqp.com.bo/wp-content/uploads/2023/11/20240102_114900_0000.png" group-title="CANALES DE BOLIVIA",RQP Plus
 https://d2pctfu2mpc31v.cloudfront.net/RQP/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Univalle TV" tvg-logo="https://i.ibb.co/djxLpSq/univalle-tv-hd.jpg" group-title="CANALES DE BOLIVIA",Univalle TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.ibb.co/djxLpSq/univalle-tv-hd.jpg" group-title="CANALES DE BOLIVIA",Univalle TV
 https://master.tucableip.com/univalletv/tracks-v1a1/mono.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Palenque TV" tvg-logo="https://i.ibb.co/DMMpzcd/palenque-tv-hd.jpg" group-title="CANALES DE BOLIVIA",Palenque TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.ibb.co/DMMpzcd/palenque-tv-hd.jpg" group-title="CANALES DE BOLIVIA",Palenque TV
 https://tv.bitstreaming.net:3234/multi_live/play_720.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Delta TV" tvg-logo="https://i.ibb.co/xCJhqyJ/DELTA-TV-HD-02.jpg" group-title="CANALES DE BOLIVIA",Delta TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.ibb.co/xCJhqyJ/DELTA-TV-HD-02.jpg" group-title="CANALES DE BOLIVIA",Delta TV
 https://vsrv1.az-streamingserver.com:3068/live/vdsocmnulive.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTVE Punata" tvg-logo="https://i.ibb.co/444NgrX/RTVE-PUNATA-HD.jpg" group-title="CANALES DE BOLIVIA",RTVE Punata
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.ibb.co/444NgrX/RTVE-PUNATA-HD.jpg" group-title="CANALES DE BOLIVIA",RTVE Punata
 https://vdo.grupolimalive.com:3241/live/encuentrotvlive.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="Atesur.bo" tvg-name="Atesur" tvg-logo="https://i.imgur.com/PWKjVkb.png" group-title="CANALES DE BOLIVIA",Atesur
+#EXTINF:-1 tvg-id="Atesur.bo" tvg-logo="https://i.imgur.com/PWKjVkb.png" group-title="CANALES DE BOLIVIA",Atesur
 https://video2.getstreamhosting.com:19360/8032/8032.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="CoralTV.bo" tvg-name="Coral TV" tvg-logo="https://i.ibb.co/xDrc5MD/CORALTv.png" group-title="CANALES DE BOLIVIA",Coral TV
+#EXTINF:-1 tvg-id="CoralTV.bo" tvg-logo="https://i.ibb.co/xDrc5MD/CORALTv.png" group-title="CANALES DE BOLIVIA",Coral TV
 https://tv.mediacp.eu:8081/coraltv/index.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="AYNITV.bo" tvg-name="Ayni TV" tvg-logo="https://i.ibb.co/SPCkBR8/ayni-tv-bo.png" group-title="CANALES DE BOLIVIA",Ayni TV
+#EXTINF:-1 tvg-id="AYNITV.bo" tvg-logo="https://i.ibb.co/SPCkBR8/ayni-tv-bo.png" group-title="CANALES DE BOLIVIA",Ayni TV
 http://hd.istbolivia.com:1935/aynitv/aynitv/playlist.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="AgendaMineraTV.bo" tvg-name="Agenda Minera TV" tvg-logo="https://i.ytimg.com/vi/42Wip8bACb8/maxresdefault.jpg" group-title="CANALES DE BOLIVIA",Agenda Minera TV
+#EXTINF:-1 tvg-id="AgendaMineraTV.bo" tvg-logo="https://i.ytimg.com/vi/42Wip8bACb8/maxresdefault.jpg" group-title="CANALES DE BOLIVIA",Agenda Minera TV
 https://srv.panelcast.net/amitel/amitel/playlist.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TL Estrella TV" tvg-logo="https://i.ibb.co/h24smyF/TELE-ESTRELLA-HD.jpg" group-title="CANALES DE BOLIVIA",TL Estrella TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.ibb.co/h24smyF/TELE-ESTRELLA-HD.jpg" group-title="CANALES DE BOLIVIA",TL Estrella TV
 https://stmvideo3.livecastv.com/teleestrellahd/teleestrellahd/chunklist_w590782325.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="MegaTV.bo" tvg-name="Mega TV" tvg-logo="https://i.imgur.com/3d4uiZF.png" group-title="CANALES DE BOLIVIA",Mega TV
+#EXTINF:-1 tvg-id="MegaTV.bo" tvg-logo="https://i.imgur.com/3d4uiZF.png" group-title="CANALES DE BOLIVIA",Mega TV
 https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ceacom" tvg-logo="https://i.ibb.co/z4pbkj7/CEACOM-HD.jpg" group-title="CANALES DE BOLIVIA",Ceacom
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.ibb.co/z4pbkj7/CEACOM-HD.jpg" group-title="CANALES DE BOLIVIA",Ceacom
 https://eu1.servers10.com:8081/ceacom/tracks-v1a1/mono.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cristal" tvg-logo="https://i.ibb.co/Q9nfjpX/CRISTAL-HD-BOLIVIA.jpg" group-title="CANALES DE BOLIVIA",Cristal
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.ibb.co/Q9nfjpX/CRISTAL-HD-BOLIVIA.jpg" group-title="CANALES DE BOLIVIA",Cristal
 https://master.tucableip.com/cristaltv/tracks-v1a1/mono.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="RedDTV.bo" tvg-name="Red DTV" tvg-logo="https://i.imgur.com/fK0g2CK.png" group-title="CANALES DE BOLIVIA",Red DTV
+#EXTINF:-1 tvg-id="RedDTV.bo" tvg-logo="https://i.imgur.com/fK0g2CK.png" group-title="CANALES DE BOLIVIA",Red DTV
 https://master.tucableip.com/dtvsc/playlist.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="TuTv.bo" tvg-name="Tu Tv" tvg-logo="https://i.imgur.com/WFycUP7.png" group-title="CANALES DE BOLIVIA",Tu Tv
+#EXTINF:-1 tvg-id="TuTv.bo" tvg-logo="https://i.imgur.com/WFycUP7.png" group-title="CANALES DE BOLIVIA",Tu Tv
 https://solo.disfrutaenlared.com:1936/tutv/tutv/playlist.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="ImperialTV.bo" tvg-name="Imperial TV" tvg-logo="https://i.ibb.co/8XHSVWY/IMG-20210613-153444.png" group-title="CANALES DE BOLIVIA",Imperial TV
+#EXTINF:-1 tvg-id="ImperialTV.bo" tvg-logo="https://i.ibb.co/8XHSVWY/IMG-20210613-153444.png" group-title="CANALES DE BOLIVIA",Imperial TV
 https://vdo.grupolimalive.com:3162/live/imperialtvlive.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="RedCCTV.bo" tvg-name="Red CCTV" tvg-logo="https://i.imgur.com/YC5FRmq.png" group-title="CANALES DE BOLIVIA",Red CCTV
+#EXTINF:-1 tvg-id="RedCCTV.bo" tvg-logo="https://i.imgur.com/YC5FRmq.png" group-title="CANALES DE BOLIVIA",Red CCTV
 https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="TVLatina.bo" tvg-name="TV Latina" tvg-logo="https://i.imgur.com/V6wxEdh.png" group-title="CANALES DE BOLIVIA",TV Latina
+#EXTINF:-1 tvg-id="TVLatina.bo" tvg-logo="https://i.imgur.com/V6wxEdh.png" group-title="CANALES DE BOLIVIA",TV Latina
 https://master.tucableip.com/live/tvlatinamontero/tracks-v1a1/mono.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Contacto Bolivia" tvg-logo="https://i.ibb.co/2jry2yg/CONTACTO-BOLIVIA-HD.jpg" group-title="CANALES DE BOLIVIA",Contacto Bolivia
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.ibb.co/2jry2yg/CONTACTO-BOLIVIA-HD.jpg" group-title="CANALES DE BOLIVIA",Contacto Bolivia
 https://streannlivecontactobolivia.cachefly.net/Protected/sp=1;dirmatch=true;ip=131.0.196.97/1c1a81b78b3a70ed593d95eea6d18374f6138c7f15f0b4d8dd920c741dd11756/contactobolivia1/contactobolivia1/chunks.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Neo TV" tvg-logo="https://i.ibb.co/bgdhVKY/NEO-TV-BOLIVIA.jpg" group-title="CANALES DE BOLIVIA",Neo TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.ibb.co/bgdhVKY/NEO-TV-BOLIVIA.jpg" group-title="CANALES DE BOLIVIA",Neo TV
 https://tv1.mediacp.eu:3661/live/rlbpwxvhlive.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="Canal29TVA.bo" tvg-name="Canal 29 TVA" tvg-logo="https://i.imgur.com/y3bymuv.jpg" group-title="CANALES DE BOLIVIA",Canal 29 TVA
+#EXTINF:-1 tvg-id="Canal29TVA.bo" tvg-logo="https://i.imgur.com/y3bymuv.jpg" group-title="CANALES DE BOLIVIA",Canal 29 TVA
 https://vdo.grupolimalive.com:3089/live/tvelive.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="CineramaTelevision.bo" tvg-name="Cinerama Television" tvg-logo="https://i.ibb.co/mqT0HCX/CINERAMA-HD.jpg" group-title="CANALES DE BOLIVIA",Cinerama Television
+#EXTINF:-1 tvg-id="CineramaTelevision.bo" tvg-logo="https://i.ibb.co/mqT0HCX/CINERAMA-HD.jpg" group-title="CANALES DE BOLIVIA",Cinerama Television
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="Megavision.bo" tvg-name="Megavision" tvg-logo="https://i.imgur.com/IAQXCak.png" group-title="CANALES DE BOLIVIA",Megavision
+#EXTINF:-1 tvg-id="Megavision.bo" tvg-logo="https://i.imgur.com/IAQXCak.png" group-title="CANALES DE BOLIVIA",Megavision
 https://video.live.com.bo:3699/live/megavisionlive.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="FTV.bo" tvg-name="FTV" tvg-logo="https://i.imgur.com/YOr1Oac.png" group-title="CANALES DE BOLIVIA",FTV
+#EXTINF:-1 tvg-id="FTV.bo" tvg-logo="https://i.imgur.com/YOr1Oac.png" group-title="CANALES DE BOLIVIA",FTV
 https://master.tucableip.com/ftv/index.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="TDTMultimedia.bo" tvg-name="TDT Multimedia" tvg-logo="https://i.imgur.com/JkCywl5.png" group-title="CANALES DE BOLIVIA",TDT Multimedia
+#EXTINF:-1 tvg-id="TDTMultimedia.bo" tvg-logo="https://i.imgur.com/JkCywl5.png" group-title="CANALES DE BOLIVIA",TDT Multimedia
 https://video01.kshost.com.br/juan6318/juan6318/playlist.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="VTVCanal17.bo" tvg-name="VTV Canal 17" tvg-logo="https://i.imgur.com/TUhFzql.png" group-title="CANALES DE BOLIVIA",VTV Canal 17
+#EXTINF:-1 tvg-id="VTVCanal17.bo" tvg-logo="https://i.imgur.com/TUhFzql.png" group-title="CANALES DE BOLIVIA",VTV Canal 17
 https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="FortalezaTVCueto.bo" tvg-name="Fortaleza TV Cueto" tvg-logo="https://i.imgur.com/z4TfuxB.jpg" group-title="CANALES DE BOLIVIA",Fortaleza TV Cueto
+#EXTINF:-1 tvg-id="FortalezaTVCueto.bo" tvg-logo="https://i.imgur.com/z4TfuxB.jpg" group-title="CANALES DE BOLIVIA",Fortaleza TV Cueto
 https://rpn3.bozztv.com/ssh101/ssh101/fortalezacueto/playlist.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="BoliviaRadioTV.bo" tvg-name="Bolivia Radio TV" tvg-logo="https://i.imgur.com/rW8xssX.png" group-title="CANALES DE BOLIVIA",Bolivia Radio TV
+#EXTINF:-1 tvg-id="BoliviaRadioTV.bo" tvg-logo="https://i.imgur.com/rW8xssX.png" group-title="CANALES DE BOLIVIA",Bolivia Radio TV
 https://rpn3.bozztv.com/ssh101/ssh101/boliviaradiotv/playlist.m3u8
 ***************************************************************
 ***************************************************************
 *************************CANALES 24/7**************************
 ***************************************************************
 ***************************************************************
-#EXTINF:-1 channel-id="samsung-ESBC1700004PX" tvg-id="ESBC1700004PX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700004PX_20240117T032710SQUARE.png_20240117032711.png" tvg-chno="4131" group-title="24/7" , Trailers
-https://i.mjh.nz/SamsungTVPlus/ESBC1700004PX.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 channel-id="samsung-ESBD1500001SD" tvg-id="ESBD1500001SD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1500001SD_20240214T035656SQUARE.png_20240214035657.png" tvg-chno="4403" group-title="24/7" , Mi chimenea
-https://i.mjh.nz/SamsungTVPlus/ESBD1500001SD.m3u8
-******************************************************************************************************************************
 #EXTINF:-1 channel-id="pluto-609ae5cd48d3200007b0a98e" tvg-id="609ae5cd48d3200007b0a98e" tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG.png" tvg-chno="929" group-title="24/7" , Comedy Central South Park
 https://r.mjh.nz/PlutoTV/609ae5cd48d3200007b0a98e-alt.m3u8
 ******************************************************************************************************************************
@@ -415,13 +417,13 @@ https://r.mjh.nz/PlutoTV/6322099c822bbc00074857db-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5e82bb378601b80007b4bd78" tvg-id="5e82bb378601b80007b4bd78" tvg-logo="https://images.pluto.tv/channels/5e82bb378601b80007b4bd78/colorLogoPNG.png" tvg-chno="4280" group-title="24/7" , The Walking Dead en español
 https://r.mjh.nz/PlutoTV/5e82bb378601b80007b4bd78-alt.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Rosa de Guadalupe" tvg-logo="https://i.imgur.com/tK9zOgo.png" group-title="24/7",La Rosa de Guadalupe
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/tK9zOgo.png" group-title="24/7",La Rosa de Guadalupe
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 ******************************************************************************************************************************
 #EXTINF:-1 channel-id="samsung-USBD2700004ME" tvg-id="USBD2700004ME" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700004ME_20230912T232557SQUARE.png_20230912232558.png" tvg-chno="1274" group-title="24/7" , Como Dice el Dicho
 https://i.mjh.nz/SamsungTVPlus/USBD2700004ME.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Anger Management" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/b355242d6e0b04a86981e66814f7f43a43c2e7061fb5972715ea6572b0c39ba6._UY500_UX667_RI_TTW_.jpg" group-title="24/7",Anger Management
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/b355242d6e0b04a86981e66814f7f43a43c2e7061fb5972715ea6572b0c39ba6._UY500_UX667_RI_TTW_.jpg" group-title="24/7",Anger Management
 https://lnc-anger-management-espanol.tubi.video/playlist.m3u8
 ******************************************************************************************************************************
 #EXTINF:-1 channel-id="pluto-604928d54a4f730007ff76bc" tvg-id="604928d54a4f730007ff76bc" tvg-logo="https://images.pluto.tv/channels/604928d54a4f730007ff76bc/colorLogoPNG.png" tvg-chno="4250" group-title="24/7" , CSI
@@ -469,7 +471,7 @@ https://i.mjh.nz/SamsungTVPlus/ESBD1300001EP.m3u8
 #EXTINF:-1 channel-id="samsung-ESBD2300003S5" tvg-id="ESBD2300003S5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300003S5_20230712T021346SQUARE.png_20230712021346.png" tvg-chno="4623" group-title="24/7" , Rabbids : La invasion
 https://i.mjh.nz/SamsungTVPlus/ESBD2300003S5.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-5eea605474085f0040ddc770" tvg-name="Wu Tang Collection TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/wu-tang-collection.png" group-title="24/7",Wu Tang Collection TV
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-5eea605474085f0040ddc770" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/wu-tang-collection.png" group-title="24/7",Wu Tang Collection TV
 https://aef5dc1975f84cf7af47123a116dd433.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_WuTangCollectionSpanish/3f545cdb-42d3-4534-8fe4-67271a99abaf/0.m3u8
 ***************************************************************
 ***************************************************************
@@ -545,7 +547,7 @@ https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="samsung-ESAJ4500020V7" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/019fef30-0d93-4f94-b056-d6f4e8a358bf-drama-movies-rakuten-tv-1621612518.jpeg" group-title="PELICULAS",Rakuten Drama
 https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="samsung-ESBA3300017FA" tvg-name="Rakuten Familia" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300017FA_20240117T032708SQUARE.png_20240117032709.png" group-title="PELICULAS",Rakuten Familia
+#EXTINF:-1 tvg-id="samsung-ESBA3300017FA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300017FA_20240117T032708SQUARE.png_20240117032709.png" group-title="PELICULAS",Rakuten Familia
 https://i.mjh.nz/SamsungTVPlus/ESBA3300017FA.m3u8
 ******************************************************************************************************************************
 #EXTINF:-1 tvg-id="samsung-ESAJ4500019AM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500019AM_20240117T032650SQUARE.png_20240117032651.png" group-title="PELICULAS",Rakuten Comedia
@@ -702,14 +704,44 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6018913ea15130002b28418f.m3u8
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6018913ea15130002b284195" tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b284195" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6576aebe-a538-473a-9f40-c8cea9fbeda8/FreeTVSaberM_s_Circle_1500x1000_-_Ralph_Campillo.png" group-title="SERIES Y PELICULAS" , FreeTV Saber Más
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6018913ea15130002b284195.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="(no tvg-id)"  tvg-logo="https://neotvdigital.com.ar/imagenes/fb.png" group-title="SERIES Y PELICULAS",Neo TV 16.1
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-******************************************************************************************************************************
 #EXTINF:-1 tvg-id="(no tvg-id)"  tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/weVy6A9B_400x400%20%281%29_0.jpg?itok=uvuVKz1S" group-title="SERIES Y PELICULAS",San Pedro TV
 https://srv2.zcast.com.br/sptv32/sptv32/chunklist_w1630201617.m3u8
 ******************************************************************************************************************************
+#EXTINF:-1 tvg-id="(no tvg-id)"  tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Metro-TV-Canal-12-Tucuman-en-vivo-Online.png" group-title="SERIES Y PELICULAS",Metro TV Canal 12 Tucuman
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="(no tvg-id)"  tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Canal-13-Jujuy-en-vivo-Online.png" group-title="SERIES Y PELICULAS",Canal 13 Jujuy
+https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="(no tvg-id)"  tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/Canal-13-Mexico-en-vivo-Online.png" group-title="SERIES Y PELICULAS",Canal 13 Tabasco
+https://alba-mx-c13mexico-c13tabasco.stream.mediatiquestream.com/tracks-v1a1/mono.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="(no tvg-id)"  tvg-logo="https://play-lh.googleusercontent.com/5BYr8FaRq_hb6-0CkYnFmyLIn7b223Zgpizoq99BK-10e7XVjAyF9dvVflzFZmRdBrs" group-title="SERIES Y PELICULAS",Canal 17 TV Nosara
+https://stmv.streamingvip.click/tvnosara2/tvnosara2/chunklist_w548087173.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="(no tvg-id)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/TCS_2_2016.png/640px-TCS_2_2016.png" group-title="SERIES Y PELICULAS",Canal 2 TCS
+https://secure-video.tcsgo.com/tcshd/index720p30360p30_20200822T210827.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="(no tvg-id)"  tvg-logo="https://3.bp.blogspot.com/-cuvJ6h2dymI/WJfGFb2BsuI/AAAAAAAADOg/BW0GFVcT3v0z9HOWABZJUNzguMRP-bngQCLcB/s1600/Cotubanama%2BTV%2Ben%2Bvivo.png" group-title="SERIES Y PELICULAS",Canal 36 Cotubanama TV
+https://streamingnation.live:3932/live/cotubanamatelevisionlive.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="(no tvg-id)"  tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/02/Canal-45-Jaen-en-directo-Online-EN-VIVO.png?resize=696%2C392&ssl=1" group-title="SERIES Y PELICULAS",Canal 45 TV
+https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/fragments/live-600/index.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="(no tvg-id)"  tvg-logo="https://play-lh.googleusercontent.com/4fgp_qrpmJ3XL59ddvZNRui_EpPCXoh-6Gt6fgdYAk9HdcVzNN1i3BFZiGD4il1EVF0=w240-h480-rw" group-title="SERIES Y PELICULAS",Canal 7 Salta
+https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
+******************************************************************************************************************************
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZQFOa3X5DwQKmTOfztQ3b-Bbk67VXlXacJYc7JqQg=s900-c-k-c0x00ffffff-no-rj" group-title="SERIES Y PELICULAS",Cinco TV
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://serenotv.com/cargas/2022/01/Canal-74-Valparaiso-en-vivo.jpg" group-title="SERIES Y PELICULAS",Canal 74 Valparaiso
+https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/chunklist_w1969743155.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS7xXBJ3OTr6qcL5n019UdQsEOphwL3L45U5dIA5UHyBqRSGLVPG857xGglsDFF6dLQwtqtUZkK-DgUzyyuj-qAgOeMR6B7bjUr36Ea1LIcy8gZvR-W_C192HEqgF2xFwbRx0Ra2Aamr2T5Lte1aTdGUwtyQUPPmA-OXZaXBTpdbNxLfJIebbyJjs1/s446/multivision-hd.png" group-title="SERIES Y PELICULAS",Canal 9 Multivision
+https://panel.dattalive.com/8250/8250/chunklist_w2008819566.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i0.wp.com/www.acsnetwork.tv/wp-content/uploads/2023/05/acs-network-tv-icon-new.png?fit=1024%2C768&ssl=1" group-title="SERIES Y PELICULAS",Canal ACS Network
+https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w81738509.m3u8
 ******************************************************************************************************************************
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://latinartv.com/sites/default/files/logos/nexthd.jpg" group-title="SERIES Y PELICULAS",Next HD
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
@@ -717,20 +749,17 @@ https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/GJthQOa.png" group-title="SERIES Y PELICULAS",Tu Kanal
 http://45.33.63.98/hls/abdi.m3u8
 ******************************************************************************************************************************
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/EW2bfix.png" group-title="SERIES Y PELICULAS",Univers TV
+https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
+******************************************************************************************************************************
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/UCV-TV-en-vivo-Online.png?fit=1920%2C1080&ssl=1" group-title="SERIES Y PELICULAS",UCV Television
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream1/chunks.m3u8?nimblesessionid=587051430
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Contivision" tvg-logo="https://photos.live-tv-channels.org/tv-logo/contivision-tv-7001.webp" group-title="SERIES Y PELICULAS",Contivision
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://photos.live-tv-channels.org/tv-logo/contivision-tv-7001.webp" group-title="SERIES Y PELICULAS",Contivision
 https://unlimited1-cl-isp.dps.live/cm/cm.smil/cm/livestream1/chunks.m3u8?nimblesessionid=951812061
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://image.roku.com/developer_channels/prod/cff251a5a41e79a2fbe6677694a1c4671529324b0c2fc0259f18d88e729b3928.png" group-title="SERIES Y PELICULAS",TVS Retro
-https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 ******************************************************************************************************************************
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/viJBL6f.png" group-title="SERIES Y PELICULAS",Retrox TV
 https://rpn3.bozztv.com/ssh101/ssh101/retroxtvhd/playlist.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://wiseplaylistasiptv.com/wp-content/uploads/2021/09/Captura-de-Pantalla-2021-09-08-a-las-13.04.46.png" group-title="SERIES Y PELICULAS",Retro Play TV
-https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
 ******************************************************************************************************************************
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://cdn.m3u.cl/logo/1466_Pandamax_TV.png" group-title="SERIES Y PELICULAS",Pandamax
 https://stream.wifiexpert.cl/telenorte/pandamaxch/chunks.m3u8
@@ -758,103 +787,106 @@ https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 ******************************************************************************************************************************
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.ibb.co/vBj4w62/varied-tv-hd.jpg" group-title="SERIES Y PELICULAS",Varied TV
 https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/EW2bfix.png" group-title="SERIES Y PELICULAS",Univers TV
-https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
 ***************************************************************
 ***************************************************************
 ***************CANALES DE PROGRAMAS ESPECIALES*****************
 ***************************************************************
 ***************************************************************
-#EXTINF:-1 tvg-id="ESports Max.ve" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="ESPECIALES",ESports Max
+#EXTINF:-1 channel-id="samsung-ESBC1700004PX" tvg-id="ESBC1700004PX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700004PX_20240117T032710SQUARE.png_20240117032711.png" tvg-chno="4131" group-title="PROGRAMAS ESPECIALES" , Trailers
+https://i.mjh.nz/SamsungTVPlus/ESBC1700004PX.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 channel-id="samsung-ESBD1500001SD" tvg-id="ESBD1500001SD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1500001SD_20240214T035656SQUARE.png_20240214035657.png" tvg-chno="4403" group-title="PROGRAMAS ESPECIALES" , Paisajes
+https://i.mjh.nz/SamsungTVPlus/ESBD1500001SD.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="ESports Max.ve" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="PROGRAMAS ESPECIALES",ESports Max
 http://vcpar.myplaytv.com/esportsmax/live/playlist_4.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="Meta Versus.cr" tvg-logo="https://metaversuscr.com/wp-content/uploads/2023/08/cropped-MET.png" group-title="ESPECIALES",Meta Versus
+#EXTINF:-1 tvg-id="Meta Versus.cr" tvg-logo="https://metaversuscr.com/wp-content/uploads/2023/08/cropped-MET.png" group-title="PROGRAMAS ESPECIALES",Meta Versus
 https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="5ff3934600d4c7000733ff49" tvg-logo="https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png" group-title="ESPECIALES",Pluto TV E-Sports
+#EXTINF:-1 tvg-id="5ff3934600d4c7000733ff49" tvg-logo="https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png" group-title="PROGRAMAS ESPECIALES",Pluto TV E-Sports
 https://r.mjh.nz/PlutoTV/5ff3934600d4c7000733ff49-alt.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/BitMe.svg/1629px-BitMe.svg.png" group-title="ESPECIALES",BitMe
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/BitMe.svg/1629px-BitMe.svg.png" group-title="PROGRAMAS ESPECIALES",BitMe
 https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="GOGOPLAY TV HD" tvg-logo="https://i.postimg.cc/dVfPMD5s/gogoplay-Bol-Fhd12.jpg" group-title="ESPECIALES",Gogoplay TV
+#EXTINF:-1 tvg-id="GOGOPLAY TV HD" tvg-logo="https://i.postimg.cc/dVfPMD5s/gogoplay-Bol-Fhd12.jpg" group-title="PROGRAMAS ESPECIALES",Gogoplay TV
 https://rpn3.bozztv.com/ssh101/ssh101/gogoplay/chunks.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="VCOnline.cl" tvg-logo="https://i.ibb.co/5MtX4sV/VC-MUSIC-CRISTIANA.jpg" group-title="ESPECIALES",VC Musica Cristiana
+#EXTINF:-1 tvg-id="VCOnline.cl" tvg-logo="https://i.ibb.co/5MtX4sV/VC-MUSIC-CRISTIANA.jpg" group-title="PROGRAMAS ESPECIALES",VC Musica Cristiana
 https://panel.tvstream.cl:1936/8024/8024/chunklist_w840122950.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 channel-id="samsung-ESBC2700008SK" tvg-id="ESBC2700008SK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700008SK_20230426T015711SQUARE.png_20230426015712.png" tvg-chno="4136" group-title="ESPECIALES" , Just For Laughs
+#EXTINF:-1 channel-id="samsung-ESBC2700008SK" tvg-id="ESBC2700008SK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700008SK_20230426T015711SQUARE.png_20230426015712.png" tvg-chno="4136" group-title="PROGRAMAS ESPECIALES" , Just For Laughs
 https://i.mjh.nz/SamsungTVPlus/ESBC2700008SK.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5ef4e1b10d9ad000423c4421" tvg-id="5e20b730f2f8d5003d739db7-5ef4e1b10d9ad000423c4421" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0b33e22c-5662-40a8-98e1-6678cc13d7fc/AFE_Logo_for_Light_BG__transparent__-_Sara_Levine.png" group-title="ESPECIALES" , Always Funny en Español
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5ef4e1b10d9ad000423c4421" tvg-id="5e20b730f2f8d5003d739db7-5ef4e1b10d9ad000423c4421" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0b33e22c-5662-40a8-98e1-6678cc13d7fc/AFE_Logo_for_Light_BG__transparent__-_Sara_Levine.png" group-title="PROGRAMAS ESPECIALES" , Always Funny en Español
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5ef4e1b10d9ad000423c4421.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64a355697d24564fba37bab8" tvg-id="5e20b730f2f8d5003d739db7-64a355697d24564fba37bab8" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dfe80db0-76d2-4437-bae4-470236b57cfb/1500x1000_dark_-_Irina_Larionova.png" group-title="ESPECIALES", Ideas En 5 Minutos
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64a355697d24564fba37bab8" tvg-id="5e20b730f2f8d5003d739db7-64a355697d24564fba37bab8" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dfe80db0-76d2-4437-bae4-470236b57cfb/1500x1000_dark_-_Irina_Larionova.png" group-title="PROGRAMAS ESPECIALES", Ideas En 5 Minutos
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64a355697d24564fba37bab8.m3u8
 ***************************************************************
 ***************************************************************
 ***************CANALES DE CIENCIA Y CONOCIMIENTOS**************
 ***************************************************************
 ***************************************************************
-#EXTINF:-1 channel-id="pluto-5dd8364ea1d6780009929902" tvg-id="5dd8364ea1d6780009929902" tvg-logo="https://images.pluto.tv/channels/5dd8364ea1d6780009929902/colorLogoPNG.png" tvg-chno="572" group-title="CIENCIA HISTORIA Y TECNOLOGIA", Pluto TV Ciencia
+#EXTINF:-1 channel-id="pluto-5dd8364ea1d6780009929902" tvg-id="5dd8364ea1d6780009929902" tvg-logo="https://images.pluto.tv/channels/5dd8364ea1d6780009929902/colorLogoPNG.png" tvg-chno="572" group-title="CIENCIA Y CONOCIMIENTOS", Pluto TV Ciencia
 https://r.mjh.nz/PlutoTV/5dd8364ea1d6780009929902-alt.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 channel-id="pluto-64db2e0835425100080f2f5a" tvg-id="64db2e0835425100080f2f5a" tvg-logo="https://images.pluto.tv/channels/64db2e0835425100080f2f5a/colorLogoPNG.png" tvg-chno="452" group-title="CIENCIA HISTORIA Y TECNOLOGIA" , Pluto TV Diseño ES
+#EXTINF:-1 channel-id="pluto-64db2e0835425100080f2f5a" tvg-id="64db2e0835425100080f2f5a" tvg-logo="https://images.pluto.tv/channels/64db2e0835425100080f2f5a/colorLogoPNG.png" tvg-chno="452" group-title="CIENCIA Y CONOCIMIENTOS" , Pluto TV Diseño ES
 https://r.mjh.nz/PlutoTV/64db2e0835425100080f2f5a-alt.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 channel-id="pluto-61cd78920b90cb0007e28231" tvg-id="61cd78920b90cb0007e28231" tvg-logo="https://images.pluto.tv/channels/61cd78920b90cb0007e28231/colorLogoPNG.png" tvg-chno="455" group-title="CIENCIA HISTORIA Y TECNOLOGIA" , Pluto TV Documentales ES
+#EXTINF:-1 channel-id="pluto-61cd78920b90cb0007e28231" tvg-id="61cd78920b90cb0007e28231" tvg-logo="https://images.pluto.tv/channels/61cd78920b90cb0007e28231/colorLogoPNG.png" tvg-chno="455" group-title="CIENCIA Y CONOCIMIENTOS" , Pluto TV Documentales ES
 https://r.mjh.nz/PlutoTV/61cd78920b90cb0007e28231-alt.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 channel-id="pluto-5dd834c66fe2ca0009303b8d" tvg-id="5dd834c66fe2ca0009303b8d" tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png" tvg-chno="483" group-title="CIENCIA HISTORIA Y TECNOLOGIA" , Pluto TV Animales
+#EXTINF:-1 channel-id="pluto-5dd834c66fe2ca0009303b8d" tvg-id="5dd834c66fe2ca0009303b8d" tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png" tvg-chno="483" group-title="CIENCIA Y CONOCIMIENTOS" , Pluto TV Animales
 https://r.mjh.nz/PlutoTV/5dd834c66fe2ca0009303b8d-alt.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 channel-id="pluto-612ce5214bb5790007ad3016" tvg-id="612ce5214bb5790007ad3016" tvg-logo="https://images.pluto.tv/channels/612ce5214bb5790007ad3016/colorLogoPNG.png" tvg-chno="304" group-title="CIENCIA HISTORIA Y TECNOLOGIA" , Pluto TV Paranormal ES
+#EXTINF:-1 channel-id="pluto-612ce5214bb5790007ad3016" tvg-id="612ce5214bb5790007ad3016" tvg-logo="https://images.pluto.tv/channels/612ce5214bb5790007ad3016/colorLogoPNG.png" tvg-chno="304" group-title="CIENCIA Y CONOCIMIENTOS" , Pluto TV Paranormal ES
 https://r.mjh.nz/PlutoTV/612ce5214bb5790007ad3016-alt.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 channel-id="pluto-5de5758e1a30dc00094fcd6c" tvg-id="5de5758e1a30dc00094fcd6c" tvg-logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png" tvg-chno="563" group-title="CIENCIA HISTORIA Y TECNOLOGIA" , Pluto TV Historia
+#EXTINF:-1 channel-id="pluto-5de5758e1a30dc00094fcd6c" tvg-id="5de5758e1a30dc00094fcd6c" tvg-logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png" tvg-chno="563" group-title="CIENCIA Y CONOCIMIENTOS" , Pluto TV Historia
 https://r.mjh.nz/PlutoTV/5de5758e1a30dc00094fcd6c-alt.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 channel-id="pluto-5dcde2f53449c50009b2b4dc" tvg-id="5dcde2f53449c50009b2b4dc" tvg-logo="https://images.pluto.tv/channels/5dcde2f53449c50009b2b4dc/colorLogoPNG.png" tvg-chno="545" group-title="CIENCIA HISTORIA Y TECNOLOGIA" , Pluto TV Misterios
+#EXTINF:-1 channel-id="pluto-5dcde2f53449c50009b2b4dc" tvg-id="5dcde2f53449c50009b2b4dc" tvg-logo="https://images.pluto.tv/channels/5dcde2f53449c50009b2b4dc/colorLogoPNG.png" tvg-chno="545" group-title="CIENCIA Y CONOCIMIENTOS" , Pluto TV Misterios
 https://r.mjh.nz/PlutoTV/5dcde2f53449c50009b2b4dc-alt.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 channel-id="pluto-645d1abbe1979c0008779d5a" tvg-id="645d1abbe1979c0008779d5a" tvg-logo="https://images.pluto.tv/channels/645d1abbe1979c0008779d5a/colorLogoPNG.png" tvg-chno="552" group-title="CIENCIA HISTORIA Y TECNOLOGIA" , Archivos Extraterrestres
+#EXTINF:-1 channel-id="pluto-645d1abbe1979c0008779d5a" tvg-id="645d1abbe1979c0008779d5a" tvg-logo="https://images.pluto.tv/channels/645d1abbe1979c0008779d5a/colorLogoPNG.png" tvg-chno="552" group-title="CIENCIA Y CONOCIMIENTOS" , Archivos Extraterrestres
 https://r.mjh.nz/PlutoTV/645d1abbe1979c0008779d5a-alt.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 channel-id="pluto-60492a9bbca75b0007b1bfd5" tvg-id="60492a9bbca75b0007b1bfd5" tvg-logo="https://images.pluto.tv/channels/60492a9bbca75b0007b1bfd5/colorLogoPNG.png" tvg-chno="4310" group-title="CIENCIA HISTORIA Y TECNOLOGIA" , Mundo paranormal
+#EXTINF:-1 channel-id="pluto-60492a9bbca75b0007b1bfd5" tvg-id="60492a9bbca75b0007b1bfd5" tvg-logo="https://images.pluto.tv/channels/60492a9bbca75b0007b1bfd5/colorLogoPNG.png" tvg-chno="4310" group-title="CIENCIA Y CONOCIMIENTOS" , Mundo paranormal
 https://r.mjh.nz/PlutoTV/60492a9bbca75b0007b1bfd5-alt.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 channel-id="pluto-5f230e416b68ff00075b0139" tvg-id="5f230e416b68ff00075b0139" tvg-logo="https://images.pluto.tv/channels/5f230e416b68ff00075b0139/colorLogoPNG.png" tvg-chno="542" group-title="CIENCIA HISTORIA Y TECNOLOGIA" , Misterios Medicos
+#EXTINF:-1 channel-id="pluto-5f230e416b68ff00075b0139" tvg-id="5f230e416b68ff00075b0139" tvg-logo="https://images.pluto.tv/channels/5f230e416b68ff00075b0139/colorLogoPNG.png" tvg-chno="542" group-title="CIENCIA Y CONOCIMIENTOS" , Misterios Medicos
 https://r.mjh.nz/PlutoTV/5f230e416b68ff00075b0139-alt.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 channel-id="pluto-6051201a0aa8a70007c24a2a" tvg-id="6051201a0aa8a70007c24a2a" tvg-logo="https://images.pluto.tv/channels/6051201a0aa8a70007c24a2a/colorLogoPNG-1618602700695.png" tvg-chno="4450" group-title="CIENCIA HISTORIA Y TECNOLOGIA" , Mundo geek
+#EXTINF:-1 channel-id="pluto-6051201a0aa8a70007c24a2a" tvg-id="6051201a0aa8a70007c24a2a" tvg-logo="https://images.pluto.tv/channels/6051201a0aa8a70007c24a2a/colorLogoPNG-1618602700695.png" tvg-chno="4450" group-title="CIENCIA Y CONOCIMIENTOS" , Mundo geek
 https://r.mjh.nz/PlutoTV/6051201a0aa8a70007c24a2a-alt.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/e6esjLZ.jpg" group-title="CIENCIA HISTORIA Y TECNOLOGIA",Tu Universo TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/e6esjLZ.jpg" group-title="CIENCIA Y CONOCIMIENTOS",Tu Universo TV
 https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/CBbbrkI.png" group-title="CIENCIA HISTORIA Y TECNOLOGIA",Hiperconectados TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/CBbbrkI.png" group-title="CIENCIA Y CONOCIMIENTOS",Hiperconectados TV
 https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/28-1.jpg" group-title="CIENCIA HISTORIA Y TECNOLOGIA",El Histonauta TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/28-1.jpg" group-title="CIENCIA Y CONOCIMIENTOS",El Histonauta TV
 https://stmv6.voxtvhd.com.br/elhistonautatv/elhistonautatv/chunklist_w1170607440.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://msinteractiva.com.ar/wp-content/uploads/2021/06/LOGO-2.png" group-title="CIENCIA HISTORIA Y TECNOLOGIA",TechScience 365
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://msinteractiva.com.ar/wp-content/uploads/2021/06/LOGO-2.png" group-title="CIENCIA Y CONOCIMIENTOS",TechScience 365
 https://stmv6.voxtvhd.com.br/techscience365/techscience365/chunklist_w806249283.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 channel-id="samsung-ESBA22000102A" tvg-id="ESBA22000102A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA22000102A_20231011T084706SQUARE.png_20231011084707.png" tvg-chno="4260" group-title="CIENCIA HISTORIA Y TECNOLOGIA" , Nature Time
+#EXTINF:-1 channel-id="samsung-ESBA22000102A" tvg-id="ESBA22000102A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA22000102A_20231011T084706SQUARE.png_20231011084707.png" tvg-chno="4260" group-title="CIENCIA Y CONOCIMIENTOS" , Nature Time
 https://i.mjh.nz/SamsungTVPlus/ESBA22000102A.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro Net" tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/29-1.jpg" group-title="CIENCIA HISTORIA Y TECNOLOGIA",Astro Net
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/29-1.jpg" group-title="CIENCIA Y CONOCIMIENTOS",Astro Net
 https://stmv6.voxtvhd.com.br/astronet/astronet/chunklist_w1435015522.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 channel-id="samsung-ESAJ4500021HQ" tvg-id="ESAJ4500021HQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500021HQ_20221214T044854SQUARE.png_20221214044855.png" tvg-chno="4229" group-title="CIENCIA HISTORIA Y TECNOLOGIA" , Rakuten Documentales
+#EXTINF:-1 channel-id="samsung-ESAJ4500021HQ" tvg-id="ESAJ4500021HQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500021HQ_20221214T044854SQUARE.png_20221214044855.png" tvg-chno="4229" group-title="CIENCIA Y CONOCIMIENTOS" , Rakuten Documentales
 https://i.mjh.nz/SamsungTVPlus/ESAJ4500021HQ.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 channel-id="samsung-ESBC4700002TD" tvg-id="ESBC4700002TD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700002TD_20240131T031146SQUARE.png_20240131031146.png" tvg-chno="4239" group-title="CIENCIA HISTORIA Y TECNOLOGIA" , Love the Planet
+#EXTINF:-1 channel-id="samsung-ESBC4700002TD" tvg-id="ESBC4700002TD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700002TD_20240131T031146SQUARE.png_20240131031146.png" tvg-chno="4239" group-title="CIENCIA Y CONOCIMIENTOS" , Love the Planet
 https://i.mjh.nz/SamsungTVPlus/ESBC4700002TD.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 channel-id="samsung-ESBC1700002IM" tvg-id="ESBC1700002IM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700002IM_20220511T011722SQUARE.png_20220511011723.png" tvg-chno="4402" group-title="CIENCIA HISTORIA Y TECNOLOGIA" , Televisión Consciente
+#EXTINF:-1 channel-id="samsung-ESBC1700002IM" tvg-id="ESBC1700002IM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700002IM_20220511T011722SQUARE.png_20220511011723.png" tvg-chno="4402" group-title="CIENCIA Y CONOCIMIENTOS" , Televisión Consciente
 https://i.mjh.nz/SamsungTVPlus/ESBC1700002IM.m3u8
 ***************************************************************
 ***************************************************************
@@ -913,7 +945,7 @@ https://vsrv2.az-streamingserver.com:3149/live/alegretvlive.m3u8
 #EXTINF:-1 tvg-id="Agenda56TV.do" tvg-logo="https://i.imgur.com/G7zIVB7.png" group-title="INTERNACIONAL",Agenda 56
 https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="AgendaAlDiaTV.co" tvg-name="Agenda Al Día TV" tvg-logo="https://i.imgur.com/JFEFVwV.jpg" group-title="INTERNACIONAL",Agenda Al Día TV
+#EXTINF:-1 tvg-id="AgendaAlDiaTV.co" tvg-logo="https://i.imgur.com/JFEFVwV.jpg" group-title="INTERNACIONAL",Agenda Al Día TV
 https://cp.panelchs.com:1936/8156/8156/playlist.m3u8
 ******************************************************************************************************************************
 #EXTINF:-1 tvg-id="ImagenUniversalTV.do" tvg-logo="https://i.imgur.com/DP6HmDV.png" group-title="INTERNACIONAL",Imagen Universal TV
@@ -975,8 +1007,8 @@ https://r.mjh.nz/PlutoTV/60c8b3ddaaf9d4000780066f-alt.m3u8
 **********************CANALES DE PRUEBAS***********************
 ***************************************************************
 ***************************************************************
-#EXTINF:-1 tvg-name="Pelicula prueba",Pelicula prueba
+#EXTINF:-1 tvg-name="Pelicula prueba" group-title="CANALES DE PRUEBAS",Pelicula prueba
 http://www.djnutte.com/movies/Puss%20in%20Boots%20The%20Last%20Wish.avi
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-name="Super Mario Bros. La pelicula",Super Mario Bros. La pelicula
+#EXTINF:-1 tvg-name="Super Mario Bros. La pelicula" group-title="CANALES DE PRUEBAS",Super Mario Bros. La pelicula
 https://archive.org/download/videotime-cine-latino/Super%20Mario%20Bros.%20La%20pelicula.mp4

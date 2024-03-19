@@ -50,7 +50,7 @@ http://181.78.105.146:2000/play/a03k/index.m3u8
 #EXTINF:-1 tvg-id="Nick.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16707_dark_360w_270h.png" group-title="CANALES PREMIUM",Nickelodeon
 http://138.59.177.34:8000/play/a06b/index.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="AdultSwin.mx" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3cd770b2-3e49-4672-99fb-8483b9dd9bf0/dfl6vww-9abbe0c7-379d-4866-ab13-cc1b01636b51.png/v1/fill/w_2230,h_358/adult_swim_logo__update___in_2023__by_seanscreations1_dfl6vww-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTU3IiwicGF0aCI6IlwvZlwvM2NkNzcwYjItM2U0OS00NjcyLTk5ZmItODQ4M2I5ZGQ5YmYwXC9kZmw2dnd3LTlhYmJlMGM3LTM3OWQtNDg2Ni1hYjEzLWNjMWIwMTYzNmI1MS5wbmciLCJ3aWR0aCI6Ijw9MzQ2NCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.wDNjcShWuuzs-yh8zYgz3mjk8LAOEFnmiSJj0APqrHY"  group-title="CANALES PREMIUM", Adult Swim
+#EXTINF:-1 tvg-id="AdultSwin.mx" tvg-logo="https://www.refinery29.com/images/10510352.jpg?format=webp&width=720&height=864&quality=85"  group-title="CANALES PREMIUM", Adult Swim
 http://138.59.177.34:8000/play/a029/index.m3u8
 ******************************************************************************************************************************
 #EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/1200px-Disney_Channel_logo.svg.png" group-title="CANALES PREMIUM",Disney Channel

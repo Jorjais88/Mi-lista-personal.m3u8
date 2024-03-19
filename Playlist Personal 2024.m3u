@@ -22,17 +22,14 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w66834442
 #EXTINF:-1 tvg-id="(no tvg-id)"  tvg-logo="https://neotvdigital.com.ar/imagenes/fb.png" group-title="CANALES PREMIUM",Neo TV 16.1
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://image.roku.com/developer_channels/prod/cff251a5a41e79a2fbe6677694a1c4671529324b0c2fc0259f18d88e729b3928.png" group-title="SERIES Y PELICULAS",TVS Retro
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://image.roku.com/developer_channels/prod/cff251a5a41e79a2fbe6677694a1c4671529324b0c2fc0259f18d88e729b3928.png" group-title="CANALES PREMIUM",TVS Retro
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://wiseplaylistasiptv.com/wp-content/uploads/2021/09/Captura-de-Pantalla-2021-09-08-a-las-13.04.46.png" group-title="SERIES Y PELICULAS",Retro Play TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://wiseplaylistasiptv.com/wp-content/uploads/2021/09/Captura-de-Pantalla-2021-09-08-a-las-13.04.46.png" group-title="CANALES PREMIUM",Retro Play TV
 https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
 ******************************************************************************************************************************
 #EXTINF:-1 channel-id="pluto-5fab09a8749b1a00077d35d2" tvg-id="5fab09a8749b1a00077d35d2" tvg-logo="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG-1662394157103.png" tvg-chno="1352" group-title="CANALES PREMIUM" , Nick Teen
 https://r.mjh.nz/PlutoTV/5fab09a8749b1a00077d35d2-alt.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 channel-id="pluto-5e8397936791b30007ebb5a7" tvg-id="5e8397936791b30007ebb5a7" tvg-logo="https://images.pluto.tv/channels/5e8397936791b30007ebb5a7/colorLogoPNG.png" tvg-chno="994" group-title="CANALES PREMIUM" , Pluto TV Humor
-https://r.mjh.nz/PlutoTV/5e8397936791b30007ebb5a7-alt.m3u8
 ******************************************************************************************************************************
 #EXTINF:-1 channel-id="pluto-645952687cb4b100084ed52e" tvg-id="645952687cb4b100084ed52e" tvg-logo="https://images.pluto.tv/channels/645952687cb4b100084ed52e/colorLogoPNG.png" tvg-chno="1455" group-title="CANALES PREMIUM" , Nickelodeon Pluto TV
 https://r.mjh.nz/PlutoTV/645952687cb4b100084ed52e-alt.m3u8
@@ -798,6 +795,9 @@ https://i.mjh.nz/SamsungTVPlus/ESBC1700004PX.m3u8
 #EXTINF:-1 channel-id="samsung-ESBD1500001SD" tvg-id="ESBD1500001SD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1500001SD_20240214T035656SQUARE.png_20240214035657.png" tvg-chno="4403" group-title="PROGRAMAS ESPECIALES" , Paisajes
 https://i.mjh.nz/SamsungTVPlus/ESBD1500001SD.m3u8
 ******************************************************************************************************************************
+#EXTINF:-1 channel-id="pluto-5e8397936791b30007ebb5a7" tvg-id="5e8397936791b30007ebb5a7" tvg-logo="https://images.pluto.tv/channels/5e8397936791b30007ebb5a7/colorLogoPNG.png" tvg-chno="994" group-title="PROGRAMAS ESPECIALES" , Pluto TV Humor
+https://r.mjh.nz/PlutoTV/5e8397936791b30007ebb5a7-alt.m3u8
+******************************************************************************************************************************
 #EXTINF:-1 tvg-id="ESports Max.ve" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="PROGRAMAS ESPECIALES",ESports Max
 http://vcpar.myplaytv.com/esportsmax/live/playlist_4.m3u8
 ******************************************************************************************************************************
@@ -1007,8 +1007,8 @@ https://r.mjh.nz/PlutoTV/60c8b3ddaaf9d4000780066f-alt.m3u8
 **********************CANALES DE PRUEBAS***********************
 ***************************************************************
 ***************************************************************
-#EXTINF:-1 tvg-name="Pelicula prueba" group-title="CANALES DE PRUEBAS",Pelicula prueba
+#EXTINF:-1 group-title="CANALES DE PRUEBAS" tvg-type="video",Pelicula prueba
 http://www.djnutte.com/movies/Puss%20in%20Boots%20The%20Last%20Wish.avi
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-name="Super Mario Bros. La pelicula" group-title="CANALES DE PRUEBAS",Super Mario Bros. La pelicula
+#EXTINF:-1 group-title="CANALES DE PRUEBAS" tvg-type="video",Super Mario Bros. La pelicula
 https://archive.org/download/videotime-cine-latino/Super%20Mario%20Bros.%20La%20pelicula.mp4

@@ -10,7 +10,7 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/4
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116154_dark_360w_270h.png" group-title="CANALES PREMIUM",Azteca 7
 http://181.78.105.146:2000/play/a08z/index.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/BitMe.svg/1629px-BitMe.svg.png" group-title="CANALES PREMIUM",BitMe
+#EXTINF:-1 tvg-id="bitMe.mx" tvg-logo="https://i.imgur.com/79hrcx8.png" group-title="CANALES PREMIUM",BitMe
 https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 ******************************************************************************************************************************
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://cdn.m3u.cl/logo/1300_Moni_TV.png" group-title="CANALES PREMIUM",Moni TV
@@ -27,6 +27,9 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 ******************************************************************************************************************************
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://image.roku.com/developer_channels/prod/cff251a5a41e79a2fbe6677694a1c4671529324b0c2fc0259f18d88e729b3928.png" group-title="CANALES PREMIUM",TVS Retro
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="CANALES PREMIUM",Canal 5
+https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 ******************************************************************************************************************************
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://wiseplaylistasiptv.com/wp-content/uploads/2021/09/Captura-de-Pantalla-2021-09-08-a-las-13.04.46.png" group-title="CANALES PREMIUM",Retro Play TV
 https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
@@ -76,6 +79,9 @@ http://138.59.177.34:8000/play/a033/index.m3u8
 #EXTINF:-1 tvg-id="AMC.ar" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="CANALES PREMIUM",AMC
 http://138.59.177.34:8000/play/a02m/index.m3u8
 ******************************************************************************************************************************
+#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/512px-CinecanalLA.png" group-title="CANALES PREMIUM",Cinecanal MX
+http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
+******************************************************************************************************************************
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" group-title="CANALES PREMIUM",Cinecanal HD
 http://138.59.177.34:8000/play/a05f/index.m3u8
 ******************************************************************************************************************************
@@ -90,6 +96,9 @@ http://181.78.105.146:2000/play/a01f/index.m3u8
 ******************************************************************************************************************************
 #EXTINF:-1 tvg-id="Space.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68021_dark_360w_270h.png" group-title="CANALES PREMIUM",Space HD
 http://138.59.177.34:8000/play/a06x/index.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="Space.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/512px-SpaceLogo.svg.png" group-title="CANALES PREMIUM",Space MX
+http://stream.flynetwifi.com:1935/live/mobile-003/playlist.m3u8
 ******************************************************************************************************************************
 #EXTINF:-1 tvg-id="Space.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png" group-title="CANALES PREMIUM",Space
 http://181.78.105.146:2000/play/a04x/index.m3u8
@@ -163,17 +172,26 @@ http://138.59.177.34:8000/play/a06m/index.m3u8
 #EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png" group-title="CANALES PREMIUM",Studio Universal HD
 http://138.59.177.34:8000/play/a02y/index.m3u8
 ******************************************************************************************************************************
+#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/512px-StudioUniversal2016.png" group-title="CANALES PREMIUM",Studio Universal MX
+http://stream.flynetwifi.com:1935/live/mobile-026/playlist.m3u8
+******************************************************************************************************************************
 #EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png" group-title="CANALES PREMIUM",Studio Universal
 http://138.59.177.34:8000/play/a06r/index.m3u8
 ******************************************************************************************************************************
 #EXTINF:-1 tvg-id="History.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="CANALES PREMIUM",History HD
 http://138.59.177.34:8000/play/a02s/index.m3u8
 ******************************************************************************************************************************
+#EXTINF:-1 tvg-id="History.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="CANALES PREMIUM",History
+http://stream.flynetwifi.com:1935/live/mobile-058/playlist.m3u8
+******************************************************************************************************************************
 #EXTINF:-1 tvg-id="History.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="CANALES PREMIUM",History
 http://181.78.105.146:2000/play/a017/index.m3u8
 ******************************************************************************************************************************
 #EXTINF:-1 tvg-id="History2.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80374_dark_360w_270h.png" group-title="CANALES PREMIUM",History 2 HD
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/154
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="History2.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="CANALES PREMIUM",History 2
+http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8
 ******************************************************************************************************************************
 #EXTINF:-1 tvg-id="History2.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80374_dark_360w_270h.png" group-title="CANALES PREMIUM",History 2
 http://181.78.105.146:2000/play/a00v/index.m3u8
@@ -198,6 +216,9 @@ http://138.59.177.34:8000/play/a02f/index.m3u8
 ******************************************************************************************************************************
 #EXTINF:-1 tvg-id="TNTSeries.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="CANALES PREMIUM",TNT Series HD
 http://138.59.177.34:8000/play/a076/index.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CANALES PREMIUM",TNT Series MX
+http://stream.flynetwifi.com:1935/live/mobile-046/playlist.m3u8
 ******************************************************************************************************************************
 #EXTINF:-1 tvg-id="TNTSeries.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="CANALES PREMIUM",TNT Series
 http://138.59.177.34:8000/play/a02d/index.m3u8
@@ -225,6 +246,12 @@ https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 ******************************************************************************************************************************
 #EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74016_dark_360w_270h.png" group-title="CANALES PREMIUM",De Película Plus
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="CANALES PREMIUM",Las Estrellas
+https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="TlnovelasMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="CANALES PREMIUM",Tlnovelas Mexico
+https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist.m3u8
 ***************************************************************
 ***************************************************************
 **********************CANALES DE BOLIVIA***********************
@@ -604,7 +631,7 @@ https://i.mjh.nz/SamsungTVPlus/ESBD80000288.m3u8
 #EXTINF:-1 channel-id="samsung-ESBD8000033W" tvg-id="ESBD8000033W" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD8000033W_20230913T030610SQUARE.png_20230913030611.png" tvg-chno="4977" group-title="PELICULAS" , Runtime Comedia
 https://i.mjh.nz/SamsungTVPlus/ESBD8000033W.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/site-logo.png" group-title="PELICULAS",MyTime Movie Network Mexico
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.mx" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="PELICULAS",MyTime Movie Network
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 ******************************************************************************************************************************
 #EXTINF:-1 tvg-id="samsung-ESBA2200004G5" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f6652061e12b0246ef228236f06fa5f1.webp" group-title="PELICULAS",MyTime movie network Spain
@@ -707,6 +734,9 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6018913ea15130002b28418f.m3u8
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6018913ea15130002b284195" tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b284195" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6576aebe-a538-473a-9f40-c8cea9fbeda8/FreeTVSaberM_s_Circle_1500x1000_-_Ralph_Campillo.png" group-title="SERIES Y PELICULAS" , FreeTV Saber Más
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6018913ea15130002b284195.m3u8
 ******************************************************************************************************************************
+#EXTINF:-1 tvg-id="ViXJajaja.mx" tvg-logo="https://i.imgur.com/UL1JtYb.png" group-title="SERIES Y PELICULAS",ViX Jajaja
+https://d1406h321fcaxw.cloudfront.net/dist/samsungtv/310/hls/master/playlist.m3u8
+******************************************************************************************************************************
 #EXTINF:-1 tvg-id="SanPedroTV.ar" tvg-logo="https://i.imgur.com/UkpXogr.png" group-title="SERIES Y PELICULAS",San Pedro TV
 https://iptv.ixfo.com.ar:30443/live/sanpedrotv/playlist.m3u8
 ******************************************************************************************************************************
@@ -790,6 +820,9 @@ https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 ******************************************************************************************************************************
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.ibb.co/vBj4w62/varied-tv-hd.jpg" group-title="SERIES Y PELICULAS",Varied TV
 https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="RetroPlus3.cl" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="SERIES Y PELICULAS",Retro Plus 3
+https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
 ***************************************************************
 ***************************************************************
 ***************CANALES DE PROGRAMAS ESPECIALES*****************
@@ -815,6 +848,9 @@ https://r.mjh.nz/PlutoTV/5ff3934600d4c7000733ff49-alt.m3u8
 ******************************************************************************************************************************
 #EXTINF:-1 tvg-id="GOGOPLAY TV HD" tvg-logo="https://i.postimg.cc/dVfPMD5s/gogoplay-Bol-Fhd12.jpg" group-title="PROGRAMAS ESPECIALES",Gogoplay TV
 https://rpn3.bozztv.com/ssh101/ssh101/gogoplay/chunks.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="CanalOchoTV.mx" tvg-logo="https://i.ibb.co/YND5HXD/Captura.png" group-title="PROGRAMAS ESPECIALES",Canal Ocho TV
+https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8
 ******************************************************************************************************************************
 #EXTINF:-1 tvg-id="VCOnline.cl" tvg-logo="https://i.ibb.co/5MtX4sV/VC-MUSIC-CRISTIANA.jpg" group-title="PROGRAMAS ESPECIALES",VC Musica Cristiana
 https://panel.tvstream.cl:1936/8024/8024/chunklist_w840122950.m3u8
@@ -935,6 +971,9 @@ https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 ********************CANALES INTERNACIONALES********************
 ***************************************************************
 ***************************************************************
+#EXTINF:-1 tvg-id="MultiPremier.mx" tvg-logo="https://i.imgur.com/H3PzGZW.png" group-title="CANALES INTERNACIONALES",MultiPremier
+http://stream.flynetwifi.com:1935/live/mobile-021/playlist.m3u8
+******************************************************************************************************************************
 #EXTINF:-1 tvg-id="ORBITTV.do" tvg-logo="https://i.imgur.com/lizQs3n.png" group-title="CANALES INTERNACIONALES",ORBIT TV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 ******************************************************************************************************************************
@@ -955,6 +994,19 @@ https://inliveserver.com:1936/11516/11516/chunklist_w2034884370.m3u8
 ******************************************************************************************************************************
 #EXTINF:-1 tvg-id="CosmosTV.ar" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="CANALES INTERNACIONALES",Cosmos TV
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="CANALES INTERNACIONALES",Azteca Internacional
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="ElNu9ve.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nueve_%282018_logo%29.png/512px-Nueve_%282018_logo%29.png" group-title="CANALES INTERNACIONALES",El Nu9ve
+https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
+*****************************************************************************************************************************
+#EXTINF:-1 tvg-id="GikTVMX.mx" tvg-logo="https://i.imgur.com/Gwz78jZ.png" group-title="CANALES INTERNACIONALES",GikTVMX
+#EXTVLCOPT:http-referrer=https://giktvmx.g3radio.mx
+https://pistream.ddns.net/hls/stream.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="Bandamax.mx" tvg-logo="https://i.imgur.com/4DfnOTA.png" group-title="CANALES INTERNACIONALES",Bandamax
+https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
 ******************************************************************************************************************************
 #EXTINF:-1 tvg-id="CosmosTV.cl" tvg-logo="https://i2.paste.pics/ed2fce1f9fe98a5c7dec95777c201497.png" group-title="CANALES INTERNACIONALES",Cosmos TV
 https://v1.tustreaming.cl/cosmostv/index.m3u8
@@ -988,6 +1040,24 @@ https://tvlive.servicioselbachi.com:3686/hybrid/play.m3u8
 ******************************************************************************************************************************
 #EXTINF:-1 tvg-id="CanalMasTelevision.co" tvg-logo="https://i.imgur.com/ODMa27W.jpg" group-title="CANALES INTERNACIONALES",Canal Mas Television
 https://movil.ejeserver.com/live/teledoradahd.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="TVCuatro41.mx" tvg-logo="https://i.imgur.com/Of044Jx.png" group-title="CANALES INTERNACIONALES",TV Cuatro 4.1
+https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="TVCuatro42.mx" tvg-logo="https://i.imgur.com/Of044Jx.png" group-title="CANALES INTERNACIONALES",TV Cuatro 4.2
+https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="TVLobo.mx" tvg-logo="https://i.imgur.com/q9p1Spj.png" group-title="CANALES INTERNACIONALES",TV Lobo
+https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="TVMarLaPaz.mx" tvg-logo="https://i.imgur.com/z9iVlMn.png" group-title="CANALES INTERNACIONALES",TV Mar La Paz
+https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="TVMarPuertoVallarta.mx" tvg-logo="https://i.imgur.com/z9iVlMn.png" group-title="CANALES INTERNACIONALES",TV Mar Puerto Vallarta
+https://5ca3e84a76d30.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://i.imgur.com/RlZfR84.png" group-title="CANALES INTERNACIONALES",Mega
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 ***************************************************************
 ***************************************************************
 **********************CANALES MUSICALES************************

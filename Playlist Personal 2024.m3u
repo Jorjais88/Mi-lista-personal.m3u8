@@ -79,14 +79,11 @@ http://138.59.177.34:8000/play/a033/index.m3u8
 #EXTINF:-1 tvg-id="AMC.ar" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="CANALES PREMIUM",AMC
 http://138.59.177.34:8000/play/a02m/index.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/512px-CinecanalLA.png" group-title="CANALES PREMIUM",Cinecanal MX
-http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
-******************************************************************************************************************************
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" group-title="CANALES PREMIUM",Cinecanal HD
 http://138.59.177.34:8000/play/a05f/index.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" group-title="CANALES PREMIUM",Cinecanal
-http://138.59.177.34:8000/play/a06s/index.m3u8
+#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" group-title="CANALES PREMIUM",Cinecanal MX
+http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
 ******************************************************************************************************************************
 #EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16213_dark_360w_270h.png" group-title="CANALES PREMIUM",Warner TV HD
 http://138.59.177.34:8000/play/a05d/index.m3u8
@@ -169,29 +166,20 @@ http://138.59.177.34:8000/play/a06m/index.m3u8
 #EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png" group-title="CANALES PREMIUM",Studio Universal HD
 http://138.59.177.34:8000/play/a02y/index.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/512px-StudioUniversal2016.png" group-title="CANALES PREMIUM",Studio Universal MX
+#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png" group-title="CANALES PREMIUM",Studio Universal MX
 http://stream.flynetwifi.com:1935/live/mobile-026/playlist.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png" group-title="CANALES PREMIUM",Studio Universal
-http://138.59.177.34:8000/play/a06r/index.m3u8
 ******************************************************************************************************************************
 #EXTINF:-1 tvg-id="History.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="CANALES PREMIUM",History HD
 http://138.59.177.34:8000/play/a02s/index.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="History.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="CANALES PREMIUM",History
-http://stream.flynetwifi.com:1935/live/mobile-058/playlist.m3u8
-******************************************************************************************************************************
 #EXTINF:-1 tvg-id="History.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="CANALES PREMIUM",History MX
-http://181.78.105.146:2000/play/a017/index.m3u8
+http://stream.flynetwifi.com:1935/live/mobile-058/playlist.m3u8
 ******************************************************************************************************************************
 #EXTINF:-1 tvg-id="History2.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80374_dark_360w_270h.png" group-title="CANALES PREMIUM",History 2 HD
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/154
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="History2.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="CANALES PREMIUM",History 2
-http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8
-******************************************************************************************************************************
 #EXTINF:-1 tvg-id="History2.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80374_dark_360w_270h.png" group-title="CANALES PREMIUM",History 2 MX
-http://181.78.105.146:2000/play/a00v/index.m3u8
+http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8
 ******************************************************************************************************************************
 #EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18649_dark_360w_270h.png" group-title="CANALES PREMIUM",Animal Planet HD
 http://138.59.177.34:8000/play/a02z/index.m3u8

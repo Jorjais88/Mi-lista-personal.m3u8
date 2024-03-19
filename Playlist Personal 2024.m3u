@@ -403,7 +403,7 @@ https://r.mjh.nz/PlutoTV/609ae5cd48d3200007b0a98e-alt.m3u8
 #EXTINF:-1 channel-id="pluto-620ff0a01f9e8700076c6f9d" tvg-id="620ff0a01f9e8700076c6f9d" tvg-logo="https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png" tvg-chno="1360" group-title="24/7" , Nickelodeon iCarly
 https://r.mjh.nz/PlutoTV/620ff0a01f9e8700076c6f9d-alt.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 channel-id="pluto-6511a5d8d1f20c000864b951" tvg-id="6511a5d8d1f20c000864b951" tvg-logo="https://images.pluto.tv/channels/6511a5d8d1f20c000864b951/colorLogoPNG.png" tvg-chno="917" group-title="Spain" , Victorious
+#EXTINF:-1 channel-id="pluto-6511a5d8d1f20c000864b951" tvg-id="6511a5d8d1f20c000864b951" tvg-logo="https://images.pluto.tv/channels/6511a5d8d1f20c000864b951/colorLogoPNG.png" tvg-chno="917" group-title="24-7" , Victorious
 https://r.mjh.nz/PlutoTV/6511a5d8d1f20c000864b951-alt.m3u8
 ******************************************************************************************************************************
 #EXTINF:-1 channel-id="pluto-6254598f5083f800076d8563" tvg-id="6254598f5083f800076d8563" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png" tvg-chno="1460" group-title="24/7" , Bob Esponja Pantalones Cuadrados
@@ -554,13 +554,13 @@ https://i.mjh.nz/SamsungTVPlus/ESAJ4500019AM.m3u8
 #EXTINF:-1 tvg-id="samsung-ESBC2700005EE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700005EE_20221012T021024SQUARE.png_20221012021024.png" group-title="PELICULAS",Rakuten Peliculas Top
 https://i.mjh.nz/SamsungTVPlus/ESBC2700005EE.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 channel-id="samsung-ESBC2700010F6" tvg-id="ESBC2700010F6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700010F6_20230619T082509SQUARE.png_20230619082509.png" tvg-chno="4162" group-title="Spain" , Crimen - Rakuten TV
+#EXTINF:-1 channel-id="samsung-ESBC2700010F6" tvg-id="ESBC2700010F6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700010F6_20230619T082509SQUARE.png_20230619082509.png" tvg-chno="4162" group-title="PELICULAS" ,Rakuten TV Crimen 
 https://i.mjh.nz/SamsungTVPlus/ESBC2700010F6.m3u8
 ******************************************************************************************************************************
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-656236cc5dbccec83a87b647" tvg-id="608049aefa2b8ae93c2c3a63-656236cc5dbccec83a87b647" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1a6d3a8f-26ee-4968-b0b5-845a0a2e8f78/FilmRise_Andromeda_Color_Logo.png" group-title="PELICULAS" , Andromeda
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-656236cc5dbccec83a87b647.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64e6e2f04a5e9b4cedc6d52b" tvg-id="5e20b730f2f8d5003d739db7-64e6e2f04a5e9b4cedc6d52b" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a41fd21e-3ffc-481a-b12a-ba5df241299f/Cine_de_horror_logo_1500x1000px_white.png" group-title="PELICULASA" , Cine de Horror
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64e6e2f04a5e9b4cedc6d52b" tvg-id="5e20b730f2f8d5003d739db7-64e6e2f04a5e9b4cedc6d52b" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a41fd21e-3ffc-481a-b12a-ba5df241299f/Cine_de_horror_logo_1500x1000px_white.png" group-title="PELICULAS" , Cine de Horror
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64e6e2f04a5e9b4cedc6d52b.m3u8
 ******************************************************************************************************************************
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64f0dad7c2bc9b9001d46ea8" tvg-id="5e20b730f2f8d5003d739db7-64f0dad7c2bc9b9001d46ea8" tvg-logo="https://provider-static.plex.tv/epg/cms/production/16c58af9-70f4-4d31-a176-f0c592639587/Butaca_Tv_pack_1500X1000_RDX.png" group-title="PELICULAS" , Butaca TV
@@ -590,7 +590,7 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5f47b0b87cb6a400422f9146.m3u8
 #EXTINF:-1 channel-id="pluto-62c5d80dc6de440007e033eb" tvg-id="62c5d80dc6de440007e033eb" tvg-logo="https://images.pluto.tv/channels/62c5d80dc6de440007e033eb/colorLogoPNG.png" tvg-chno="57" group-title="PELICULAS" , Runtime MX
 https://r.mjh.nz/PlutoTV/62c5d80dc6de440007e033eb-alt.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 channel-id="pluto-6086d3f420fc8500075f8dbf" tvg-id="6086d3f420fc8500075f8dbf" tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" tvg-chno="214" group-title="PELICULASn" , Runtime ES
+#EXTINF:-1 channel-id="pluto-6086d3f420fc8500075f8dbf" tvg-id="6086d3f420fc8500075f8dbf" tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" tvg-chno="214" group-title="PELICULAS" , Runtime ES
 https://r.mjh.nz/PlutoTV/6086d3f420fc8500075f8dbf-alt.m3u8
 ******************************************************************************************************************************
 #EXTINF:-1 channel-id="samsung-ESBD80000288" tvg-id="ESBD80000288" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD80000288_20240117T032726SQUARE.png_20240117032726.png" tvg-chno="4976" group-title="PELICULAS" , Runtime Acción
@@ -975,5 +975,8 @@ https://r.mjh.nz/PlutoTV/60c8b3ddaaf9d4000780066f-alt.m3u8
 **********************CANALES DE PRUEBAS***********************
 ***************************************************************
 ***************************************************************
-#EXTINF:-1,Pelicula prueba
+#EXTINF:-1 tvg-name="Pelicula prueba",Pelicula prueba
 http://www.djnutte.com/movies/Puss%20in%20Boots%20The%20Last%20Wish.avi
+******************************************************************************************************************************
+#EXTINF:-1 tvg-name="Super Mario Bros. La pelicula",Super Mario Bros. La pelicula
+https://archive.org/download/videotime-cine-latino/Super%20Mario%20Bros.%20La%20pelicula.mp4

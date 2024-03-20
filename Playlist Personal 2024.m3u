@@ -90,7 +90,7 @@ http://181.78.13.202:1010/play/a05q/index.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76326_dark_360w_270h.png" group-title="CANALES PREMIUM",Comedy Central
 http://181.78.105.146:2000/play/a04a/index.m3u8
 #EXTINF:-1 tvg-id="UniversalTV.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s53218_dark_360w_270h.png" group-title="CANALES PREMIUM",Universal
-http://181.78.105.146:2000/play/a03d/index.m3u8
+http://181.78.13.202:1010/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="CANALES PREMIUM",National Geographic
 http://181.78.105.146:2000/play/a01l/index.m3u8
 #EXTINF:-1 tvg-id="GoldenMultiplex.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50709_dark_360w_270h.png" group-title="CANALES PREMIUM",Golden

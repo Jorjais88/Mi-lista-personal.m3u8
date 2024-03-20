@@ -719,59 +719,8 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6018913ea15130002b284195.m3u8
 #EXTINF:-1 tvg-id="ViXJajaja.mx" tvg-logo="https://i.imgur.com/UL1JtYb.png" group-title="SERIES Y PELICULAS",ViX Jajaja
 https://d1406h321fcaxw.cloudfront.net/dist/samsungtv/310/hls/master/playlist.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="SanPedroTV.ar" tvg-logo="https://i.imgur.com/UkpXogr.png" group-title="SERIES Y PELICULAS",San Pedro TV
-https://iptv.ixfo.com.ar:30443/live/sanpedrotv/playlist.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="MetroTV.ar" tvg-logo="https://i.imgur.com/7f7M7zl.png" group-title="SERIES Y PELICULAS",Metro TV
-https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="(no tvg-id)"  tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/Canal-13-Mexico-en-vivo-Online.png" group-title="SERIES Y PELICULAS",Canal 13 Tabasco
-https://alba-mx-c13mexico-c13tabasco.stream.mediatiquestream.com/tracks-v1a1/mono.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="Canal17TVNosara.cr" tvg-logo="https://i.imgur.com/pqMTMgF.jpg" group-title="SERIES Y PELICULAS",Canal 17 TV Nosara
-https://stmv.streamingvip.click/tvnosara2/tvnosara2/playlist.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="(no tvg-id)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/TCS_2_2016.png/640px-TCS_2_2016.png" group-title="SERIES Y PELICULAS",Canal 2 TCS
-https://secure-video.tcsgo.com/tcshd/index720p30360p30_20200822T210827.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="CotubanamaTV.do" tvg-logo="https://i.imgur.com/D6gAezp.png" group-title="SERIES Y PELICULAS",Cotubanama TV
-https://streamingnation.live:3932/live/cotubanamatelevisionlive.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="Canal45.es" tvg-logo="https://i.imgur.com/yEfSnGt.png" group-title="SERIES Y PELICULAS",Canal 45
-https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="Canal7Salta.ar" tvg-logo="https://i.imgur.com/CudG6sl.png" group-title="SERIES Y PELICULAS",Canal 7 Salta
-https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="CincoTV.ar" tvg-logo="https://i.imgur.com/p9aaBKg.png"  group-title="SERIES Y PELICULAS",Cinco TV
-https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="Canal74SanAntonio.cl" tvg-logo="https://i.imgur.com/WRYsbjX.png" group-title="SERIES Y PELICULAS",Canal 74 San Antonio
-https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="ACSNetwork.pr" tvg-logo="https://i.imgur.com/7aIab2r.png" group-title="SERIES Y PELICULAS",Canal ACS Network
-https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w81738509.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://latinartv.com/sites/default/files/logos/nexthd.jpg" group-title="SERIES Y PELICULAS",Next HD
-https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="TuKanal.co" tvg-logo="https://i.imgur.com/GJthQOa.png"  group-title="SERIES Y PELICULAS",Tu Kanal
-http://45.33.63.98/hls/abdi.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="UniversTV.es" tvg-logo="https://i.imgur.com/EW2bfix.png" group-title="SERIES Y PELICULAS",Univers TV
-https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
-******************************************************************************************************************************
 #EXTINF:-1 tvg-id="UCVTV.cl" tvg-logo="https://i.postimg.cc/jjGpZf4T/UCV-Logo.png"group-title="SERIES Y PELICULAS",UCV Television
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="MultivisionCanal3.gt" tvg-logo="https://i.imgur.com/6bdj2BV.jpg" group-title="SERIES Y PELICULAS",Multivision Canal 3
-https://stream.digitalgt.com:3136/live/multivisionlive.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="MultivisionFederal.ar" tvg-logo="https://i.imgur.com/jX0lqy3.png" group-title="SERIES Y PELICULAS",Multivision Federal
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="Contivision.cl" tvg-logo="https://i.imgur.com/Lz2OlKf.png" group-title="SERIES Y PELICULAS",Contivision
-https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
 ******************************************************************************************************************************
 #EXTINF:-1 tvg-id="RetroxTV.cr" tvg-logo="https://i.imgur.com/viJBL6f.png" group-title="SERIES Y PELICULAS",Retrox TV
 https://rpn3.bozztv.com/ssh101/ssh101/retroxtvhd/playlist.m3u8
@@ -922,6 +871,9 @@ https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="ExtremaTV.us" tvg-logo="https://i.imgur.com/Z1QVkqu.png" group-title="RELIGIOSOS",Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 ******************************************************************************************************************************
+#EXTINF:-1 tvg-id="SanPedroTV.ar" tvg-logo="https://i.imgur.com/UkpXogr.png" group-title="RELIGIOSOS",San Pedro TV
+https://iptv.ixfo.com.ar:30443/live/sanpedrotv/playlist.m3u8
+******************************************************************************************************************************
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/3ABN-Latino-en-directo-Online.png" group-title="RELIGIOSOS",3ABN Latino
 https://3abn-live.akamaized.net/hls/live/2010547/Latino/SQs/chunklist.m3u8
 ******************************************************************************************************************************
@@ -953,6 +905,54 @@ https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 ********************CANALES INTERNACIONALES********************
 ***************************************************************
 ***************************************************************
+#EXTINF:-1 tvg-id="Contivision.cl" tvg-logo="https://i.imgur.com/Lz2OlKf.png" group-title="CANALES INTERNACIONALES",Contivision
+https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="MultivisionCanal3.gt" tvg-logo="https://i.imgur.com/6bdj2BV.jpg" group-title="CANALES INTERNACIONALES",Multivision Canal 3
+https://stream.digitalgt.com:3136/live/multivisionlive.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="MultivisionFederal.ar" tvg-logo="https://i.imgur.com/jX0lqy3.png" group-title="CANALES INTERNACIONALES",Multivision Federal
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="UniversTV.es" tvg-logo="https://i.imgur.com/EW2bfix.png" group-title="CANALES INTERNACIONALES",Univers TV
+https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="TuKanal.co" tvg-logo="https://i.imgur.com/GJthQOa.png"  group-title="CANALES INTERNACIONALES",Tu Kanal
+http://45.33.63.98/hls/abdi.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://latinartv.com/sites/default/files/logos/nexthd.jpg" group-title="CANALES INTERNACIONALES",Next HD
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="ACSNetwork.pr" tvg-logo="https://i.imgur.com/7aIab2r.png" group-title="CANALES INTERNACIONALES",Canal ACS Network
+https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w81738509.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="Canal74SanAntonio.cl" tvg-logo="https://i.imgur.com/WRYsbjX.png" group-title="CANALES INTERNACIONALES",Canal 74 San Antonio
+https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="CincoTV.ar" tvg-logo="https://i.imgur.com/p9aaBKg.png"  group-title="CANALES INTERNACIONALES",Cinco TV
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="Canal7Salta.ar" tvg-logo="https://i.imgur.com/CudG6sl.png" group-title="CANALES INTERNACIONALES",Canal 7 Salta
+https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="Canal45.es" tvg-logo="https://i.imgur.com/yEfSnGt.png" group-title="CANALES INTERNACIONALES",Canal 45
+https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="CotubanamaTV.do" tvg-logo="https://i.imgur.com/D6gAezp.png" group-title="CANALES INTERNACIONALES",Cotubanama TV
+https://streamingnation.live:3932/live/cotubanamatelevisionlive.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="(no tvg-id)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/TCS_2_2016.png/640px-TCS_2_2016.png" group-title="CANALES INTERNACIONALES",Canal 2 TCS
+https://secure-video.tcsgo.com/tcshd/index720p30360p30_20200822T210827.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="Canal17TVNosara.cr" tvg-logo="https://i.imgur.com/pqMTMgF.jpg" group-title="CANALES INTERNACIONALES",Canal 17 TV Nosara
+https://stmv.streamingvip.click/tvnosara2/tvnosara2/playlist.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="(no tvg-id)"  tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/Canal-13-Mexico-en-vivo-Online.png" group-title="CANALES INTERNACIONALES",Canal 13 Tabasco
+https://alba-mx-c13mexico-c13tabasco.stream.mediatiquestream.com/tracks-v1a1/mono.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="MetroTV.ar" tvg-logo="https://i.imgur.com/7f7M7zl.png" group-title="CANALES INTERNACIONALES",Metro TV
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+******************************************************************************************************************************
 #EXTINF:-1 tvg-id="MultiPremier.mx" tvg-logo="https://i.imgur.com/H3PzGZW.png" group-title="CANALES INTERNACIONALES",MultiPremier
 http://stream.flynetwifi.com:1935/live/mobile-021/playlist.m3u8
 ******************************************************************************************************************************

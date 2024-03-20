@@ -780,12 +780,6 @@ https://r.mjh.nz/PlutoTV/5ff3934600d4c7000733ff49-alt.m3u8
 #EXTINF:-1 tvg-id="GOGOPLAY TV HD" tvg-logo="https://i.postimg.cc/dVfPMD5s/gogoplay-Bol-Fhd12.jpg" group-title="PROGRAMAS ESPECIALES",Gogoplay TV
 https://rpn3.bozztv.com/ssh101/ssh101/gogoplay/chunks.m3u8
 ******************************************************************************************************************************
-#EXTINF:-1 tvg-id="CanalOchoTV.mx" tvg-logo="https://i.ibb.co/YND5HXD/Captura.png" group-title="PROGRAMAS ESPECIALES",Canal Ocho TV
-https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8
-******************************************************************************************************************************
-#EXTINF:-1 tvg-id="VCOnline.cl" tvg-logo="https://i.ibb.co/5MtX4sV/VC-MUSIC-CRISTIANA.jpg" group-title="PROGRAMAS ESPECIALES",VC Musica Cristiana
-https://panel.tvstream.cl:1936/8024/8024/chunklist_w840122950.m3u8
-******************************************************************************************************************************
 #EXTINF:-1 channel-id="samsung-ESBC2700008SK" tvg-id="ESBC2700008SK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700008SK_20230426T015711SQUARE.png_20230426015712.png" tvg-chno="4136" group-title="PROGRAMAS ESPECIALES" , Just For Laughs
 https://i.mjh.nz/SamsungTVPlus/ESBC2700008SK.m3u8
 ******************************************************************************************************************************
@@ -868,8 +862,6 @@ https://627bb251f23c7.streamlock.net:444/AlientoSD/AlientoSD/chunklist_w56974963
 ******************************************************************************************************************************
 #EXTINF:-1 tvg-id="ExtremaTV.cr" tvg-logo="https://i.imgur.com/E9AuhOU.png" group-title="RELIGIOSOS",Extrema TV
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 tvg-id="ExtremaTV.us" tvg-logo="https://i.imgur.com/Z1QVkqu.png" group-title="RELIGIOSOS",Extrema TV
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 ******************************************************************************************************************************
 #EXTINF:-1 tvg-id="SanPedroTV.ar" tvg-logo="https://i.imgur.com/UkpXogr.png" group-title="RELIGIOSOS",San Pedro TV
 https://iptv.ixfo.com.ar:30443/live/sanpedrotv/playlist.m3u8
@@ -1045,6 +1037,12 @@ https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 **********************CANALES MUSICALES************************
 ***************************************************************
 ***************************************************************
+#EXTINF:-1 tvg-id="VCOnline.cl" tvg-logo="https://i.ibb.co/5MtX4sV/VC-MUSIC-CRISTIANA.jpg" group-title="MUSICALES",VC Musica Cristiana
+https://panel.tvstream.cl:1936/8024/8024/chunklist_w840122950.m3u8
+******************************************************************************************************************************
+#EXTINF:-1 tvg-id="CanalOchoTV.mx" tvg-logo="https://i.ibb.co/YND5HXD/Captura.png" group-title="MUSICALES",Canal Ocho TV
+https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8
+******************************************************************************************************************************
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/tupopfavorito-16-9_0.jpg" group-title="MUSICALES",Tu Pop favorito
 https://stream.ads.ottera.tv/cl/240306cnkg4stetd0m82dpfojg/1280x720_1400000_1_f.m3u8?i=475_1086
 ******************************************************************************************************************************

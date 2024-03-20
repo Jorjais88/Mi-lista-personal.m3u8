@@ -3,6 +3,8 @@
 http://181.78.105.146:2000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="bitMe.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72801_dark_360w_270h.png" group-title="CANALES PREMIUM",BitMe
 https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/z780GyN.png" group-title="CANALES PREMIUM",AnimeStation
+https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://cdn.m3u.cl/logo/1300_Moni_TV.png" group-title="CANALES PREMIUM",Moni TV
 https://stream.skarnetchile.com:3817/live/monitvlive.m3u8
 #EXTINF:-1 tvg-id="PlanetaTV.pe" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="CANALES PREMIUM",Planeta TV
@@ -25,22 +27,44 @@ https://r.mjh.nz/PlutoTV/645952687cb4b100084ed52e-alt.m3u8
 https://r.mjh.nz/PlutoTV/62fa81ccd1a7e90007c1ada0-alt.m3u8
 #EXTINF:-1 channel-id="samsung-USBD7000017L" tvg-id="samsung-USBD7000017L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD7000017L_20230523T230719SQUARE.png_20230523230720.png" tvg-chno="1253" group-title="CANALES PREMIUM" , AMC Samsung TV Plus
 https://i.mjh.nz/SamsungTVPlus/USBD7000017L.m3u8
+#EXTINF:-1 tvg-id="hbo.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="CANALES PREMIUM",HBO
+http://181.78.13.202:1010/play/a01a/index.m3u8
+#EXTINF:-1 tvg-id="HBO2.mx"  tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="CANALES PREMIUM",HBO2
+http://181.78.13.202:1010/play/a01g/index.m3u8
+#EXTINF:-1 tvg-id="HBOFamily.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="CANALES PREMIUM",HBO Family
+http://181.78.13.202:1010/play/a020/index.m3u8
+#EXTINF:-1 tvg-id="HBOPlus.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="CANALES PREMIUM",HBO Plus
+http://138.59.177.34:8000/play/a01o/index.m3u8
+#EXTINF:-1 tvg-id="HBOSignature.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80120_dark_360w_270h.png" group-title="CANALES PREMIUM",HBO Signature
+http://181.78.13.202:1010/play/a06j/index.m3u8
 #EXTINF:-1 tvg-id="TNT.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="CANALES PREMIUM",TNT
 http://181.78.105.146:2000/play/a018/index.m3u8
+#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16213_dark_360w_270h.png" group-title="CANALES PREMIUM" audio-track="spa",Warner TV HD
+http://181.78.13.202:1010/play/a092/index.m3u8
 #EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16213_dark_360w_270h.png" group-title="CANALES PREMIUM" audio-track="spa",Warner TV
 http://181.78.105.146:2000/play/a01f/index.m3u8
 #EXTINF:-1 tvg-id="FX.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46442_dark_360w_270h.png" group-title="CANALES PREMIUM",FX
-http://181.78.105.146:2000/play/a05z/index.m3u8
+http://181.78.13.202:1010/play/a011/index.m3u8
+#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" group-title="CANALES PREMIUM",Cinecanal HD
+http://181.78.13.202:1010/play/a017/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" group-title="CANALES PREMIUM",Cinecanal MX
 http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
 #EXTINF:-1 tvg-id="Space.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/512px-SpaceLogo.svg.png" group-title="CANALES PREMIUM",Space MX
 http://stream.flynetwifi.com:1935/live/mobile-003/playlist.m3u8
+#EXTINF:-1 tvg-id="AMC.ar" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="CANALES PREMIUM",AMC
+http://181.78.13.202:1010/play/a018/index.m3u8
 #EXTINF:-1 tvg-id="CanalSony.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19385_dark_360w_270h.png" group-title="CANALES PREMIUM",Canal Sony
 http://181.78.105.146:2000/play/a002/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59562_dark_360w_270h.png" group-title="CANALES PREMIUM",Cartoon Network HD
+http://181.78.13.202:1010/play/a03d/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59562_dark_360w_270h.png" group-title="CANALES PREMIUM",Cartoon Network
 http://181.78.105.146:2000/play/a03k/index.m3u8
 #EXTINF:-1 tvg-id="Nick.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16707_dark_360w_270h.png" group-title="CANALES PREMIUM",Nickelodeon
 http://181.78.105.146:2000/play/a014/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/1200px-Disney_Channel_logo.svg.png" group-title="CANALES PREMIUM",Disney Channel
+http://181.78.13.202:1010/play/a00m/index.m3u8
+#EXTINF:-1 tvg-id="AdultSwim.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16496_dark_360w_270h.png"  group-title="CANALES PREMIUM", Adult Swim
+http://131.161.53.2:8000/play/a029/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="CANALES PREMIUM",Home & Health
 http://181.78.105.146:2000/play/a03g/index.m3u8
 #EXTINF:-1 tvg-id="EEntertainmentTV.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30259_dark_360w_270h.png" group-title="CANALES PREMIUM",E!
@@ -49,6 +73,8 @@ http://181.78.105.146:2000/play/a03i/index.m3u8
 https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png" group-title="CANALES PREMIUM",Studio Universal MX
 http://stream.flynetwifi.com:1935/live/mobile-026/playlist.m3u8
+#EXTINF:-1 tvg-id="History.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="CANALES PREMIUM",History HD
+http://181.78.13.202:1010/play/a090/index.m3u8
 #EXTINF:-1 tvg-id="History.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="CANALES PREMIUM",History MX
 http://stream.flynetwifi.com:1935/live/mobile-058/playlist.m3u8
 #EXTINF:-1 tvg-id="History2.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80374_dark_360w_270h.png" group-title="CANALES PREMIUM",History 2 MX
@@ -58,7 +84,9 @@ http://stream.flynetwifi.com:1935/live/mobile-046/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalSony.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="CANALES PREMIUM",Sony Channel
 http://stream.flynetwifi.com:1935/live/mobile-035/playlist.m3u8
 #EXTINF:-1 tvg-id="a&e.mx" tvg-logo="https://w7.pngwing.com/pngs/226/921/png-transparent-a-e-networks-television-channel-logo-germany-miscellaneous-television-blue.png" group-title="CANALES PREMIUM",A&E
-http://181.78.105.146:2000/play/a03f/index.m3u8
+http://181.78.13.202:1010/play/a091/index.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76326_dark_360w_270h.png" group-title="CANALES PREMIUM",Comedy Central HD
+http://181.78.13.202:1010/play/a05q/index.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76326_dark_360w_270h.png" group-title="CANALES PREMIUM",Comedy Central
 http://181.78.105.146:2000/play/a04a/index.m3u8
 #EXTINF:-1 tvg-id="UniversalTV.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s53218_dark_360w_270h.png" group-title="CANALES PREMIUM",Universal
